@@ -1,7 +1,10 @@
 # LTK
-some configs may be used.
+some configs may be useful.
 # How to View
 click `RAW` at the file
-input
+
+open
 https://countwordsfree.com/jsonviewer
 and view
+
+Enjoy~
