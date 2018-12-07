@@ -1,0 +1,4798 @@
+{
+    "configName": "GeneralStoryConfig_json",
+    "storyDic": {
+        "_count": 1,
+        "_maps": {
+            "1": {
+                "StoryID": 1,
+                "StoryName": "黄巾之乱",
+                "StoryStartTimeStr": "2018-01-01 00:00:00",
+                "StoryEndTimeStr": "2100-06-01 23:59:59",
+                "RewardTaskID": 1901
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "storyGeneralDic": {
+        "_count": 8,
+        "_maps": {
+            "10001": {
+                "StoryGeneralID": 10001,
+                "StoryID": 1,
+                "GeneralID": 1,
+                "GeneralResource": 400010,
+                "GeneralX": 104,
+                "GeneralY": 189,
+                "GeneralWidth": 257,
+                "GeneralHight": 352,
+                "GeneralIndex": 1,
+                "isUnlock": true,
+                "FrontStoryGeneralID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ]
+            },
+            "10002": {
+                "StoryGeneralID": 10002,
+                "StoryID": 1,
+                "GeneralID": 3,
+                "GeneralResource": 400030,
+                "GeneralX": 300,
+                "GeneralY": 353,
+                "GeneralWidth": 285,
+                "GeneralHight": 227,
+                "GeneralIndex": 2,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10001
+                ],
+                "UnlockItemID": [
+                    0
+                ]
+            },
+            "10016": {
+                "StoryGeneralID": 10016,
+                "StoryID": 1,
+                "GeneralID": 16,
+                "GeneralResource": 400160,
+                "GeneralX": 644,
+                "GeneralY": 243,
+                "GeneralWidth": 268,
+                "GeneralHight": 304,
+                "GeneralIndex": 1,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10046
+                ],
+                "UnlockItemID": [
+                    760004
+                ]
+            },
+            "10033": {
+                "StoryGeneralID": 10033,
+                "StoryID": 1,
+                "GeneralID": 33,
+                "GeneralResource": 400330,
+                "GeneralX": 442,
+                "GeneralY": -23,
+                "GeneralWidth": 463,
+                "GeneralHight": 273,
+                "GeneralIndex": 1,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10016
+                ],
+                "UnlockItemID": [
+                    760004
+                ]
+            },
+            "10046": {
+                "StoryGeneralID": 10046,
+                "StoryID": 1,
+                "GeneralID": 46,
+                "GeneralResource": 400460,
+                "GeneralX": 1169,
+                "GeneralY": 194,
+                "GeneralWidth": 177,
+                "GeneralHight": 163,
+                "GeneralIndex": 2,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10002
+                ],
+                "UnlockItemID": [
+                    760004
+                ]
+            },
+            "10097": {
+                "StoryGeneralID": 10097,
+                "StoryID": 1,
+                "GeneralID": 97,
+                "GeneralResource": 400970,
+                "GeneralX": 1019,
+                "GeneralY": 316,
+                "GeneralWidth": 259,
+                "GeneralHight": 274,
+                "GeneralIndex": 1,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10445
+                ],
+                "UnlockItemID": [
+                    760004
+                ]
+            },
+            "10445": {
+                "StoryGeneralID": 10445,
+                "StoryID": 1,
+                "GeneralID": 445,
+                "GeneralResource": 404450,
+                "GeneralX": 850,
+                "GeneralY": 82,
+                "GeneralWidth": 190,
+                "GeneralHight": 176,
+                "GeneralIndex": 2,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10511
+                ],
+                "UnlockItemID": [
+                    760004
+                ]
+            },
+            "10511": {
+                "StoryGeneralID": 10511,
+                "StoryID": 1,
+                "GeneralID": 511,
+                "GeneralResource": 405110,
+                "GeneralX": 426,
+                "GeneralY": 128,
+                "GeneralWidth": 160,
+                "GeneralHight": 132,
+                "GeneralIndex": 2,
+                "isUnlock": false,
+                "FrontStoryGeneralID": [
+                    10033
+                ],
+                "UnlockItemID": [
+                    760004
+                ]
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "storyStageDic": {
+        "_count": 55,
+        "_maps": {
+            "1000101": {
+                "StageID": 1000101,
+                "StageName": "初涉乱世",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000101,
+                "StageMemoWidth": 316,
+                "StageMemoHight": 381,
+                "WinPlotID": 1000101999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 1000101,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "所有敌方角色阵亡",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ],
+                "conditionInfo": {}
+            },
+            "1000102": {
+                "StageID": 1000102,
+                "StageName": "桃园结义",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000102,
+                "StageMemoWidth": 388,
+                "StageMemoHight": 537,
+                "WinPlotID": 1000102999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "程远志阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000101
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000103": {
+                "StageID": 1000103,
+                "StageName": "以身诱敌",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000103,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 337,
+                "WinPlotID": 1000103999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "所有敌方角色阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000102
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000104": {
+                "StageID": 1000104,
+                "StageName": "颍川救援",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000104,
+                "StageMemoWidth": 103,
+                "StageMemoHight": 277,
+                "WinPlotID": 1000104999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "张宝阵亡或者在张梁阵亡后刘备存活四轮",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000103
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000105": {
+                "StageID": 1000105,
+                "StageName": "追击张角",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000105,
+                "StageMemoWidth": 103,
+                "StageMemoHight": 514,
+                "WinPlotID": 1000105999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "张角进入3次濒死状态",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000104
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000106": {
+                "StageID": 1000106,
+                "StageName": "大破渔阳",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000106,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 393,
+                "WinPlotID": 1000106999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "张举张纯阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000105
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    },
+                    {
+                        "ItemID": 700007,
+                        "Num": 1
+                    }
+                ]
+            },
+            "1000191": {
+                "StageID": 1000191,
+                "StageName": "斩断黄巾",
+                "StoryID": 1,
+                "StoryGeneralID": 10001,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400010,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 631,
+                "StageMemoResource": 1000191,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 411,
+                "WinPlotID": 1000191999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 1000191,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "张角阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000105
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    1000191
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    },
+                    {
+                        "ItemID": 700008,
+                        "Num": 1
+                    }
+                ]
+            },
+            "1000201": {
+                "StageID": 1000201,
+                "StageName": "亡命涿县",
+                "StoryID": 1,
+                "StoryGeneralID": 10002,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400020,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 653,
+                "StageMemoResource": 1000201,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 485,
+                "WinPlotID": 1000201999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "第一阶段：豪强阵亡\n第二阶段：关羽坚持1轮不阵亡或者所有汉军阵亡",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ],
+                "conditionInfo": {}
+            },
+            "1000202": {
+                "StageID": 1000202,
+                "StageName": "桃园结义",
+                "StoryID": 1,
+                "StoryGeneralID": 10002,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400020,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 653,
+                "StageMemoResource": 1000202,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 302,
+                "WinPlotID": 1000202999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "程远志阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000201
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000203": {
+                "StageID": 1000203,
+                "StageName": "青州之围",
+                "StoryID": 1,
+                "StoryGeneralID": 10002,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400020,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 653,
+                "StageMemoResource": 1000203,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 302,
+                "WinPlotID": 1000203999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "管亥阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000202
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000204": {
+                "StageID": 1000204,
+                "StageName": "颍川救援",
+                "StoryID": 1,
+                "StoryGeneralID": 10002,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400020,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 653,
+                "StageMemoResource": 1000204,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 168,
+                "WinPlotID": 1000204999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "所有敌方角色阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000203
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000205": {
+                "StageID": 1000205,
+                "StageName": "击败张角",
+                "StoryID": 1,
+                "StoryGeneralID": 10002,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400020,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 653,
+                "StageMemoResource": 1000205,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 320,
+                "WinPlotID": 1000205999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "第一阶段：关羽造成2点伤害\n第二阶段：张飞造成2点伤害\n第三阶段：张角阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000204
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    }
+                ]
+            },
+            "1000206": {
+                "StageID": 1000206,
+                "StageName": "鞭打督邮",
+                "StoryID": 1,
+                "StoryGeneralID": 10002,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400020,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 653,
+                "StageMemoResource": 1000206,
+                "StageMemoWidth": 243,
+                "StageMemoHight": 401,
+                "WinPlotID": 1000206999,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "所有敌方角色阵亡",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1000205
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "PassReward": [
+                    {
+                        "ItemID": 100003,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    },
+                    {
+                        "ItemID": 700007,
+                        "Num": 1
+                    }
+                ]
+            },
+            "1001601": {
+                "StageID": 1001601,
+                "StageName": "洛阳执法",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400160,
+                "StageGeneralWidth": 700,
+                "StageGeneralHight": 700,
+                "StageMemoResource": 1001601,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 504,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1001602": {
+                "StageID": 1001602,
+                "StageName": "宦官之祸",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400160,
+                "StageGeneralWidth": 700,
+                "StageGeneralHight": 700,
+                "StageMemoResource": 1001602,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 214,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1001601
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1001603": {
+                "StageID": 1001603,
+                "StageName": "受命平乱",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400160,
+                "StageGeneralWidth": 700,
+                "StageGeneralHight": 700,
+                "StageMemoResource": 1001603,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 168,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1001602
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1001604": {
+                "StageID": 1001604,
+                "StageName": "击破张梁",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400160,
+                "StageGeneralWidth": 700,
+                "StageGeneralHight": 700,
+                "StageMemoResource": 1001604,
+                "StageMemoWidth": 100,
+                "StageMemoHight": 196,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1001603
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1001691": {
+                "StageID": 1001691,
+                "StageName": "谯水击蛟",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 1001691,
+                "StageGeneralWidth": 682,
+                "StageGeneralHight": 648,
+                "StageMemoResource": 1001691,
+                "StageMemoWidth": 174,
+                "StageMemoHight": 401,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1001604
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1001692": {
+                "StageID": 1001692,
+                "StageName": "不畏权贵",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 1001692,
+                "StageGeneralWidth": 737,
+                "StageGeneralHight": 712,
+                "StageMemoResource": 1001692,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 260,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1001601
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1001693": {
+                "StageID": 1001693,
+                "StageName": "祭奠鲍信",
+                "StoryID": 1,
+                "StoryGeneralID": 10016,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400160,
+                "StageGeneralWidth": 700,
+                "StageGeneralHight": 700,
+                "StageMemoResource": 1001693,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 429,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1001604
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1003301": {
+                "StageID": 1003301,
+                "StageName": "南华授书",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003301,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 401,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1003302": {
+                "StageID": 1003302,
+                "StageName": "天书出世",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003302,
+                "StageMemoWidth": 171,
+                "StageMemoHight": 401,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1003301
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1003303": {
+                "StageID": 1003303,
+                "StageName": "岁在甲子",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003303,
+                "StageMemoWidth": 171,
+                "StageMemoHight": 321,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1003302
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1003304": {
+                "StageID": 1003304,
+                "StageName": "力破卢植",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003304,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 279,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1003303
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1003305": {
+                "StageID": 1003305,
+                "StageName": "围困朱儁",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003305,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 227,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1003304
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1003306": {
+                "StageID": 1003306,
+                "StageName": "黄天…",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003306,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 168,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1003305
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1003391": {
+                "StageID": 1003391,
+                "StageName": "黄天当立！",
+                "StoryID": 1,
+                "StoryGeneralID": 10033,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400330,
+                "StageGeneralWidth": 648,
+                "StageGeneralHight": 660,
+                "StageMemoResource": 1003391,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 168,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1004601": {
+                "StageID": 1004601,
+                "StageName": "羌人交友",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004601,
+                "StageMemoWidth": 243,
+                "StageMemoHight": 481,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1004602": {
+                "StageID": 1004602,
+                "StageName": "大破匈奴",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004602,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 365,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1004601
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1004603": {
+                "StageID": 1004603,
+                "StageName": "围攻广宗",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004603,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 337,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1004602
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1004604": {
+                "StageID": 1004604,
+                "StageName": "攻克曲阳",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004604,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 245,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1004603
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1004605": {
+                "StageID": 1004605,
+                "StageName": "凉州叛乱",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004605,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 230,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1004604
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1004606": {
+                "StageID": 1004606,
+                "StageName": "留兵河东",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004606,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 457,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1004605
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1004691": {
+                "StageID": 1004691,
+                "StageName": "计破黄巾",
+                "StoryID": 1,
+                "StoryGeneralID": 10046,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400460,
+                "StageGeneralWidth": 958,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1004691,
+                "StageMemoWidth": 100,
+                "StageMemoHight": 336,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1009701": {
+                "StageID": 1009701,
+                "StageName": "师从马融",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009701,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 262,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1009702": {
+                "StageID": 1009702,
+                "StageName": "传道受业",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009702,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 402,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1009701
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1009703": {
+                "StageID": 1009703,
+                "StageName": "九江平乱",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009703,
+                "StageMemoWidth": 243,
+                "StageMemoHight": 281,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1009702
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1009704": {
+                "StageID": 1009704,
+                "StageName": "初胜黄巾",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009704,
+                "StageMemoWidth": 388,
+                "StageMemoHight": 430,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1009703
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1009705": {
+                "StageID": 1009705,
+                "StageName": "围困张角",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009705,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 393,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1009704
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1009791": {
+                "StageID": 1009791,
+                "StageName": "平定冀州",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009791,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 262,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1009705
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    1009791
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1009792": {
+                "StageID": 1009792,
+                "StageName": "庐江叛乱",
+                "StoryID": 1,
+                "StoryGeneralID": 10097,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 400970,
+                "StageGeneralWidth": 582,
+                "StageGeneralHight": 625,
+                "StageMemoResource": 1009792,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 365,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1009705
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1044501": {
+                "StageID": 1044501,
+                "StageName": "人道天书",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044501,
+                "StageMemoWidth": 243,
+                "StageMemoHight": 197,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1044502": {
+                "StageID": 1044502,
+                "StageName": "道法救人",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044502,
+                "StageMemoWidth": 171,
+                "StageMemoHight": 205,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1044501
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1044503": {
+                "StageID": 1044503,
+                "StageName": "名震天下",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044503,
+                "StageMemoWidth": 171,
+                "StageMemoHight": 200,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1044502
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1044504": {
+                "StageID": 1044504,
+                "StageName": "征战南阳",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044504,
+                "StageMemoWidth": 99,
+                "StageMemoHight": 280,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1044503
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1044505": {
+                "StageID": 1044505,
+                "StageName": "围困朱儁",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044505,
+                "StageMemoWidth": 171,
+                "StageMemoHight": 224,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1044504
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1044506": {
+                "StageID": 1044506,
+                "StageName": "人道霸业",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044506,
+                "StageMemoWidth": 243,
+                "StageMemoHight": 429,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1044505
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1044591": {
+                "StageID": 1044591,
+                "StageName": "以武会友",
+                "StoryID": 1,
+                "StoryGeneralID": 10445,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 404450,
+                "StageGeneralWidth": 749,
+                "StageGeneralHight": 698,
+                "StageMemoResource": 1044591,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 224,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1051101": {
+                "StageID": 1051101,
+                "StageName": "被困曲阳",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051101,
+                "StageMemoWidth": 243,
+                "StageMemoHight": 364,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": true,
+                "isPass": false,
+                "conditionUnlock": true,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    0
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ],
+                "conditionInfo": {}
+            },
+            "1051102": {
+                "StageID": 1051102,
+                "StageName": "偷习天书",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 1,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051102,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 248,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1051101
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1051103": {
+                "StageID": 1051103,
+                "StageName": "严兄禁令",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051103,
+                "StageMemoWidth": 171,
+                "StageMemoHight": 346,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1051102
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1051104": {
+                "StageID": 1051104,
+                "StageName": "邪力初捷",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051104,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 290,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1051103
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1051105": {
+                "StageID": 1051105,
+                "StageName": "咒术震军",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051105,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 141,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1051104
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1051106": {
+                "StageID": 1051106,
+                "StageName": "黄巾之变",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051106,
+                "StageMemoWidth": 172,
+                "StageMemoHight": 337,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1051105
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            },
+            "1051107": {
+                "StageID": 1051107,
+                "StageName": "最终选择",
+                "StoryID": 1,
+                "StoryGeneralID": 10511,
+                "NotBattle": 0,
+                "StageBgResource": 1,
+                "StageGeneralResource": 405110,
+                "StageGeneralWidth": 658,
+                "StageGeneralHight": 689,
+                "StageMemoResource": 1051107,
+                "StageMemoWidth": 244,
+                "StageMemoHight": 234,
+                "WinPlotID": 0,
+                "OpenVideoID": 0,
+                "StartChallengeVideoID": 0,
+                "EndChallengeVideoID": 0,
+                "WinConditionDes": "",
+                "isUnlock": false,
+                "isPass": false,
+                "conditionUnlock": false,
+                "isReward": false,
+                "fightTimes": 0,
+                "FrontStageID": [
+                    1051106
+                ],
+                "UnlockItemID": [
+                    0
+                ],
+                "ConditionID": [
+                    0
+                ],
+                "RewardRuleID": [
+                    1
+                ]
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "storyGeneralByStoryIdDic": {
+        "_count": 1,
+        "_maps": {
+            "1": [
+                {
+                    "StoryGeneralID": 10001,
+                    "StoryID": 1,
+                    "GeneralID": 1,
+                    "GeneralResource": 400010,
+                    "GeneralX": 104,
+                    "GeneralY": 189,
+                    "GeneralWidth": 257,
+                    "GeneralHight": 352,
+                    "GeneralIndex": 1,
+                    "isUnlock": true,
+                    "FrontStoryGeneralID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10002,
+                    "StoryID": 1,
+                    "GeneralID": 2,
+                    "GeneralResource": 400020,
+                    "GeneralX": 16,
+                    "GeneralY": 236,
+                    "GeneralWidth": 184,
+                    "GeneralHight": 295,
+                    "GeneralIndex": 2,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10001
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10002,
+                    "StoryID": 1,
+                    "GeneralID": 3,
+                    "GeneralResource": 400030,
+                    "GeneralX": 300,
+                    "GeneralY": 353,
+                    "GeneralWidth": 285,
+                    "GeneralHight": 227,
+                    "GeneralIndex": 2,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10001
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10016,
+                    "StoryID": 1,
+                    "GeneralID": 16,
+                    "GeneralResource": 400160,
+                    "GeneralX": 644,
+                    "GeneralY": 243,
+                    "GeneralWidth": 268,
+                    "GeneralHight": 304,
+                    "GeneralIndex": 1,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10046
+                    ],
+                    "UnlockItemID": [
+                        760004
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10046,
+                    "StoryID": 1,
+                    "GeneralID": 46,
+                    "GeneralResource": 400460,
+                    "GeneralX": 1169,
+                    "GeneralY": 194,
+                    "GeneralWidth": 177,
+                    "GeneralHight": 163,
+                    "GeneralIndex": 2,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10002
+                    ],
+                    "UnlockItemID": [
+                        760004
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10033,
+                    "StoryID": 1,
+                    "GeneralID": 33,
+                    "GeneralResource": 400330,
+                    "GeneralX": 442,
+                    "GeneralY": -23,
+                    "GeneralWidth": 463,
+                    "GeneralHight": 273,
+                    "GeneralIndex": 1,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10016
+                    ],
+                    "UnlockItemID": [
+                        760004
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10511,
+                    "StoryID": 1,
+                    "GeneralID": 511,
+                    "GeneralResource": 405110,
+                    "GeneralX": 426,
+                    "GeneralY": 128,
+                    "GeneralWidth": 160,
+                    "GeneralHight": 132,
+                    "GeneralIndex": 2,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10033
+                    ],
+                    "UnlockItemID": [
+                        760004
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10445,
+                    "StoryID": 1,
+                    "GeneralID": 445,
+                    "GeneralResource": 404450,
+                    "GeneralX": 850,
+                    "GeneralY": 82,
+                    "GeneralWidth": 190,
+                    "GeneralHight": 176,
+                    "GeneralIndex": 2,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10511
+                    ],
+                    "UnlockItemID": [
+                        760004
+                    ]
+                },
+                {
+                    "StoryGeneralID": 10097,
+                    "StoryID": 1,
+                    "GeneralID": 97,
+                    "GeneralResource": 400970,
+                    "GeneralX": 1019,
+                    "GeneralY": 316,
+                    "GeneralWidth": 259,
+                    "GeneralHight": 274,
+                    "GeneralIndex": 1,
+                    "isUnlock": false,
+                    "FrontStoryGeneralID": [
+                        10445
+                    ],
+                    "UnlockItemID": [
+                        760004
+                    ]
+                }
+            ]
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "storyStageByGeneralIdDic": {
+        "_count": 8,
+        "_maps": {
+            "10001": [
+                {
+                    "StageID": 1000101,
+                    "StageName": "初涉乱世",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000101,
+                    "StageMemoWidth": 316,
+                    "StageMemoHight": 381,
+                    "WinPlotID": 1000101999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 1000101,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "所有敌方角色阵亡",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1000102,
+                    "StageName": "桃园结义",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000102,
+                    "StageMemoWidth": 388,
+                    "StageMemoHight": 537,
+                    "WinPlotID": 1000102999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "程远志阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000101
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000103,
+                    "StageName": "以身诱敌",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000103,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 337,
+                    "WinPlotID": 1000103999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "所有敌方角色阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000102
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000104,
+                    "StageName": "颍川救援",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000104,
+                    "StageMemoWidth": 103,
+                    "StageMemoHight": 277,
+                    "WinPlotID": 1000104999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "张宝阵亡或者在张梁阵亡后刘备存活四轮",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000103
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000105,
+                    "StageName": "追击张角",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000105,
+                    "StageMemoWidth": 103,
+                    "StageMemoHight": 514,
+                    "WinPlotID": 1000105999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "张角进入3次濒死状态",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000104
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000106,
+                    "StageName": "大破渔阳",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000106,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 393,
+                    "WinPlotID": 1000106999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "张举张纯阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000105
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        },
+                        {
+                            "ItemID": 700007,
+                            "Num": 1
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000191,
+                    "StageName": "斩断黄巾",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10001,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400010,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 631,
+                    "StageMemoResource": 1000191,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 411,
+                    "WinPlotID": 1000191999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 1000191,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "张角阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000105
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        1000191
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        },
+                        {
+                            "ItemID": 700008,
+                            "Num": 1
+                        }
+                    ]
+                }
+            ],
+            "10002": [
+                {
+                    "StageID": 1000201,
+                    "StageName": "亡命涿县",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10002,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400020,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 653,
+                    "StageMemoResource": 1000201,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 485,
+                    "WinPlotID": 1000201999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "第一阶段：豪强阵亡\n第二阶段：关羽坚持1轮不阵亡或者所有汉军阵亡",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1000202,
+                    "StageName": "桃园结义",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10002,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400020,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 653,
+                    "StageMemoResource": 1000202,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 302,
+                    "WinPlotID": 1000202999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "程远志阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000201
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000203,
+                    "StageName": "青州之围",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10002,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400020,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 653,
+                    "StageMemoResource": 1000203,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 302,
+                    "WinPlotID": 1000203999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "管亥阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000202
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000204,
+                    "StageName": "颍川救援",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10002,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400020,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 653,
+                    "StageMemoResource": 1000204,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 168,
+                    "WinPlotID": 1000204999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "所有敌方角色阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000203
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000205,
+                    "StageName": "击败张角",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10002,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400020,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 653,
+                    "StageMemoResource": 1000205,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 320,
+                    "WinPlotID": 1000205999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "第一阶段：关羽造成2点伤害\n第二阶段：张飞造成2点伤害\n第三阶段：张角阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000204
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        }
+                    ]
+                },
+                {
+                    "StageID": 1000206,
+                    "StageName": "鞭打督邮",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10002,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400020,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 653,
+                    "StageMemoResource": 1000206,
+                    "StageMemoWidth": 243,
+                    "StageMemoHight": 401,
+                    "WinPlotID": 1000206999,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "所有敌方角色阵亡",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1000205
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "PassReward": [
+                        {
+                            "ItemID": 100003,
+                            "Num": 100
+                        },
+                        {
+                            "ItemID": 100010,
+                            "Num": 50
+                        },
+                        {
+                            "ItemID": 700007,
+                            "Num": 1
+                        }
+                    ]
+                }
+            ],
+            "10016": [
+                {
+                    "StageID": 1001601,
+                    "StageName": "洛阳执法",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400160,
+                    "StageGeneralWidth": 700,
+                    "StageGeneralHight": 700,
+                    "StageMemoResource": 1001601,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 504,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1001602,
+                    "StageName": "宦官之祸",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400160,
+                    "StageGeneralWidth": 700,
+                    "StageGeneralHight": 700,
+                    "StageMemoResource": 1001602,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 214,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1001601
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1001603,
+                    "StageName": "受命平乱",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400160,
+                    "StageGeneralWidth": 700,
+                    "StageGeneralHight": 700,
+                    "StageMemoResource": 1001603,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 168,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1001602
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1001604,
+                    "StageName": "击破张梁",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400160,
+                    "StageGeneralWidth": 700,
+                    "StageGeneralHight": 700,
+                    "StageMemoResource": 1001604,
+                    "StageMemoWidth": 100,
+                    "StageMemoHight": 196,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1001603
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1001691,
+                    "StageName": "谯水击蛟",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 1001691,
+                    "StageGeneralWidth": 682,
+                    "StageGeneralHight": 648,
+                    "StageMemoResource": 1001691,
+                    "StageMemoWidth": 174,
+                    "StageMemoHight": 401,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1001604
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1001692,
+                    "StageName": "不畏权贵",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 1001692,
+                    "StageGeneralWidth": 737,
+                    "StageGeneralHight": 712,
+                    "StageMemoResource": 1001692,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 260,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1001601
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1001693,
+                    "StageName": "祭奠鲍信",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10016,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400160,
+                    "StageGeneralWidth": 700,
+                    "StageGeneralHight": 700,
+                    "StageMemoResource": 1001693,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 429,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1001604
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                }
+            ],
+            "10033": [
+                {
+                    "StageID": 1003301,
+                    "StageName": "南华授书",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003301,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 401,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1003302,
+                    "StageName": "天书出世",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003302,
+                    "StageMemoWidth": 171,
+                    "StageMemoHight": 401,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1003301
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1003303,
+                    "StageName": "岁在甲子",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003303,
+                    "StageMemoWidth": 171,
+                    "StageMemoHight": 321,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1003302
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1003304,
+                    "StageName": "力破卢植",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003304,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 279,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1003303
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1003305,
+                    "StageName": "围困朱儁",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003305,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 227,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1003304
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1003306,
+                    "StageName": "黄天…",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003306,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 168,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1003305
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1003391,
+                    "StageName": "黄天当立！",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10033,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400330,
+                    "StageGeneralWidth": 648,
+                    "StageGeneralHight": 660,
+                    "StageMemoResource": 1003391,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 168,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                }
+            ],
+            "10046": [
+                {
+                    "StageID": 1004601,
+                    "StageName": "羌人交友",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004601,
+                    "StageMemoWidth": 243,
+                    "StageMemoHight": 481,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1004602,
+                    "StageName": "大破匈奴",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004602,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 365,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1004601
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1004603,
+                    "StageName": "围攻广宗",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004603,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 337,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1004602
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1004604,
+                    "StageName": "攻克曲阳",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004604,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 245,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1004603
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1004605,
+                    "StageName": "凉州叛乱",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004605,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 230,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1004604
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1004606,
+                    "StageName": "留兵河东",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004606,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 457,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1004605
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1004691,
+                    "StageName": "计破黄巾",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10046,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400460,
+                    "StageGeneralWidth": 958,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1004691,
+                    "StageMemoWidth": 100,
+                    "StageMemoHight": 336,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                }
+            ],
+            "10097": [
+                {
+                    "StageID": 1009701,
+                    "StageName": "师从马融",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009701,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 262,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1009702,
+                    "StageName": "传道受业",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009702,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 402,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1009701
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1009703,
+                    "StageName": "九江平乱",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009703,
+                    "StageMemoWidth": 243,
+                    "StageMemoHight": 281,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1009702
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1009704,
+                    "StageName": "初胜黄巾",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009704,
+                    "StageMemoWidth": 388,
+                    "StageMemoHight": 430,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1009703
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1009705,
+                    "StageName": "围困张角",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009705,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 393,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1009704
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1009791,
+                    "StageName": "平定冀州",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009791,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 262,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1009705
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        1009791
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1009792,
+                    "StageName": "庐江叛乱",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10097,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 400970,
+                    "StageGeneralWidth": 582,
+                    "StageGeneralHight": 625,
+                    "StageMemoResource": 1009792,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 365,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1009705
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                }
+            ],
+            "10445": [
+                {
+                    "StageID": 1044501,
+                    "StageName": "人道天书",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044501,
+                    "StageMemoWidth": 243,
+                    "StageMemoHight": 197,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1044502,
+                    "StageName": "道法救人",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044502,
+                    "StageMemoWidth": 171,
+                    "StageMemoHight": 205,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1044501
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1044503,
+                    "StageName": "名震天下",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044503,
+                    "StageMemoWidth": 171,
+                    "StageMemoHight": 200,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1044502
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1044504,
+                    "StageName": "征战南阳",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044504,
+                    "StageMemoWidth": 99,
+                    "StageMemoHight": 280,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1044503
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1044505,
+                    "StageName": "围困朱儁",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044505,
+                    "StageMemoWidth": 171,
+                    "StageMemoHight": 224,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1044504
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1044506,
+                    "StageName": "人道霸业",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044506,
+                    "StageMemoWidth": 243,
+                    "StageMemoHight": 429,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1044505
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1044591,
+                    "StageName": "以武会友",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10445,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 404450,
+                    "StageGeneralWidth": 749,
+                    "StageGeneralHight": 698,
+                    "StageMemoResource": 1044591,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 224,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                }
+            ],
+            "10511": [
+                {
+                    "StageID": 1051101,
+                    "StageName": "被困曲阳",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051101,
+                    "StageMemoWidth": 243,
+                    "StageMemoHight": 364,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": true,
+                    "isPass": false,
+                    "conditionUnlock": true,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        0
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "conditionInfo": {}
+                },
+                {
+                    "StageID": 1051102,
+                    "StageName": "偷习天书",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 1,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051102,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 248,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1051101
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1051103,
+                    "StageName": "严兄禁令",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051103,
+                    "StageMemoWidth": 171,
+                    "StageMemoHight": 346,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1051102
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1051104,
+                    "StageName": "邪力初捷",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051104,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 290,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1051103
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1051105,
+                    "StageName": "咒术震军",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051105,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 141,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1051104
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1051106,
+                    "StageName": "黄巾之变",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051106,
+                    "StageMemoWidth": 172,
+                    "StageMemoHight": 337,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1051105
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                },
+                {
+                    "StageID": 1051107,
+                    "StageName": "最终选择",
+                    "StoryID": 1,
+                    "StoryGeneralID": 10511,
+                    "NotBattle": 0,
+                    "StageBgResource": 1,
+                    "StageGeneralResource": 405110,
+                    "StageGeneralWidth": 658,
+                    "StageGeneralHight": 689,
+                    "StageMemoResource": 1051107,
+                    "StageMemoWidth": 244,
+                    "StageMemoHight": 234,
+                    "WinPlotID": 0,
+                    "OpenVideoID": 0,
+                    "StartChallengeVideoID": 0,
+                    "EndChallengeVideoID": 0,
+                    "WinConditionDes": "",
+                    "isUnlock": false,
+                    "isPass": false,
+                    "conditionUnlock": false,
+                    "isReward": false,
+                    "fightTimes": 0,
+                    "FrontStageID": [
+                        1051106
+                    ],
+                    "UnlockItemID": [
+                        0
+                    ],
+                    "ConditionID": [
+                        0
+                    ],
+                    "RewardRuleID": [
+                        1
+                    ]
+                }
+            ]
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 168,
+                "1": 163,
+                "2": 113,
+                "3": 60,
+                "4": 98,
+                "5": 14,
+                "6": 12,
+                "7": 141,
+                "8": 118,
+                "9": 82,
+                "10": 169,
+                "11": 222,
+                "12": 253,
+                "13": 108,
+                "14": 151,
+                "15": 207
+            },
+            "_lastPrecipherIndex": 1,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}

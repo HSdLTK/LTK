@@ -1,0 +1,1271 @@
+{
+    "configName": "GuildConfig_json",
+    "ThreeSkillUnlockLevel": 4,
+    "FourSkillUnlockLevel": 8,
+    "guildBeastMaxLevel": 10,
+    "MaxConsumeTimes": 10,
+    "MaxLevel": 10,
+    "AddJobMaxCount": 20,
+    "drumDict": {
+        "_count": 11,
+        "_maps": {
+            "0": {
+                "ConfID": 1,
+                "PayTimes": 0,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 10,
+                "Gold": 0,
+                "ItemID": 0
+            },
+            "1": {
+                "ConfID": 2,
+                "PayTimes": 1,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 10,
+                "Gold": 20,
+                "ItemID": 730010
+            },
+            "2": {
+                "ConfID": 3,
+                "PayTimes": 2,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 20,
+                "Gold": 40,
+                "ItemID": 730011
+            },
+            "3": {
+                "ConfID": 4,
+                "PayTimes": 3,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 30,
+                "Gold": 60,
+                "ItemID": 730012
+            },
+            "4": {
+                "ConfID": 5,
+                "PayTimes": 4,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 40,
+                "Gold": 80,
+                "ItemID": 730013
+            },
+            "5": {
+                "ConfID": 6,
+                "PayTimes": 5,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 50,
+                "Gold": 100,
+                "ItemID": 730014
+            },
+            "6": {
+                "ConfID": 7,
+                "PayTimes": 6,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 60,
+                "Gold": 120,
+                "ItemID": 730015
+            },
+            "7": {
+                "ConfID": 8,
+                "PayTimes": 7,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 70,
+                "Gold": 140,
+                "ItemID": 730016
+            },
+            "8": {
+                "ConfID": 9,
+                "PayTimes": 8,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 80,
+                "Gold": 160,
+                "ItemID": 730017
+            },
+            "9": {
+                "ConfID": 10,
+                "PayTimes": 9,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 90,
+                "Gold": 180,
+                "ItemID": 730018
+            },
+            "10": {
+                "ConfID": 11,
+                "PayTimes": 10,
+                "Money": 1,
+                "Honor": 20,
+                "Contribution": 100,
+                "Gold": 200,
+                "ItemID": 730019
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "levelDict": {
+        "_count": 10,
+        "_maps": {
+            "1": {
+                "ConfID": 1,
+                "Level": 1,
+                "LevelUpExp": 60000,
+                "LevelUpExpTotal": 0,
+                "UserLimit": 50,
+                "ViceLimit": 2
+            },
+            "2": {
+                "ConfID": 2,
+                "Level": 2,
+                "LevelUpExp": 70000,
+                "LevelUpExpTotal": 60000,
+                "UserLimit": 60,
+                "ViceLimit": 2
+            },
+            "3": {
+                "ConfID": 3,
+                "Level": 3,
+                "LevelUpExp": 80000,
+                "LevelUpExpTotal": 130000,
+                "UserLimit": 70,
+                "ViceLimit": 2
+            },
+            "4": {
+                "ConfID": 4,
+                "Level": 4,
+                "LevelUpExp": 110000,
+                "LevelUpExpTotal": 210000,
+                "UserLimit": 80,
+                "ViceLimit": 2
+            },
+            "5": {
+                "ConfID": 5,
+                "Level": 5,
+                "LevelUpExp": 140000,
+                "LevelUpExpTotal": 320000,
+                "UserLimit": 90,
+                "ViceLimit": 3
+            },
+            "6": {
+                "ConfID": 6,
+                "Level": 6,
+                "LevelUpExp": 210000,
+                "LevelUpExpTotal": 460000,
+                "UserLimit": 100,
+                "ViceLimit": 3
+            },
+            "7": {
+                "ConfID": 7,
+                "Level": 7,
+                "LevelUpExp": 280000,
+                "LevelUpExpTotal": 670000,
+                "UserLimit": 110,
+                "ViceLimit": 3
+            },
+            "8": {
+                "ConfID": 8,
+                "Level": 8,
+                "LevelUpExp": 380000,
+                "LevelUpExpTotal": 950000,
+                "UserLimit": 120,
+                "ViceLimit": 3
+            },
+            "9": {
+                "ConfID": 9,
+                "Level": 9,
+                "LevelUpExp": 480000,
+                "LevelUpExpTotal": 1330000,
+                "UserLimit": 130,
+                "ViceLimit": 3
+            },
+            "10": {
+                "ConfID": 10,
+                "Level": 10,
+                "LevelUpExp": 9999999,
+                "LevelUpExpTotal": 1810000,
+                "UserLimit": 150,
+                "ViceLimit": 4
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "jobModifyDic": {
+        "_count": 4,
+        "_maps": {
+            "0": {
+                "AddTimes": 0,
+                "ConsumeItem": 1
+            },
+            "1": {
+                "AddTimes": 1,
+                "ConsumeItem": 5
+            },
+            "2": {
+                "AddTimes": 2,
+                "ConsumeItem": 10
+            },
+            "3": {
+                "AddTimes": 3,
+                "ConsumeItem": 20
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "guildFlagDic": {
+        "_count": 3,
+        "_maps": {
+            "1": {
+                "ConfID": 1,
+                "FlagID": 1,
+                "Name": "蜀汉忠义",
+                "Resource": 1,
+                "GuildLevel": 0,
+                "VipLevel": 0
+            },
+            "2": {
+                "ConfID": 2,
+                "FlagID": 2,
+                "Name": "魏武霸业",
+                "Resource": 2,
+                "GuildLevel": 0,
+                "VipLevel": 0
+            },
+            "3": {
+                "ConfID": 3,
+                "FlagID": 3,
+                "Name": "吴王光耀",
+                "Resource": 3,
+                "GuildLevel": 0,
+                "VipLevel": 0
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "guildGuardianBeastDic": {
+        "_count": 9,
+        "_maps": {
+            "1": {
+                "ConfID": 1,
+                "BeastID": 1,
+                "GeneralID": 6007,
+                "BeastName": "赑屃",
+                "Recourse": "baxia",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 20
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 85
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 70
+                    }
+                ],
+                "AreaType": 2,
+                "NeutralizeBeastIDs": [
+                    4,
+                    5,
+                    6
+                ],
+                "BeNeutralizedBeastIDs": [
+                    7,
+                    8,
+                    9
+                ],
+                "DialogNotEnrolment": "赑屃提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，赑屃将会守护您！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730021
+            },
+            "2": {
+                "ConfID": 2,
+                "BeastID": 2,
+                "GeneralID": 6006,
+                "BeastName": "狴犴",
+                "Recourse": "bian",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 25
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 100
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 50
+                    }
+                ],
+                "AreaType": 3,
+                "NeutralizeBeastIDs": [
+                    4,
+                    5,
+                    6
+                ],
+                "BeNeutralizedBeastIDs": [
+                    7,
+                    8,
+                    9
+                ],
+                "DialogNotEnrolment": "狴犴提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，狴犴将会守护您！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730022
+            },
+            "3": {
+                "ConfID": 3,
+                "BeastID": 3,
+                "GeneralID": 6004,
+                "BeastName": "嘲风",
+                "Recourse": "chaofeng",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 30
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 95
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 50
+                    }
+                ],
+                "AreaType": 1,
+                "NeutralizeBeastIDs": [
+                    4,
+                    5,
+                    6
+                ],
+                "BeNeutralizedBeastIDs": [
+                    7,
+                    8,
+                    9
+                ],
+                "DialogNotEnrolment": "嘲风提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，嘲风将会守护您！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730023
+            },
+            "4": {
+                "ConfID": 4,
+                "BeastID": 4,
+                "GeneralID": 6000,
+                "BeastName": "囚牛",
+                "Recourse": "qiuniu",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 25
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 60
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 90
+                    }
+                ],
+                "AreaType": 1,
+                "NeutralizeBeastIDs": [
+                    7,
+                    8,
+                    9
+                ],
+                "BeNeutralizedBeastIDs": [
+                    1,
+                    2,
+                    3
+                ],
+                "DialogNotEnrolment": "囚牛提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，囚牛将会协助您！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730024
+            },
+            "5": {
+                "ConfID": 5,
+                "BeastID": 5,
+                "GeneralID": 6001,
+                "BeastName": "狻猊",
+                "Recourse": "suanni",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 50
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 25
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 100
+                    }
+                ],
+                "AreaType": 3,
+                "NeutralizeBeastIDs": [
+                    7,
+                    8,
+                    9
+                ],
+                "BeNeutralizedBeastIDs": [
+                    1,
+                    2,
+                    3
+                ],
+                "DialogNotEnrolment": "狻猊提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，狻猊将会协助您！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730025
+            },
+            "6": {
+                "ConfID": 6,
+                "BeastID": 6,
+                "GeneralID": 6002,
+                "BeastName": "螭吻",
+                "Recourse": "chiwen",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 50
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 50
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 75
+                    }
+                ],
+                "AreaType": 2,
+                "NeutralizeBeastIDs": [
+                    7,
+                    8,
+                    9
+                ],
+                "BeNeutralizedBeastIDs": [
+                    1,
+                    2,
+                    3
+                ],
+                "DialogNotEnrolment": "螭吻提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，螭吻将会协助您！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730026
+            },
+            "7": {
+                "ConfID": 7,
+                "BeastID": 7,
+                "GeneralID": 6008,
+                "BeastName": "负屃",
+                "Recourse": "fuxi",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 75
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 35
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 65
+                    }
+                ],
+                "AreaType": 1,
+                "NeutralizeBeastIDs": [
+                    1,
+                    2,
+                    3
+                ],
+                "BeNeutralizedBeastIDs": [
+                    4,
+                    5,
+                    6
+                ],
+                "DialogNotEnrolment": "负屃提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，负屃将会为您杀敌！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730027
+            },
+            "8": {
+                "ConfID": 8,
+                "BeastID": 8,
+                "GeneralID": 6003,
+                "BeastName": "睚眦",
+                "Recourse": "yazi",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 100
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 20
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 55
+                    }
+                ],
+                "AreaType": 3,
+                "NeutralizeBeastIDs": [
+                    1,
+                    2,
+                    3
+                ],
+                "BeNeutralizedBeastIDs": [
+                    4,
+                    5,
+                    6
+                ],
+                "DialogNotEnrolment": "睚眦提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，睚眦将会为您杀敌！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730028
+            },
+            "9": {
+                "ConfID": 9,
+                "BeastID": 9,
+                "GeneralID": 6005,
+                "BeastName": "蒲牢",
+                "Recourse": "pulao",
+                "Experience": 0,
+                "BaseType": [
+                    {
+                        "AttributeType": 1,
+                        "AttributeValue": 85
+                    },
+                    {
+                        "AttributeType": 2,
+                        "AttributeValue": 45
+                    },
+                    {
+                        "AttributeType": 3,
+                        "AttributeValue": 45
+                    }
+                ],
+                "AreaType": 2,
+                "NeutralizeBeastIDs": [
+                    1,
+                    2,
+                    3
+                ],
+                "BeNeutralizedBeastIDs": [
+                    4,
+                    5,
+                    6
+                ],
+                "DialogNotEnrolment": "蒲牢提醒您：本周的公会战可以报名了！",
+                "DialogEnrolment": "温馨提示：争霸战将在周末开始！",
+                "DialogInBattle": "争霸战开始了，蒲牢将会为您杀敌！",
+                "attack": 0,
+                "defense": 0,
+                "assist": 0,
+                "ItemID": 730029
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "guildBeastLevelDic": {
+        "_count": 10,
+        "_maps": {
+            "1": {
+                "ConfID": 1,
+                "Level": 1,
+                "LevelUpExperience": 500,
+                "LevelUpExperienceTotal": 500,
+                "SkillNumExtra": 0,
+                "BloodNumExtra": 0,
+                "CardNumExtra": 0,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9
+                ],
+                "NextPrivilegeDesc": "升级后神兽血量上限+2"
+            },
+            "2": {
+                "ConfID": 2,
+                "Level": 2,
+                "LevelUpExperience": 1000,
+                "LevelUpExperienceTotal": 1500,
+                "SkillNumExtra": 0,
+                "BloodNumExtra": 2,
+                "CardNumExtra": 0,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9
+                ],
+                "NextPrivilegeDesc": "升级后可设置神话再临系列武将作为协防武将"
+            },
+            "3": {
+                "ConfID": 3,
+                "Level": 3,
+                "LevelUpExperience": 2000,
+                "LevelUpExperienceTotal": 3500,
+                "SkillNumExtra": 0,
+                "BloodNumExtra": 2,
+                "CardNumExtra": 0,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "NextPrivilegeDesc": "升级后解锁3技能"
+            },
+            "4": {
+                "ConfID": 4,
+                "Level": 4,
+                "LevelUpExperience": 3000,
+                "LevelUpExperienceTotal": 6500,
+                "SkillNumExtra": 1,
+                "BloodNumExtra": 2,
+                "CardNumExtra": 0,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ],
+                "NextPrivilegeDesc": "升级后可设置一将成名系列武将作为协防武将"
+            },
+            "5": {
+                "ConfID": 5,
+                "Level": 5,
+                "LevelUpExperience": 5000,
+                "LevelUpExperienceTotal": 11500,
+                "SkillNumExtra": 1,
+                "BloodNumExtra": 2,
+                "CardNumExtra": 0,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ],
+                "NextPrivilegeDesc": "升级后神兽血量上限和起始手牌+1"
+            },
+            "6": {
+                "ConfID": 6,
+                "Level": 6,
+                "LevelUpExperience": 10000,
+                "LevelUpExperienceTotal": 21500,
+                "SkillNumExtra": 1,
+                "BloodNumExtra": 3,
+                "CardNumExtra": 1,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ],
+                "NextPrivilegeDesc": "升级后可设置所有武将作为协防武将"
+            },
+            "7": {
+                "ConfID": 7,
+                "Level": 7,
+                "LevelUpExperience": 20000,
+                "LevelUpExperienceTotal": 41500,
+                "SkillNumExtra": 1,
+                "BloodNumExtra": 3,
+                "CardNumExtra": 1,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ],
+                "NextPrivilegeDesc": "升级后解锁4技能"
+            },
+            "8": {
+                "ConfID": 8,
+                "Level": 8,
+                "LevelUpExperience": 30000,
+                "LevelUpExperienceTotal": 71500,
+                "SkillNumExtra": 2,
+                "BloodNumExtra": 3,
+                "CardNumExtra": 1,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ],
+                "NextPrivilegeDesc": "神兽血量上限+2"
+            },
+            "9": {
+                "ConfID": 9,
+                "Level": 9,
+                "LevelUpExperience": 50000,
+                "LevelUpExperienceTotal": 121500,
+                "SkillNumExtra": 2,
+                "BloodNumExtra": 5,
+                "CardNumExtra": 1,
+                "CardNumExtraAll": 0,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ],
+                "NextPrivilegeDesc": "升级后友方角色手牌数+1"
+            },
+            "10": {
+                "ConfID": 10,
+                "Level": 10,
+                "LevelUpExperience": 0,
+                "LevelUpExperienceTotal": 0,
+                "SkillNumExtra": 2,
+                "BloodNumExtra": 5,
+                "CardNumExtra": 2,
+                "CardNumExtraAll": 1,
+                "ExType": [
+                    9,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23
+                ],
+                "NextPrivilegeDesc": "已满级"
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "guildWarDic": {
+        "_count": 1,
+        "_maps": {
+            "1": {
+                "WarID": 1,
+                "SignInStartTime": "1 00:00:00",
+                "SignEndTime": "6 09:00:00",
+                "WarStartTime": "6 09:00:00",
+                "WarEndTime": "7 23:00:00",
+                "RewardTime": "1 01:00:00",
+                "GuildRankReward": [
+                    {
+                        "rank": 1,
+                        "rewardID": 25
+                    },
+                    {
+                        "rank": 3,
+                        "rewardID": 26
+                    },
+                    {
+                        "rank": 10,
+                        "rewardID": 27
+                    },
+                    {
+                        "rank": 50,
+                        "rewardID": 28
+                    },
+                    {
+                        "rank": 100,
+                        "rewardID": 29
+                    },
+                    {
+                        "rank": 99999,
+                        "rewardID": 30
+                    }
+                ],
+                "GuildWinReward": [
+                    {
+                        "rewardID": 31,
+                        "winTimes": 2000
+                    },
+                    {
+                        "rewardID": 32,
+                        "winTimes": 500
+                    },
+                    {
+                        "rewardID": 33,
+                        "winTimes": 100
+                    }
+                ]
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "guildWarUserRewardDir": {
+        "_count": 11,
+        "_maps": {
+            "1": {
+                "ConfID": 1,
+                "WinTimes": 0,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 100
+                    }
+                ]
+            },
+            "2": {
+                "ConfID": 2,
+                "WinTimes": 2,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 150
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 10
+                    }
+                ]
+            },
+            "3": {
+                "ConfID": 3,
+                "WinTimes": 4,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 200
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 20
+                    }
+                ]
+            },
+            "4": {
+                "ConfID": 4,
+                "WinTimes": 6,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 250
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 30
+                    }
+                ]
+            },
+            "5": {
+                "ConfID": 5,
+                "WinTimes": 8,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 300
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 40
+                    }
+                ]
+            },
+            "6": {
+                "ConfID": 6,
+                "WinTimes": 10,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 400
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 50
+                    },
+                    {
+                        "ItemID": 200004,
+                        "Num": 1
+                    }
+                ]
+            },
+            "7": {
+                "ConfID": 7,
+                "WinTimes": 12,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 500
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 60
+                    },
+                    {
+                        "ItemID": 200004,
+                        "Num": 1
+                    }
+                ]
+            },
+            "8": {
+                "ConfID": 8,
+                "WinTimes": 14,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 600
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 70
+                    },
+                    {
+                        "ItemID": 200004,
+                        "Num": 1
+                    }
+                ]
+            },
+            "9": {
+                "ConfID": 9,
+                "WinTimes": 16,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 700
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 80
+                    },
+                    {
+                        "ItemID": 200004,
+                        "Num": 1
+                    }
+                ]
+            },
+            "10": {
+                "ConfID": 10,
+                "WinTimes": 18,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 800
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 90
+                    },
+                    {
+                        "ItemID": 200004,
+                        "Num": 1
+                    }
+                ]
+            },
+            "11": {
+                "ConfID": 11,
+                "WinTimes": 20,
+                "Reward": [
+                    {
+                        "ItemID": 100006,
+                        "Num": 1000
+                    },
+                    {
+                        "ItemID": 100010,
+                        "Num": 100
+                    },
+                    {
+                        "ItemID": 200005,
+                        "Num": 1
+                    }
+                ]
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 183,
+                "1": 132,
+                "2": 45,
+                "3": 175,
+                "4": 139,
+                "5": 250,
+                "6": 235,
+                "7": 164,
+                "8": 9,
+                "9": 17,
+                "10": 229,
+                "11": 214,
+                "12": 48,
+                "13": 180,
+                "14": 144,
+                "15": 37
+            },
+            "_lastPrecipherIndex": 15,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}

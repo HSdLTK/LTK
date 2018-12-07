@@ -1,0 +1,660 @@
+{
+    "configName": "AthleticsSeasonRewardConf_json",
+    "rewardList": [
+        {
+            "ConfID": 1,
+            "ModeIDType": 4,
+            "Season": 1,
+            "GradeName": 2,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 2000
+                }
+            ],
+            "MinStar": 20,
+            "MaxStar": 49
+        },
+        {
+            "ConfID": 2,
+            "ModeIDType": 4,
+            "Season": 1,
+            "GradeName": 3,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 4000
+                }
+            ],
+            "MinStar": 50,
+            "MaxStar": 79
+        },
+        {
+            "ConfID": 3,
+            "ModeIDType": 4,
+            "Season": 1,
+            "GradeName": 4,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 6000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 80,
+            "MaxStar": 109
+        },
+        {
+            "ConfID": 4,
+            "ModeIDType": 4,
+            "Season": 1,
+            "GradeName": 5,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 8000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 110,
+            "MaxStar": 139
+        },
+        {
+            "ConfID": 5,
+            "ModeIDType": 4,
+            "Season": 1,
+            "GradeName": 6,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 10000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 140,
+            "MaxStar": 9999
+        },
+        {
+            "ConfID": 1001,
+            "ModeIDType": 6,
+            "Season": 1,
+            "GradeName": 2,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 2000
+                }
+            ],
+            "MinStar": 20,
+            "MaxStar": 49
+        },
+        {
+            "ConfID": 1002,
+            "ModeIDType": 6,
+            "Season": 1,
+            "GradeName": 3,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 4000
+                }
+            ],
+            "MinStar": 50,
+            "MaxStar": 79
+        },
+        {
+            "ConfID": 1003,
+            "ModeIDType": 6,
+            "Season": 1,
+            "GradeName": 4,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 6000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 80,
+            "MaxStar": 109
+        },
+        {
+            "ConfID": 1004,
+            "ModeIDType": 6,
+            "Season": 1,
+            "GradeName": 5,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 8000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 110,
+            "MaxStar": 139
+        },
+        {
+            "ConfID": 1005,
+            "ModeIDType": 6,
+            "Season": 1,
+            "GradeName": 6,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 10000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 140,
+            "MaxStar": 9999
+        },
+        {
+            "ConfID": 2001,
+            "ModeIDType": 8,
+            "Season": 1,
+            "GradeName": 2,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 2000
+                }
+            ],
+            "MinStar": 20,
+            "MaxStar": 49
+        },
+        {
+            "ConfID": 2002,
+            "ModeIDType": 8,
+            "Season": 1,
+            "GradeName": 3,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 4000
+                }
+            ],
+            "MinStar": 50,
+            "MaxStar": 79
+        },
+        {
+            "ConfID": 2003,
+            "ModeIDType": 8,
+            "Season": 1,
+            "GradeName": 4,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 6000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 80,
+            "MaxStar": 109
+        },
+        {
+            "ConfID": 2004,
+            "ModeIDType": 8,
+            "Season": 1,
+            "GradeName": 5,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 8000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 110,
+            "MaxStar": 139
+        },
+        {
+            "ConfID": 2005,
+            "ModeIDType": 8,
+            "Season": 1,
+            "GradeName": 6,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 10000
+                },
+                {
+                    "ItemID": 40130200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 140,
+            "MaxStar": 9999
+        },
+        {
+            "ConfID": 6,
+            "ModeIDType": 4,
+            "Season": 2,
+            "GradeName": 2,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 2000
+                }
+            ],
+            "MinStar": 20,
+            "MaxStar": 49
+        },
+        {
+            "ConfID": 7,
+            "ModeIDType": 4,
+            "Season": 2,
+            "GradeName": 3,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 4000
+                }
+            ],
+            "MinStar": 50,
+            "MaxStar": 79
+        },
+        {
+            "ConfID": 8,
+            "ModeIDType": 4,
+            "Season": 2,
+            "GradeName": 4,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 6000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 80,
+            "MaxStar": 109
+        },
+        {
+            "ConfID": 9,
+            "ModeIDType": 4,
+            "Season": 2,
+            "GradeName": 5,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 8000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 110,
+            "MaxStar": 139
+        },
+        {
+            "ConfID": 10,
+            "ModeIDType": 4,
+            "Season": 2,
+            "GradeName": 6,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 10000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 140,
+            "MaxStar": 9999
+        },
+        {
+            "ConfID": 1006,
+            "ModeIDType": 6,
+            "Season": 2,
+            "GradeName": 2,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 2000
+                }
+            ],
+            "MinStar": 20,
+            "MaxStar": 49
+        },
+        {
+            "ConfID": 1007,
+            "ModeIDType": 6,
+            "Season": 2,
+            "GradeName": 3,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 4000
+                }
+            ],
+            "MinStar": 50,
+            "MaxStar": 79
+        },
+        {
+            "ConfID": 1008,
+            "ModeIDType": 6,
+            "Season": 2,
+            "GradeName": 4,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 6000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 80,
+            "MaxStar": 109
+        },
+        {
+            "ConfID": 1009,
+            "ModeIDType": 6,
+            "Season": 2,
+            "GradeName": 5,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 8000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 110,
+            "MaxStar": 139
+        },
+        {
+            "ConfID": 1010,
+            "ModeIDType": 6,
+            "Season": 2,
+            "GradeName": 6,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 10000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 140,
+            "MaxStar": 9999
+        },
+        {
+            "ConfID": 2006,
+            "ModeIDType": 8,
+            "Season": 2,
+            "GradeName": 2,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 2000
+                }
+            ],
+            "MinStar": 20,
+            "MaxStar": 49
+        },
+        {
+            "ConfID": 2007,
+            "ModeIDType": 8,
+            "Season": 2,
+            "GradeName": 3,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 4000
+                }
+            ],
+            "MinStar": 50,
+            "MaxStar": 79
+        },
+        {
+            "ConfID": 2008,
+            "ModeIDType": 8,
+            "Season": 2,
+            "GradeName": 4,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 6000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 80,
+            "MaxStar": 109
+        },
+        {
+            "ConfID": 2009,
+            "ModeIDType": 8,
+            "Season": 2,
+            "GradeName": 5,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 8000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 110,
+            "MaxStar": 139
+        },
+        {
+            "ConfID": 2010,
+            "ModeIDType": 8,
+            "Season": 2,
+            "GradeName": 6,
+            "Reward": [
+                {
+                    "ItemID": 100003,
+                    "Num": 10000
+                },
+                {
+                    "ItemID": 44000200,
+                    "Num": 1
+                }
+            ],
+            "MinStar": 140,
+            "MaxStar": 9999
+        }
+    ],
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 200,
+                "1": 202,
+                "2": 96,
+                "3": 154,
+                "4": 245,
+                "5": 218,
+                "6": 66,
+                "7": 217,
+                "8": 80,
+                "9": 47,
+                "10": 48,
+                "11": 193,
+                "12": 165,
+                "13": 247,
+                "14": 89,
+                "15": 224
+            },
+            "_lastPrecipherIndex": 15,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}

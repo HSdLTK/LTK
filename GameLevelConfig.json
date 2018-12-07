@@ -1,0 +1,1380 @@
+{
+    "configName": "GameLevelConfig_json",
+    "maxLevel": 200,
+    "gameLevelDict": {
+        "_count": 201,
+        "_maps": {
+            "0": {
+                "Level": 0,
+                "TotalExp": 0,
+                "ConfID": 1,
+                "VipExperience": 0
+            },
+            "1": {
+                "Level": 1,
+                "TotalExp": 0,
+                "ConfID": 2,
+                "VipExperience": 0
+            },
+            "2": {
+                "Level": 2,
+                "TotalExp": 100,
+                "ConfID": 3,
+                "VipExperience": 10
+            },
+            "3": {
+                "Level": 3,
+                "TotalExp": 200,
+                "ConfID": 4,
+                "VipExperience": 10
+            },
+            "4": {
+                "Level": 4,
+                "TotalExp": 300,
+                "ConfID": 5,
+                "VipExperience": 10
+            },
+            "5": {
+                "Level": 5,
+                "TotalExp": 400,
+                "ConfID": 6,
+                "VipExperience": 10
+            },
+            "6": {
+                "Level": 6,
+                "TotalExp": 500,
+                "ConfID": 7,
+                "VipExperience": 10
+            },
+            "7": {
+                "Level": 7,
+                "TotalExp": 600,
+                "ConfID": 8,
+                "VipExperience": 10
+            },
+            "8": {
+                "Level": 8,
+                "TotalExp": 1100,
+                "ConfID": 9,
+                "VipExperience": 10
+            },
+            "9": {
+                "Level": 9,
+                "TotalExp": 1600,
+                "ConfID": 10,
+                "VipExperience": 10
+            },
+            "10": {
+                "Level": 10,
+                "TotalExp": 2100,
+                "ConfID": 11,
+                "VipExperience": 10
+            },
+            "11": {
+                "Level": 11,
+                "TotalExp": 2700,
+                "ConfID": 12,
+                "VipExperience": 20
+            },
+            "12": {
+                "Level": 12,
+                "TotalExp": 3300,
+                "ConfID": 13,
+                "VipExperience": 20
+            },
+            "13": {
+                "Level": 13,
+                "TotalExp": 3950,
+                "ConfID": 14,
+                "VipExperience": 20
+            },
+            "14": {
+                "Level": 14,
+                "TotalExp": 4600,
+                "ConfID": 15,
+                "VipExperience": 20
+            },
+            "15": {
+                "Level": 15,
+                "TotalExp": 5300,
+                "ConfID": 16,
+                "VipExperience": 20
+            },
+            "16": {
+                "Level": 16,
+                "TotalExp": 6000,
+                "ConfID": 17,
+                "VipExperience": 20
+            },
+            "17": {
+                "Level": 17,
+                "TotalExp": 6750,
+                "ConfID": 18,
+                "VipExperience": 20
+            },
+            "18": {
+                "Level": 18,
+                "TotalExp": 7500,
+                "ConfID": 19,
+                "VipExperience": 20
+            },
+            "19": {
+                "Level": 19,
+                "TotalExp": 8300,
+                "ConfID": 20,
+                "VipExperience": 20
+            },
+            "20": {
+                "Level": 20,
+                "TotalExp": 9100,
+                "ConfID": 21,
+                "VipExperience": 20
+            },
+            "21": {
+                "Level": 21,
+                "TotalExp": 9950,
+                "ConfID": 22,
+                "VipExperience": 30
+            },
+            "22": {
+                "Level": 22,
+                "TotalExp": 10800,
+                "ConfID": 23,
+                "VipExperience": 30
+            },
+            "23": {
+                "Level": 23,
+                "TotalExp": 11650,
+                "ConfID": 24,
+                "VipExperience": 30
+            },
+            "24": {
+                "Level": 24,
+                "TotalExp": 12550,
+                "ConfID": 25,
+                "VipExperience": 30
+            },
+            "25": {
+                "Level": 25,
+                "TotalExp": 13450,
+                "ConfID": 26,
+                "VipExperience": 30
+            },
+            "26": {
+                "Level": 26,
+                "TotalExp": 14350,
+                "ConfID": 27,
+                "VipExperience": 30
+            },
+            "27": {
+                "Level": 27,
+                "TotalExp": 15300,
+                "ConfID": 28,
+                "VipExperience": 30
+            },
+            "28": {
+                "Level": 28,
+                "TotalExp": 16250,
+                "ConfID": 29,
+                "VipExperience": 30
+            },
+            "29": {
+                "Level": 29,
+                "TotalExp": 17250,
+                "ConfID": 30,
+                "VipExperience": 30
+            },
+            "30": {
+                "Level": 30,
+                "TotalExp": 18350,
+                "ConfID": 31,
+                "VipExperience": 30
+            },
+            "31": {
+                "Level": 31,
+                "TotalExp": 19450,
+                "ConfID": 32,
+                "VipExperience": 40
+            },
+            "32": {
+                "Level": 32,
+                "TotalExp": 20550,
+                "ConfID": 33,
+                "VipExperience": 40
+            },
+            "33": {
+                "Level": 33,
+                "TotalExp": 21700,
+                "ConfID": 34,
+                "VipExperience": 40
+            },
+            "34": {
+                "Level": 34,
+                "TotalExp": 22850,
+                "ConfID": 35,
+                "VipExperience": 40
+            },
+            "35": {
+                "Level": 35,
+                "TotalExp": 24050,
+                "ConfID": 36,
+                "VipExperience": 40
+            },
+            "36": {
+                "Level": 36,
+                "TotalExp": 25250,
+                "ConfID": 37,
+                "VipExperience": 40
+            },
+            "37": {
+                "Level": 37,
+                "TotalExp": 26450,
+                "ConfID": 38,
+                "VipExperience": 40
+            },
+            "38": {
+                "Level": 38,
+                "TotalExp": 27700,
+                "ConfID": 39,
+                "VipExperience": 40
+            },
+            "39": {
+                "Level": 39,
+                "TotalExp": 28950,
+                "ConfID": 40,
+                "VipExperience": 40
+            },
+            "40": {
+                "Level": 40,
+                "TotalExp": 30200,
+                "ConfID": 41,
+                "VipExperience": 40
+            },
+            "41": {
+                "Level": 41,
+                "TotalExp": 31500,
+                "ConfID": 42,
+                "VipExperience": 50
+            },
+            "42": {
+                "Level": 42,
+                "TotalExp": 32800,
+                "ConfID": 43,
+                "VipExperience": 50
+            },
+            "43": {
+                "Level": 43,
+                "TotalExp": 34150,
+                "ConfID": 44,
+                "VipExperience": 50
+            },
+            "44": {
+                "Level": 44,
+                "TotalExp": 35500,
+                "ConfID": 45,
+                "VipExperience": 50
+            },
+            "45": {
+                "Level": 45,
+                "TotalExp": 36900,
+                "ConfID": 46,
+                "VipExperience": 50
+            },
+            "46": {
+                "Level": 46,
+                "TotalExp": 38300,
+                "ConfID": 47,
+                "VipExperience": 50
+            },
+            "47": {
+                "Level": 47,
+                "TotalExp": 39750,
+                "ConfID": 48,
+                "VipExperience": 50
+            },
+            "48": {
+                "Level": 48,
+                "TotalExp": 41200,
+                "ConfID": 49,
+                "VipExperience": 50
+            },
+            "49": {
+                "Level": 49,
+                "TotalExp": 42700,
+                "ConfID": 50,
+                "VipExperience": 50
+            },
+            "50": {
+                "Level": 50,
+                "TotalExp": 44200,
+                "ConfID": 51,
+                "VipExperience": 50
+            },
+            "51": {
+                "Level": 51,
+                "TotalExp": 45750,
+                "ConfID": 52,
+                "VipExperience": 60
+            },
+            "52": {
+                "Level": 52,
+                "TotalExp": 47300,
+                "ConfID": 53,
+                "VipExperience": 60
+            },
+            "53": {
+                "Level": 53,
+                "TotalExp": 48900,
+                "ConfID": 54,
+                "VipExperience": 60
+            },
+            "54": {
+                "Level": 54,
+                "TotalExp": 50500,
+                "ConfID": 55,
+                "VipExperience": 60
+            },
+            "55": {
+                "Level": 55,
+                "TotalExp": 52200,
+                "ConfID": 56,
+                "VipExperience": 60
+            },
+            "56": {
+                "Level": 56,
+                "TotalExp": 53900,
+                "ConfID": 57,
+                "VipExperience": 60
+            },
+            "57": {
+                "Level": 57,
+                "TotalExp": 55700,
+                "ConfID": 58,
+                "VipExperience": 60
+            },
+            "58": {
+                "Level": 58,
+                "TotalExp": 57500,
+                "ConfID": 59,
+                "VipExperience": 60
+            },
+            "59": {
+                "Level": 59,
+                "TotalExp": 59500,
+                "ConfID": 60,
+                "VipExperience": 60
+            },
+            "60": {
+                "Level": 60,
+                "TotalExp": 61500,
+                "ConfID": 61,
+                "VipExperience": 60
+            },
+            "61": {
+                "Level": 61,
+                "TotalExp": 63700,
+                "ConfID": 62,
+                "VipExperience": 70
+            },
+            "62": {
+                "Level": 62,
+                "TotalExp": 66000,
+                "ConfID": 63,
+                "VipExperience": 70
+            },
+            "63": {
+                "Level": 63,
+                "TotalExp": 68400,
+                "ConfID": 64,
+                "VipExperience": 70
+            },
+            "64": {
+                "Level": 64,
+                "TotalExp": 70900,
+                "ConfID": 65,
+                "VipExperience": 70
+            },
+            "65": {
+                "Level": 65,
+                "TotalExp": 73500,
+                "ConfID": 66,
+                "VipExperience": 70
+            },
+            "66": {
+                "Level": 66,
+                "TotalExp": 76200,
+                "ConfID": 67,
+                "VipExperience": 70
+            },
+            "67": {
+                "Level": 67,
+                "TotalExp": 79000,
+                "ConfID": 68,
+                "VipExperience": 70
+            },
+            "68": {
+                "Level": 68,
+                "TotalExp": 81900,
+                "ConfID": 69,
+                "VipExperience": 70
+            },
+            "69": {
+                "Level": 69,
+                "TotalExp": 84900,
+                "ConfID": 70,
+                "VipExperience": 70
+            },
+            "70": {
+                "Level": 70,
+                "TotalExp": 88000,
+                "ConfID": 71,
+                "VipExperience": 70
+            },
+            "71": {
+                "Level": 71,
+                "TotalExp": 91200,
+                "ConfID": 72,
+                "VipExperience": 80
+            },
+            "72": {
+                "Level": 72,
+                "TotalExp": 94500,
+                "ConfID": 73,
+                "VipExperience": 80
+            },
+            "73": {
+                "Level": 73,
+                "TotalExp": 97900,
+                "ConfID": 74,
+                "VipExperience": 80
+            },
+            "74": {
+                "Level": 74,
+                "TotalExp": 101400,
+                "ConfID": 75,
+                "VipExperience": 80
+            },
+            "75": {
+                "Level": 75,
+                "TotalExp": 105000,
+                "ConfID": 76,
+                "VipExperience": 80
+            },
+            "76": {
+                "Level": 76,
+                "TotalExp": 108700,
+                "ConfID": 77,
+                "VipExperience": 80
+            },
+            "77": {
+                "Level": 77,
+                "TotalExp": 112500,
+                "ConfID": 78,
+                "VipExperience": 80
+            },
+            "78": {
+                "Level": 78,
+                "TotalExp": 116400,
+                "ConfID": 79,
+                "VipExperience": 80
+            },
+            "79": {
+                "Level": 79,
+                "TotalExp": 120400,
+                "ConfID": 80,
+                "VipExperience": 80
+            },
+            "80": {
+                "Level": 80,
+                "TotalExp": 124500,
+                "ConfID": 81,
+                "VipExperience": 80
+            },
+            "81": {
+                "Level": 81,
+                "TotalExp": 128700,
+                "ConfID": 82,
+                "VipExperience": 90
+            },
+            "82": {
+                "Level": 82,
+                "TotalExp": 133000,
+                "ConfID": 83,
+                "VipExperience": 90
+            },
+            "83": {
+                "Level": 83,
+                "TotalExp": 137400,
+                "ConfID": 84,
+                "VipExperience": 90
+            },
+            "84": {
+                "Level": 84,
+                "TotalExp": 141900,
+                "ConfID": 85,
+                "VipExperience": 90
+            },
+            "85": {
+                "Level": 85,
+                "TotalExp": 146500,
+                "ConfID": 86,
+                "VipExperience": 90
+            },
+            "86": {
+                "Level": 86,
+                "TotalExp": 151200,
+                "ConfID": 87,
+                "VipExperience": 90
+            },
+            "87": {
+                "Level": 87,
+                "TotalExp": 156000,
+                "ConfID": 88,
+                "VipExperience": 90
+            },
+            "88": {
+                "Level": 88,
+                "TotalExp": 160900,
+                "ConfID": 89,
+                "VipExperience": 90
+            },
+            "89": {
+                "Level": 89,
+                "TotalExp": 165900,
+                "ConfID": 90,
+                "VipExperience": 90
+            },
+            "90": {
+                "Level": 90,
+                "TotalExp": 171100,
+                "ConfID": 91,
+                "VipExperience": 90
+            },
+            "91": {
+                "Level": 91,
+                "TotalExp": 176500,
+                "ConfID": 92,
+                "VipExperience": 100
+            },
+            "92": {
+                "Level": 92,
+                "TotalExp": 182100,
+                "ConfID": 93,
+                "VipExperience": 100
+            },
+            "93": {
+                "Level": 93,
+                "TotalExp": 187900,
+                "ConfID": 94,
+                "VipExperience": 100
+            },
+            "94": {
+                "Level": 94,
+                "TotalExp": 193900,
+                "ConfID": 95,
+                "VipExperience": 100
+            },
+            "95": {
+                "Level": 95,
+                "TotalExp": 200100,
+                "ConfID": 96,
+                "VipExperience": 100
+            },
+            "96": {
+                "Level": 96,
+                "TotalExp": 206500,
+                "ConfID": 97,
+                "VipExperience": 100
+            },
+            "97": {
+                "Level": 97,
+                "TotalExp": 213100,
+                "ConfID": 98,
+                "VipExperience": 100
+            },
+            "98": {
+                "Level": 98,
+                "TotalExp": 219900,
+                "ConfID": 99,
+                "VipExperience": 100
+            },
+            "99": {
+                "Level": 99,
+                "TotalExp": 226900,
+                "ConfID": 100,
+                "VipExperience": 100
+            },
+            "100": {
+                "Level": 100,
+                "TotalExp": 234100,
+                "ConfID": 101,
+                "VipExperience": 100
+            },
+            "101": {
+                "Level": 101,
+                "TotalExp": 241500,
+                "ConfID": 102,
+                "VipExperience": 110
+            },
+            "102": {
+                "Level": 102,
+                "TotalExp": 249100,
+                "ConfID": 103,
+                "VipExperience": 110
+            },
+            "103": {
+                "Level": 103,
+                "TotalExp": 256900,
+                "ConfID": 104,
+                "VipExperience": 110
+            },
+            "104": {
+                "Level": 104,
+                "TotalExp": 264900,
+                "ConfID": 105,
+                "VipExperience": 110
+            },
+            "105": {
+                "Level": 105,
+                "TotalExp": 273100,
+                "ConfID": 106,
+                "VipExperience": 110
+            },
+            "106": {
+                "Level": 106,
+                "TotalExp": 281500,
+                "ConfID": 107,
+                "VipExperience": 110
+            },
+            "107": {
+                "Level": 107,
+                "TotalExp": 290100,
+                "ConfID": 108,
+                "VipExperience": 110
+            },
+            "108": {
+                "Level": 108,
+                "TotalExp": 298900,
+                "ConfID": 109,
+                "VipExperience": 110
+            },
+            "109": {
+                "Level": 109,
+                "TotalExp": 307900,
+                "ConfID": 110,
+                "VipExperience": 110
+            },
+            "110": {
+                "Level": 110,
+                "TotalExp": 317100,
+                "ConfID": 111,
+                "VipExperience": 110
+            },
+            "111": {
+                "Level": 111,
+                "TotalExp": 326500,
+                "ConfID": 112,
+                "VipExperience": 120
+            },
+            "112": {
+                "Level": 112,
+                "TotalExp": 336100,
+                "ConfID": 113,
+                "VipExperience": 120
+            },
+            "113": {
+                "Level": 113,
+                "TotalExp": 345900,
+                "ConfID": 114,
+                "VipExperience": 120
+            },
+            "114": {
+                "Level": 114,
+                "TotalExp": 355900,
+                "ConfID": 115,
+                "VipExperience": 120
+            },
+            "115": {
+                "Level": 115,
+                "TotalExp": 366100,
+                "ConfID": 116,
+                "VipExperience": 120
+            },
+            "116": {
+                "Level": 116,
+                "TotalExp": 376500,
+                "ConfID": 117,
+                "VipExperience": 120
+            },
+            "117": {
+                "Level": 117,
+                "TotalExp": 387100,
+                "ConfID": 118,
+                "VipExperience": 120
+            },
+            "118": {
+                "Level": 118,
+                "TotalExp": 397900,
+                "ConfID": 119,
+                "VipExperience": 120
+            },
+            "119": {
+                "Level": 119,
+                "TotalExp": 408900,
+                "ConfID": 120,
+                "VipExperience": 120
+            },
+            "120": {
+                "Level": 120,
+                "TotalExp": 420100,
+                "ConfID": 121,
+                "VipExperience": 120
+            },
+            "121": {
+                "Level": 121,
+                "TotalExp": 431500,
+                "ConfID": 122,
+                "VipExperience": 130
+            },
+            "122": {
+                "Level": 122,
+                "TotalExp": 443100,
+                "ConfID": 123,
+                "VipExperience": 130
+            },
+            "123": {
+                "Level": 123,
+                "TotalExp": 454900,
+                "ConfID": 124,
+                "VipExperience": 130
+            },
+            "124": {
+                "Level": 124,
+                "TotalExp": 466900,
+                "ConfID": 125,
+                "VipExperience": 130
+            },
+            "125": {
+                "Level": 125,
+                "TotalExp": 479100,
+                "ConfID": 126,
+                "VipExperience": 130
+            },
+            "126": {
+                "Level": 126,
+                "TotalExp": 491500,
+                "ConfID": 127,
+                "VipExperience": 130
+            },
+            "127": {
+                "Level": 127,
+                "TotalExp": 504100,
+                "ConfID": 128,
+                "VipExperience": 130
+            },
+            "128": {
+                "Level": 128,
+                "TotalExp": 516900,
+                "ConfID": 129,
+                "VipExperience": 130
+            },
+            "129": {
+                "Level": 129,
+                "TotalExp": 529900,
+                "ConfID": 130,
+                "VipExperience": 130
+            },
+            "130": {
+                "Level": 130,
+                "TotalExp": 543100,
+                "ConfID": 131,
+                "VipExperience": 130
+            },
+            "131": {
+                "Level": 131,
+                "TotalExp": 556500,
+                "ConfID": 132,
+                "VipExperience": 140
+            },
+            "132": {
+                "Level": 132,
+                "TotalExp": 570100,
+                "ConfID": 133,
+                "VipExperience": 140
+            },
+            "133": {
+                "Level": 133,
+                "TotalExp": 583900,
+                "ConfID": 134,
+                "VipExperience": 140
+            },
+            "134": {
+                "Level": 134,
+                "TotalExp": 597900,
+                "ConfID": 135,
+                "VipExperience": 140
+            },
+            "135": {
+                "Level": 135,
+                "TotalExp": 612100,
+                "ConfID": 136,
+                "VipExperience": 140
+            },
+            "136": {
+                "Level": 136,
+                "TotalExp": 626500,
+                "ConfID": 137,
+                "VipExperience": 140
+            },
+            "137": {
+                "Level": 137,
+                "TotalExp": 641100,
+                "ConfID": 138,
+                "VipExperience": 140
+            },
+            "138": {
+                "Level": 138,
+                "TotalExp": 655900,
+                "ConfID": 139,
+                "VipExperience": 140
+            },
+            "139": {
+                "Level": 139,
+                "TotalExp": 670900,
+                "ConfID": 140,
+                "VipExperience": 140
+            },
+            "140": {
+                "Level": 140,
+                "TotalExp": 686100,
+                "ConfID": 141,
+                "VipExperience": 140
+            },
+            "141": {
+                "Level": 141,
+                "TotalExp": 701500,
+                "ConfID": 142,
+                "VipExperience": 150
+            },
+            "142": {
+                "Level": 142,
+                "TotalExp": 717100,
+                "ConfID": 143,
+                "VipExperience": 150
+            },
+            "143": {
+                "Level": 143,
+                "TotalExp": 732900,
+                "ConfID": 144,
+                "VipExperience": 150
+            },
+            "144": {
+                "Level": 144,
+                "TotalExp": 748900,
+                "ConfID": 145,
+                "VipExperience": 150
+            },
+            "145": {
+                "Level": 145,
+                "TotalExp": 765100,
+                "ConfID": 146,
+                "VipExperience": 150
+            },
+            "146": {
+                "Level": 146,
+                "TotalExp": 781500,
+                "ConfID": 147,
+                "VipExperience": 150
+            },
+            "147": {
+                "Level": 147,
+                "TotalExp": 798100,
+                "ConfID": 148,
+                "VipExperience": 150
+            },
+            "148": {
+                "Level": 148,
+                "TotalExp": 814900,
+                "ConfID": 149,
+                "VipExperience": 150
+            },
+            "149": {
+                "Level": 149,
+                "TotalExp": 831900,
+                "ConfID": 150,
+                "VipExperience": 150
+            },
+            "150": {
+                "Level": 150,
+                "TotalExp": 849400,
+                "ConfID": 151,
+                "VipExperience": 150
+            },
+            "151": {
+                "Level": 151,
+                "TotalExp": 867400,
+                "ConfID": 152,
+                "VipExperience": 160
+            },
+            "152": {
+                "Level": 152,
+                "TotalExp": 885900,
+                "ConfID": 153,
+                "VipExperience": 160
+            },
+            "153": {
+                "Level": 153,
+                "TotalExp": 904900,
+                "ConfID": 154,
+                "VipExperience": 160
+            },
+            "154": {
+                "Level": 154,
+                "TotalExp": 924400,
+                "ConfID": 155,
+                "VipExperience": 160
+            },
+            "155": {
+                "Level": 155,
+                "TotalExp": 944400,
+                "ConfID": 156,
+                "VipExperience": 160
+            },
+            "156": {
+                "Level": 156,
+                "TotalExp": 964900,
+                "ConfID": 157,
+                "VipExperience": 160
+            },
+            "157": {
+                "Level": 157,
+                "TotalExp": 985900,
+                "ConfID": 158,
+                "VipExperience": 160
+            },
+            "158": {
+                "Level": 158,
+                "TotalExp": 1007400,
+                "ConfID": 159,
+                "VipExperience": 160
+            },
+            "159": {
+                "Level": 159,
+                "TotalExp": 1029400,
+                "ConfID": 160,
+                "VipExperience": 160
+            },
+            "160": {
+                "Level": 160,
+                "TotalExp": 1051900,
+                "ConfID": 161,
+                "VipExperience": 160
+            },
+            "161": {
+                "Level": 161,
+                "TotalExp": 1074900,
+                "ConfID": 162,
+                "VipExperience": 170
+            },
+            "162": {
+                "Level": 162,
+                "TotalExp": 1098400,
+                "ConfID": 163,
+                "VipExperience": 170
+            },
+            "163": {
+                "Level": 163,
+                "TotalExp": 1122400,
+                "ConfID": 164,
+                "VipExperience": 170
+            },
+            "164": {
+                "Level": 164,
+                "TotalExp": 1146900,
+                "ConfID": 165,
+                "VipExperience": 170
+            },
+            "165": {
+                "Level": 165,
+                "TotalExp": 1171900,
+                "ConfID": 166,
+                "VipExperience": 170
+            },
+            "166": {
+                "Level": 166,
+                "TotalExp": 1197400,
+                "ConfID": 167,
+                "VipExperience": 170
+            },
+            "167": {
+                "Level": 167,
+                "TotalExp": 1223400,
+                "ConfID": 168,
+                "VipExperience": 170
+            },
+            "168": {
+                "Level": 168,
+                "TotalExp": 1249900,
+                "ConfID": 169,
+                "VipExperience": 170
+            },
+            "169": {
+                "Level": 169,
+                "TotalExp": 1276900,
+                "ConfID": 170,
+                "VipExperience": 170
+            },
+            "170": {
+                "Level": 170,
+                "TotalExp": 1304400,
+                "ConfID": 171,
+                "VipExperience": 170
+            },
+            "171": {
+                "Level": 171,
+                "TotalExp": 1332400,
+                "ConfID": 172,
+                "VipExperience": 180
+            },
+            "172": {
+                "Level": 172,
+                "TotalExp": 1360900,
+                "ConfID": 173,
+                "VipExperience": 180
+            },
+            "173": {
+                "Level": 173,
+                "TotalExp": 1389900,
+                "ConfID": 174,
+                "VipExperience": 180
+            },
+            "174": {
+                "Level": 174,
+                "TotalExp": 1419400,
+                "ConfID": 175,
+                "VipExperience": 180
+            },
+            "175": {
+                "Level": 175,
+                "TotalExp": 1449400,
+                "ConfID": 176,
+                "VipExperience": 180
+            },
+            "176": {
+                "Level": 176,
+                "TotalExp": 1479900,
+                "ConfID": 177,
+                "VipExperience": 180
+            },
+            "177": {
+                "Level": 177,
+                "TotalExp": 1510900,
+                "ConfID": 178,
+                "VipExperience": 180
+            },
+            "178": {
+                "Level": 178,
+                "TotalExp": 1542400,
+                "ConfID": 179,
+                "VipExperience": 180
+            },
+            "179": {
+                "Level": 179,
+                "TotalExp": 1574400,
+                "ConfID": 180,
+                "VipExperience": 180
+            },
+            "180": {
+                "Level": 180,
+                "TotalExp": 1614400,
+                "ConfID": 181,
+                "VipExperience": 180
+            },
+            "181": {
+                "Level": 181,
+                "TotalExp": 1656400,
+                "ConfID": 182,
+                "VipExperience": 190
+            },
+            "182": {
+                "Level": 182,
+                "TotalExp": 1700400,
+                "ConfID": 183,
+                "VipExperience": 190
+            },
+            "183": {
+                "Level": 183,
+                "TotalExp": 1746400,
+                "ConfID": 184,
+                "VipExperience": 190
+            },
+            "184": {
+                "Level": 184,
+                "TotalExp": 1794400,
+                "ConfID": 185,
+                "VipExperience": 190
+            },
+            "185": {
+                "Level": 185,
+                "TotalExp": 1844400,
+                "ConfID": 186,
+                "VipExperience": 190
+            },
+            "186": {
+                "Level": 186,
+                "TotalExp": 1896400,
+                "ConfID": 187,
+                "VipExperience": 190
+            },
+            "187": {
+                "Level": 187,
+                "TotalExp": 1950400,
+                "ConfID": 188,
+                "VipExperience": 190
+            },
+            "188": {
+                "Level": 188,
+                "TotalExp": 2006400,
+                "ConfID": 189,
+                "VipExperience": 190
+            },
+            "189": {
+                "Level": 189,
+                "TotalExp": 2064400,
+                "ConfID": 190,
+                "VipExperience": 190
+            },
+            "190": {
+                "Level": 190,
+                "TotalExp": 2124400,
+                "ConfID": 191,
+                "VipExperience": 190
+            },
+            "191": {
+                "Level": 191,
+                "TotalExp": 2186400,
+                "ConfID": 192,
+                "VipExperience": 200
+            },
+            "192": {
+                "Level": 192,
+                "TotalExp": 2250400,
+                "ConfID": 193,
+                "VipExperience": 200
+            },
+            "193": {
+                "Level": 193,
+                "TotalExp": 2316400,
+                "ConfID": 194,
+                "VipExperience": 200
+            },
+            "194": {
+                "Level": 194,
+                "TotalExp": 2384400,
+                "ConfID": 195,
+                "VipExperience": 200
+            },
+            "195": {
+                "Level": 195,
+                "TotalExp": 2454400,
+                "ConfID": 196,
+                "VipExperience": 200
+            },
+            "196": {
+                "Level": 196,
+                "TotalExp": 2526400,
+                "ConfID": 197,
+                "VipExperience": 200
+            },
+            "197": {
+                "Level": 197,
+                "TotalExp": 2600400,
+                "ConfID": 198,
+                "VipExperience": 200
+            },
+            "198": {
+                "Level": 198,
+                "TotalExp": 2676400,
+                "ConfID": 199,
+                "VipExperience": 200
+            },
+            "199": {
+                "Level": 199,
+                "TotalExp": 2754400,
+                "ConfID": 200,
+                "VipExperience": 200
+            },
+            "200": {
+                "Level": 200,
+                "TotalExp": 2834400,
+                "ConfID": 201,
+                "VipExperience": 200
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 249,
+                "1": 152,
+                "2": 95,
+                "3": 78,
+                "4": 178,
+                "5": 237,
+                "6": 95,
+                "7": 245,
+                "8": 61,
+                "9": 130,
+                "10": 145,
+                "11": 117,
+                "12": 152,
+                "13": 246,
+                "14": 7,
+                "15": 90
+            },
+            "_lastPrecipherIndex": 7,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}

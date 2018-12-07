@@ -1,0 +1,4756 @@
+{
+    "configName": "GameMode_json",
+    "gameModeDict": {
+        "_count": 23,
+        "_maps": {
+            "1": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": 1,
+                "ReqCharacterCount": 16,
+                "ModeWordExplain": "此模式下可用武将为：<br/>身份武将<br/>至少拥有16名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": 1,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 1,
+                    "ModeName": "八人军争自由",
+                    "ClientModeName": "自由",
+                    "ModeTypeName2": "八人军争",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 1,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "UsingItems": [
+                        700001,
+                        700002,
+                        700003,
+                        700004,
+                        710004,
+                        700022
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "SetTableBanCharacterPackage": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 1,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 6,
+                    "RewardMinTime": 180,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1,
+                    "ReqCharacterCount": 16,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>身份武将<br/>至少拥有16名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 1,
+                "modeName": "八人军争自由",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700001,
+                    700002,
+                    700003,
+                    700004,
+                    710004,
+                    700022
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "八人军争",
+                "clientModeName": "自由",
+                "ruleType": 1,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "2": {
+                "tableMinLevelLabels": ">100级,>120级,>150级",
+                "tableRunRateLabels": "<2%,<4%,<6%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": 1,
+                "ReqCharacterCount": 16,
+                "ModeWordExplain": "此模式下可用武将为：<br/>身份武将<br/>至少拥有16名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": 1,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 2,
+                    "ModeName": "八人军争至尊",
+                    "ClientModeName": "至尊",
+                    "ModeTypeName2": "八人军争",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3,
+                        7
+                    ],
+                    "CreateTableMinLevel": 100,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 1,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 1,
+                    "UsingItems": [
+                        700001,
+                        700002,
+                        700003,
+                        700004,
+                        710004,
+                        700022
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        100,
+                        120,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        2,
+                        4,
+                        6
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "SetTableBanCharacterPackage": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 1,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 6,
+                    "RewardMinTime": 180,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 16,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>身份武将<br/>至少拥有16名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 2,
+                "modeName": "八人军争至尊",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 100,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": 1,
+                "usingItems": [
+                    700001,
+                    700002,
+                    700003,
+                    700004,
+                    710004,
+                    700022
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    100,
+                    120,
+                    150
+                ],
+                "setTableRunRate": [
+                    2,
+                    4,
+                    6
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "八人军争",
+                "clientModeName": "至尊",
+                "ruleType": 1,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "4": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "08:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 16,
+                "ModeWordExplain": "此模式下可用武将为：<br/>身份武将，但不包括神将、于吉、左慈、华佗、满宠。<br/>至少拥有16名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": 1,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 4,
+                    "ModeName": "身份竞技",
+                    "ModeDesc": "身份竞技第{0}赛季",
+                    "ClientModeName": "竞技",
+                    "ModeTypeName2": "八人军争",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        34,
+                        57,
+                        82,
+                        312,
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        14,
+                        15,
+                        16,
+                        17
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 1,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 8,
+                    "RewardMinTime": 180,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTimeSection": "08:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 16,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>身份武将，但不包括神将、于吉、左慈、华佗、满宠。<br/>至少拥有16名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 4,
+                "modeName": "身份竞技",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    34,
+                    57,
+                    82,
+                    312,
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "八人军争",
+                "clientModeName": "竞技",
+                "ruleType": 1,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1
+                ],
+                "modeDesc": "身份竞技第{0}赛季"
+            },
+            "5": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 5,
+                    "ModeName": "六人新手",
+                    "ClientModeName": "新手",
+                    "ModeTypeName2": "六人新手",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1
+                    ],
+                    "CardExtend": [
+                        1
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 6,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "UsingItems": [
+                        700001,
+                        700002,
+                        700003,
+                        700004,
+                        710004
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 6,
+                    "RewardMinTime": 120,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        2
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1
+                },
+                "modeID": 5,
+                "modeName": "六人新手",
+                "generalExtend": [
+                    1
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 2,
+                "maxPlayers": 6,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700001,
+                    700002,
+                    700003,
+                    700004,
+                    710004
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "六人新手",
+                "clientModeName": "新手",
+                "ruleType": 1,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "6": {
+                "tableMinLevelLabels": ">40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "08:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 32,
+                "ModeWordExplain": "此模式下可用武将为：<br/>国战武将。<br/>至少拥有32名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 6,
+                    "ModeName": "国战竞技",
+                    "ModeDesc": "国战竞技第{0}赛季",
+                    "ModeTypeName2": "国战",
+                    "ModeTypeName1": "国战",
+                    "RuleType": 2,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        15,
+                        16,
+                        17
+                    ],
+                    "CardExtend": [
+                        5
+                    ],
+                    "CreateTableMinLevel": 40,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 8,
+                    "RewardMinTime": 300,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        4
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTimeSection": "08:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 0,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 32,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>国战武将。<br/>至少拥有32名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 6,
+                "modeName": "国战竞技",
+                "generalExtend": [
+                    15,
+                    16,
+                    17
+                ],
+                "createTableMinLevel": 40,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "国战",
+                "modeTypeName2": "国战",
+                "clientModeName": "",
+                "ruleType": 2,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1
+                ],
+                "modeDesc": "国战竞技第{0}赛季"
+            },
+            "7": {
+                "tableMinLevelLabels": ">40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 32,
+                "ModeWordExplain": "此模式下可用武将为：<br/>国战武将。<br/>至少拥有32名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 7,
+                    "ModeName": "国战休闲",
+                    "ClientModeName": "自由",
+                    "ModeTypeName2": "国战",
+                    "ModeTypeName1": "国战",
+                    "RuleType": 2,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        15,
+                        16,
+                        17
+                    ],
+                    "CardExtend": [
+                        5
+                    ],
+                    "CreateTableMinLevel": 40,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        11
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "UsingItems": [
+                        700002,
+                        710004
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 6,
+                    "RewardMinTime": 300,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        4
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 32,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>国战武将。<br/>至少拥有32名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 7,
+                "modeName": "国战休闲",
+                "generalExtend": [
+                    15,
+                    16,
+                    17
+                ],
+                "createTableMinLevel": 40,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700002,
+                    710004
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "国战",
+                "modeTypeName2": "国战",
+                "clientModeName": "自由",
+                "ruleType": 2,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "8": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "08:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "此模式下可用武将为：<br/>欢乐武将，但不包括于吉、华佗、满宠、曹节、蹋顿、张鲁、诸葛诞、曹仁、周泰。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 8,
+                    "ModeName": "欢乐竞技",
+                    "ModeDesc": "欢乐成双竞技第{0}赛季",
+                    "ModeTypeName2": "欢乐成双",
+                    "ModeTypeName1": "欢乐",
+                    "RuleType": 5,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1,
+                        2
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        23,
+                        34,
+                        57,
+                        403,
+                        82,
+                        312,
+                        407,
+                        446,
+                        415,
+                        405,
+                        30,
+                        32,
+                        512,
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        7,
+                        8,
+                        9,
+                        10
+                    ],
+                    "MinPlayers": 4,
+                    "MaxPlayers": 4,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 4,
+                    "RewardMinTime": 60,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        3
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTimeSection": "08:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "LevelAthleticModeID": [
+                        {
+                            "level": 20,
+                            "modeID": 22
+                        }
+                    ],
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>欢乐武将，但不包括于吉、华佗、满宠、曹节、蹋顿、张鲁、诸葛诞、曹仁、周泰。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 8,
+                "modeName": "欢乐竞技",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    25
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 4,
+                "maxPlayers": 4,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    23,
+                    34,
+                    57,
+                    403,
+                    82,
+                    312,
+                    407,
+                    446,
+                    415,
+                    405,
+                    30,
+                    32,
+                    512,
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "欢乐",
+                "modeTypeName2": "欢乐成双",
+                "clientModeName": "",
+                "ruleType": 5,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1,
+                    2
+                ],
+                "modeDesc": "欢乐成双竞技第{0}赛季"
+            },
+            "9": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "此模式下可用武将为：<br/>欢乐武将。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 9,
+                    "ModeName": "欢乐休闲",
+                    "ClientModeName": "自由",
+                    "ModeTypeName2": "欢乐成双",
+                    "ModeTypeName1": "欢乐",
+                    "RuleType": 5,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        403,
+                        57,
+                        512,
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        12
+                    ],
+                    "MinPlayers": 4,
+                    "MaxPlayers": 4,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "UsingItems": [
+                        700002,
+                        700004,
+                        710004
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 4,
+                    "RewardMinTime": 60,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        3
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>欢乐武将。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 9,
+                "modeName": "欢乐休闲",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 4,
+                "maxPlayers": 4,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700002,
+                    700004,
+                    710004
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    403,
+                    57,
+                    512,
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "欢乐",
+                "modeTypeName2": "欢乐成双",
+                "clientModeName": "自由",
+                "ruleType": 5,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "10": {
+                "tableMinLevelLabels": ">60级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "08:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 10,
+                    "ModeName": "统率竞技",
+                    "ModeDesc": "统率三军竞技第{0}赛季",
+                    "ModeTypeName2": "统率三军",
+                    "ModeTypeName1": "统率",
+                    "RuleType": 3,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        0
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 60,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        60,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 2,
+                    "RewardMinTime": 120,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTime": "2018-11-01 00:00:00",
+                    "ModeOpenTimeSection": "08:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0
+                },
+                "modeID": 10,
+                "modeName": "统率竞技",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    0
+                ],
+                "createTableMinLevel": 60,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    60,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "2018-11-01 00:00:00",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "统率",
+                "modeTypeName2": "统率三军",
+                "clientModeName": "",
+                "ruleType": 3,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1
+                ],
+                "modeDesc": "统率三军竞技第{0}赛季"
+            },
+            "11": {
+                "tableMinLevelLabels": ">60级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 11,
+                    "ModeName": "统率休闲",
+                    "ModeTypeName2": "统率三军",
+                    "ModeTypeName1": "统率",
+                    "RuleType": 3,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        0
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 60,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        13
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        60,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 2,
+                    "RewardMinTime": 120,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTime": "2018-11-01 00:00:00",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0
+                },
+                "modeID": 11,
+                "modeName": "统率休闲",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    0
+                ],
+                "createTableMinLevel": 60,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    60,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "2018-11-01 00:00:00",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "统率",
+                "modeTypeName2": "统率三军",
+                "clientModeName": "",
+                "ruleType": 3,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "12": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": false,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 12,
+                    "ModeName": "活动",
+                    "ModeTypeName2": "活动",
+                    "ModeTypeName1": "活动模式",
+                    "RuleType": 11,
+                    "ModeGameType": 3,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        0
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTime": "2018-11-01 00:00:00",
+                    "ModeCloseTime": "2018-12-31 00:00:00",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0
+                },
+                "modeID": 12,
+                "modeName": "活动",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    0
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": false,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "2018-11-01 00:00:00",
+                "modeCloseTime": "2018-12-31 00:00:00",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "活动模式",
+                "modeTypeName2": "活动",
+                "clientModeName": "",
+                "ruleType": 11,
+                "modeGameType": 3,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "13": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": false,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 13,
+                    "ModeName": "武将列传",
+                    "ModeTypeName2": "武将列传",
+                    "ModeTypeName1": "武将列传",
+                    "RuleType": 10,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 1,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        3
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0
+                },
+                "modeID": 13,
+                "modeName": "武将列传",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": false,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "武将列传",
+                "modeTypeName2": "武将列传",
+                "clientModeName": "",
+                "ruleType": 10,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "14": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": false,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 0,
+                "GiveUpTime": 0,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 14,
+                    "ModeName": "武将突破",
+                    "ModeDesc": "突破成功,即可获得超值武将呦",
+                    "ModeTypeName2": "武将突破",
+                    "ModeTypeName1": "武将突破",
+                    "RuleType": 12,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        0
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 0,
+                    "MinPlayers": 1,
+                    "MaxPlayers": 2,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "UsingItems": [
+                        700002
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 2,
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0
+                },
+                "modeID": 14,
+                "modeName": "武将突破",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    0
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 2,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700002
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": false,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "武将突破",
+                "modeTypeName2": "武将突破",
+                "clientModeName": "",
+                "ruleType": 12,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ],
+                "modeDesc": "突破成功,即可获得超值武将呦"
+            },
+            "15": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 15,
+                    "ModeName": "六人新手",
+                    "ClientModeName": "引导",
+                    "RuleType": 1,
+                    "ModeGameType": 4,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        0
+                    ],
+                    "GeneralExtend": [
+                        1
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        509,
+                        510
+                    ],
+                    "CardExtend": [
+                        1
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 0,
+                    "MinPlayers": 1,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 1,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 60,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        1
+                    ],
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 1,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1
+                },
+                "modeID": 15,
+                "modeName": "六人新手",
+                "generalExtend": [
+                    1
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 60,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "",
+                "modeTypeName2": "",
+                "clientModeName": "引导",
+                "ruleType": 1,
+                "modeGameType": 4,
+                "isSupportTeam": [
+                    0
+                ]
+            },
+            "16": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 8,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": 1,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 16,
+                    "ModeName": "六人新手",
+                    "ClientModeName": "引导",
+                    "RuleType": 5,
+                    "ModeGameType": 4,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        0
+                    ],
+                    "GeneralExtend": [
+                        1
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        509,
+                        510
+                    ],
+                    "CardExtend": [
+                        1
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        7,
+                        8,
+                        9,
+                        10
+                    ],
+                    "MinPlayers": 1,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 1,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 60,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        1
+                    ],
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 1,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "IsBeginnerGuide": 1,
+                    "AthleticModeID": 8,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1,
+                    "ReqCharacterCount": 0
+                },
+                "modeID": 16,
+                "modeName": "六人新手",
+                "generalExtend": [
+                    1
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 60,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "",
+                "modeTypeName2": "",
+                "clientModeName": "引导",
+                "ruleType": 5,
+                "modeGameType": 4,
+                "isSupportTeam": [
+                    0
+                ]
+            },
+            "17": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 17,
+                    "ModeName": "六人新手",
+                    "ClientModeName": "引导",
+                    "RuleType": 1,
+                    "ModeGameType": 4,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        0
+                    ],
+                    "GeneralExtend": [
+                        1
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        509,
+                        510
+                    ],
+                    "CardExtend": [
+                        1
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 1,
+                    "MinPlayers": 1,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 1,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 60,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        1
+                    ],
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 1,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1
+                },
+                "modeID": 17,
+                "modeName": "六人新手",
+                "generalExtend": [
+                    1
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 60,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "",
+                "modeTypeName2": "",
+                "clientModeName": "引导",
+                "ruleType": 1,
+                "modeGameType": 4,
+                "isSupportTeam": [
+                    0
+                ]
+            },
+            "18": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式,自选模式",
+                "canDianjiang": 1,
+                "ReqCharacterCount": 10,
+                "ModeWordExplain": "此模式下可用武将为：<br/>身份武将，但不包括突破前的标准将。<br/>至少拥有10名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": 1,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 18,
+                    "ModeName": "军争演武",
+                    "ClientModeName": "演武",
+                    "ModeTypeName2": "八人军争",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 1,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "UsingItems": [
+                        700001,
+                        700002,
+                        700003,
+                        700004,
+                        710004,
+                        700022
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1,
+                        2
+                    ],
+                    "SetTableBanCharacterPackage": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 1,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 6,
+                    "RewardMinTime": 180,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 1,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 10,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>身份武将，但不包括突破前的标准将。<br/>至少拥有10名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 18,
+                "modeName": "军争演武",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700001,
+                    700002,
+                    700003,
+                    700004,
+                    710004,
+                    700022
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1,
+                    2
+                ],
+                "setTableBanCharacterPackage": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "八人军争",
+                "clientModeName": "演武",
+                "ruleType": 1,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "19": {
+                "tableMinLevelLabels": ">40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 10,
+                "ModeWordExplain": "此模式下可用武将为：<br/>国战武将。<br/>至少拥有10名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 19,
+                    "ModeName": "国战演武",
+                    "ClientModeName": "演武",
+                    "ModeTypeName2": "国战",
+                    "ModeTypeName1": "国战",
+                    "RuleType": 2,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        15,
+                        16,
+                        17
+                    ],
+                    "CardExtend": [
+                        5
+                    ],
+                    "CreateTableMinLevel": 40,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        11
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "UsingItems": [
+                        700002,
+                        700004,
+                        710004
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 6,
+                    "RewardMinTime": 180,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        4
+                    ],
+                    "RewardIgnoreEscape": 1,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 10,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>国战武将。<br/>至少拥有10名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 19,
+                "modeName": "国战演武",
+                "generalExtend": [
+                    15,
+                    16,
+                    17
+                ],
+                "createTableMinLevel": 40,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700002,
+                    700004,
+                    710004
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "国战",
+                "modeTypeName2": "国战",
+                "clientModeName": "演武",
+                "ruleType": 2,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "20": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "此模式下可用武将为：<br/>欢乐武将。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 20,
+                    "ModeName": "欢乐演武",
+                    "ClientModeName": "演武",
+                    "ModeTypeName2": "欢乐成双",
+                    "ModeTypeName1": "欢乐",
+                    "RuleType": 5,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        403,
+                        57,
+                        512,
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 0,
+                    "MatchRuleID": [
+                        12
+                    ],
+                    "MinPlayers": 4,
+                    "MaxPlayers": 4,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "UsingItems": [
+                        700002,
+                        700004,
+                        710004
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 1,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 4,
+                    "RewardMinTime": 60,
+                    "IsSupportSurrender": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        3
+                    ],
+                    "RewardIgnoreEscape": 1,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>欢乐武将。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 20,
+                "modeName": "欢乐演武",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 4,
+                "maxPlayers": 4,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700002,
+                    700004,
+                    710004
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": 1,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    403,
+                    57,
+                    512,
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "欢乐",
+                "modeTypeName2": "欢乐成双",
+                "clientModeName": "演武",
+                "ruleType": 5,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "21": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "00:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 4,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": 1,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 21,
+                    "ModeName": "身份竞技",
+                    "ModeDesc": "身份竞技第{0}赛季",
+                    "ClientModeName": "竞技",
+                    "ModeTypeName2": "八人军争",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        509,
+                        510
+                    ],
+                    "CardExtend": [
+                        1
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        14,
+                        15,
+                        16,
+                        17
+                    ],
+                    "MinPlayers": 1,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 2,
+                    "RewardMinTime": 1,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTimeSection": "00:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 0,
+                    "IsBeginnerGuide": 1,
+                    "AthleticModeID": 4,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1,
+                    "ReqCharacterCount": 0
+                },
+                "modeID": 21,
+                "modeName": "身份竞技",
+                "generalExtend": [
+                    1
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "八人军争",
+                "clientModeName": "竞技",
+                "ruleType": 1,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1
+                ],
+                "modeDesc": "身份竞技第{0}赛季"
+            },
+            "22": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "00:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 8,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": 1,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 22,
+                    "ModeName": "欢乐竞技",
+                    "ModeDesc": "欢乐成双竞技第{0}赛季",
+                    "ClientModeName": "竞技",
+                    "ModeTypeName2": "欢乐成双",
+                    "ModeTypeName1": "欢乐",
+                    "RuleType": 5,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1
+                    ],
+                    "ForbiddenCharacters": [
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        509,
+                        510
+                    ],
+                    "CardExtend": [
+                        1
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        7,
+                        8,
+                        9,
+                        10
+                    ],
+                    "MinPlayers": 1,
+                    "MaxPlayers": 4,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3
+                    ],
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 4,
+                    "RewardMinTime": 1,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTimeSection": "00:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 0,
+                    "IsBeginnerGuide": 1,
+                    "AthleticModeID": 8,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1,
+                    "ReqCharacterCount": 0
+                },
+                "modeID": 22,
+                "modeName": "欢乐竞技",
+                "generalExtend": [
+                    1
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 4,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    509,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "欢乐",
+                "modeTypeName2": "欢乐成双",
+                "clientModeName": "竞技",
+                "ruleType": 5,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1
+                ],
+                "modeDesc": "欢乐成双竞技第{0}赛季"
+            },
+            "41": {
+                "tableMinLevelLabels": ">10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "随机模式,固定模式",
+                "canDianjiang": false,
+                "ModeOpenTimeSection": "08:00:00",
+                "ModeCloseTimeSection": "23:59:59",
+                "ReqCharacterCount": 6,
+                "ModeWordExplain": "此模式下可用武将为：<br/>身份武将，但不包括神将、于吉、左慈、华佗、满宠。<br/>至少拥有10名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。",
+                "AthleticModeID": 4,
+                "isSupportDoubleProvocateur": 1,
+                "IsNeedCalculateEscape": 1,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 1,
+                "GiveUpTime": 300,
+                "OpenAssistant": 1,
+                "baseInfo": {
+                    "ModeID": 41,
+                    "ModeName": "身份竞技",
+                    "ClientModeName": "竞技",
+                    "ModeTypeName2": "八人军争",
+                    "ModeTypeName1": "身份",
+                    "RuleType": 1,
+                    "ModeGameType": 2,
+                    "CanNotJoinWhenEscape": 1,
+                    "IsSupportTeam": [
+                        1
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        9,
+                        10
+                    ],
+                    "ForbiddenCharacters": [
+                        23,
+                        34,
+                        57,
+                        82,
+                        312,
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 10,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        14,
+                        15,
+                        16,
+                        17
+                    ],
+                    "MinPlayers": 2,
+                    "MaxPlayers": 8,
+                    "IsNeedCalculateEscape": 1,
+                    "IsSupportDoubleProvocateur": 1,
+                    "IsSupportPause": 0,
+                    "IsSupportForbiddenUseItem": 0,
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        3,
+                        1
+                    ],
+                    "MaxBanCharacter": 6,
+                    "CanDianJiang": 0,
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 8,
+                    "RewardMinTime": 180,
+                    "IsSupportSurrender": 1,
+                    "ChooseGeneralType": 1,
+                    "TimeRuleID": 1,
+                    "RewardRuleID": [
+                        1
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "ModeOpenTimeSection": "08:00:00",
+                    "ModeCloseTimeSection": "23:59:59",
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "AthleticModeID": 4,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 1,
+                    "ReqCharacterCount": 6,
+                    "ModeWordExplain": "此模式下可用武将为：<br/>身份武将，但不包括神将、于吉、左慈、华佗、满宠。<br/>至少拥有10名以上武将才可以开始游戏。<br/>详细武将信息可以在武将列表界面查看。"
+                },
+                "modeID": 41,
+                "modeName": "身份竞技",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    9,
+                    10
+                ],
+                "createTableMinLevel": 10,
+                "minPlayers": 2,
+                "maxPlayers": 8,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    23,
+                    34,
+                    57,
+                    82,
+                    312,
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 1,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    3,
+                    1
+                ],
+                "setTableBanCharacterPackage": [],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "身份",
+                "modeTypeName2": "八人军争",
+                "clientModeName": "竞技",
+                "ruleType": 1,
+                "modeGameType": 2,
+                "isSupportTeam": [
+                    1
+                ]
+            },
+            "130": {
+                "tableMinLevelLabels": "不限制,>10级,>20级,>40级,>150级",
+                "tableRunRateLabels": "不限制,<1%,<2%,<3%",
+                "talbeCardTimeLabels": "5秒,10秒,15秒,20秒",
+                "tableSeatModelLabels": "固定模式",
+                "canDianjiang": false,
+                "ReqCharacterCount": 0,
+                "ModeWordExplain": "",
+                "AthleticModeID": 0,
+                "isSupportDoubleProvocateur": false,
+                "IsNeedCalculateEscape": false,
+                "IsBeginnerGuide": false,
+                "IsSupportSurrender": 1,
+                "MaxLeaveTime": 120,
+                "TimeRuleID": 0,
+                "GiveUpTime": 0,
+                "OpenAssistant": 0,
+                "baseInfo": {
+                    "ModeID": 130,
+                    "ModeName": "公会争霸战",
+                    "ClientModeName": "公会争霸战",
+                    "ModeTypeName2": "公会争霸战",
+                    "ModeTypeName1": "公会争霸战",
+                    "RuleType": 13,
+                    "ModeGameType": 1,
+                    "CanNotJoinWhenEscape": 0,
+                    "IsSupportTeam": [
+                        1,
+                        2
+                    ],
+                    "GeneralExtend": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        25
+                    ],
+                    "ForbiddenCharacters": [
+                        32,
+                        34,
+                        57,
+                        23,
+                        403,
+                        312,
+                        512,
+                        100,
+                        82,
+                        500,
+                        501,
+                        505,
+                        506,
+                        507,
+                        508,
+                        510,
+                        82
+                    ],
+                    "CardExtend": [
+                        1,
+                        2,
+                        3
+                    ],
+                    "CreateTableMinLevel": 0,
+                    "IsSupportMatch": 1,
+                    "MatchRuleID": [
+                        1
+                    ],
+                    "MinPlayers": 1,
+                    "MaxPlayers": 6,
+                    "IsNeedCalculateEscape": 0,
+                    "IsSupportDoubleProvocateur": 0,
+                    "IsSupportPause": 0,
+                    "UsingItems": [
+                        700002,
+                        700004
+                    ],
+                    "SetTalbeCardTime": [
+                        5,
+                        10,
+                        15,
+                        20
+                    ],
+                    "DefaultCardTime": 15,
+                    "SetTableMinLevel": [
+                        0,
+                        10,
+                        20,
+                        40,
+                        150
+                    ],
+                    "SetTableRunRate": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "SetTableSeatModel": [
+                        1
+                    ],
+                    "SetTableBanCharacterPackage": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24
+                    ],
+                    "LookOnSetType": 1,
+                    "IsOpenAddAI": 0,
+                    "GameOverProtectTime": 30,
+                    "MaxLeaveTime": 120,
+                    "MaxTimeoutTimes": 2,
+                    "GameLeftTimeWhenAllRobot": 1800,
+                    "MaxGameTime": 0,
+                    "RewardMinPlayer": 1,
+                    "RewardMinTime": 2,
+                    "IsSupportSurrender": 1,
+                    "RewardRuleID": [
+                        3
+                    ],
+                    "RewardIgnoreEscape": 0,
+                    "AITrusteeKind": 3,
+                    "GeneralChallengeLimit": 1,
+                    "IsBeginnerGuide": 0,
+                    "MinReputationValue": 60,
+                    "OpenAssistant": 0,
+                    "ReqCharacterCount": 0
+                },
+                "modeID": 130,
+                "modeName": "公会争霸战",
+                "generalExtend": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    25
+                ],
+                "createTableMinLevel": 1,
+                "minPlayers": 1,
+                "maxPlayers": 6,
+                "isSupportForbiddenUseItem": false,
+                "usingItems": [
+                    700002,
+                    700004
+                ],
+                "setTalbeCardTime": [
+                    5,
+                    10,
+                    15,
+                    20
+                ],
+                "defaultCardTime": 15,
+                "setTableMinLevel": [
+                    0,
+                    10,
+                    20,
+                    40,
+                    150
+                ],
+                "setTableRunRate": [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                "setTableBanCharacters": [],
+                "maxBanCharacter": 6,
+                "isOpenAdvanceChoseIdentity": false,
+                "lookOnSetType": 1,
+                "isOpenAddAI": false,
+                "gameOverProtectTime": 30,
+                "isNeedItem": [],
+                "forbiddenCharacters": [
+                    32,
+                    34,
+                    57,
+                    23,
+                    403,
+                    312,
+                    512,
+                    100,
+                    82,
+                    500,
+                    501,
+                    505,
+                    506,
+                    507,
+                    508,
+                    510,
+                    82
+                ],
+                "isSupportSurrender": 1,
+                "chooseGeneralType": 0,
+                "modeOpenTime": "",
+                "modeCloseTime": "",
+                "setTableSeatModel": [
+                    1
+                ],
+                "setTableBanCharacterPackage": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    18,
+                    19,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24
+                ],
+                "banCharactersExcpet": [],
+                "modeTypeName1": "公会争霸战",
+                "modeTypeName2": "公会争霸战",
+                "clientModeName": "公会争霸战",
+                "ruleType": 13,
+                "modeGameType": 1,
+                "isSupportTeam": [
+                    1,
+                    2
+                ]
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "imgDict": {
+        "_count": 1,
+        "_maps": {
+            "2": {
+                "ID": 1,
+                "ModeRuleType": 2,
+                "ImgUrl": [
+                    "res/assets/moderule/guozhan1.png",
+                    "res/assets/moderule/guozhan2.png",
+                    "res/assets/moderule/guozhan3.png",
+                    "res/assets/moderule/guozhan4.png"
+                ],
+                "Width": 908,
+                "Height": 463,
+                "DetailUrl": "http://www.sanguosha.com/Home/newsInfo/a_id/20181102_3865_2514"
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "ruleTimeDict": {
+        "_count": 1,
+        "_maps": {
+            "1": {
+                "ConfID": 1,
+                "RuleName": "军争牌堆",
+                "Unassailable": 15,
+                "AddBlood": 15,
+                "Discard": 15,
+                "ObserveStar": 30,
+                "DecideCardDelay": 5,
+                "ChooseIdentityDelay": 5,
+                "SkinEffectsDelay": 0,
+                "SkinKillEffectsDelay": 5000,
+                "GiveUp": 300
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 139,
+                "1": 202,
+                "2": 21,
+                "3": 135,
+                "4": 106,
+                "5": 129,
+                "6": 157,
+                "7": 236,
+                "8": 214,
+                "9": 161,
+                "10": 206,
+                "11": 92,
+                "12": 163,
+                "13": 146,
+                "14": 109,
+                "15": 110
+            },
+            "_lastPrecipherIndex": 12,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}

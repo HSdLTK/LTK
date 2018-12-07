@@ -1,0 +1,3140 @@
+{
+    "configName": "Cards_json",
+    "cards": {
+        "_count": 288,
+        "_maps": {
+            "1": {
+                "CardID": "1",
+                "Class": "JueDou",
+                "CardName": "决斗",
+                "Number": "1",
+                "Color": "2",
+                "type": "1",
+                "index": "7"
+            },
+            "2": {
+                "CardID": "2",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "2",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "3": {
+                "CardID": "3",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "3",
+                "Color": "2",
+                "type": "1",
+                "index": "9"
+            },
+            "4": {
+                "CardID": "4",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "4",
+                "Color": "2",
+                "type": "1",
+                "index": "9"
+            },
+            "5": {
+                "CardID": "5",
+                "Class": "GuanShiFu",
+                "CardName": "贯石斧",
+                "Number": "5",
+                "Color": "2",
+                "type": "1",
+                "index": "28"
+            },
+            "6": {
+                "CardID": "6",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "6",
+                "Color": "2",
+                "type": "1",
+                "index": "1"
+            },
+            "7": {
+                "CardID": "7",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "7",
+                "Color": "2",
+                "type": "1",
+                "index": "1"
+            },
+            "8": {
+                "CardID": "8",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "2",
+                "type": "1",
+                "index": "1"
+            },
+            "9": {
+                "CardID": "9",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "2",
+                "type": "1",
+                "index": "1"
+            },
+            "10": {
+                "CardID": "10",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "2",
+                "type": "1",
+                "index": "1"
+            },
+            "11": {
+                "CardID": "11",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "11",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "12": {
+                "CardID": "12",
+                "Class": "FangTianHuaJi",
+                "CardName": "方天戟",
+                "Number": "12",
+                "Color": "2",
+                "type": "1",
+                "index": "29"
+            },
+            "13": {
+                "CardID": "13",
+                "Class": "ZiXing",
+                "CardName": "紫骍",
+                "Number": "13",
+                "Color": "2",
+                "type": "1",
+                "index": "34"
+            },
+            "14": {
+                "CardID": "14",
+                "Class": "ZhuGeLianNu",
+                "CardName": "诸葛连弩",
+                "Number": "1",
+                "Color": "2",
+                "type": "1",
+                "index": "22"
+            },
+            "15": {
+                "CardID": "15",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "2",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "16": {
+                "CardID": "16",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "3",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "17": {
+                "CardID": "17",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "4",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "18": {
+                "CardID": "18",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "5",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "19": {
+                "CardID": "19",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "6",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "20": {
+                "CardID": "20",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "7",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "21": {
+                "CardID": "21",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "8",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "22": {
+                "CardID": "22",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "9",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "23": {
+                "CardID": "23",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "10",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "24": {
+                "CardID": "24",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "11",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "25": {
+                "CardID": "25",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "12",
+                "Color": "2",
+                "type": "1",
+                "index": "3"
+            },
+            "26": {
+                "CardID": "26",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "13",
+                "Color": "2",
+                "type": "1",
+                "index": "1"
+            },
+            "27": {
+                "CardID": "27",
+                "Class": "WanJianQiFa",
+                "CardName": "万箭齐发",
+                "Number": "1",
+                "Color": "1",
+                "type": "1",
+                "index": "10"
+            },
+            "28": {
+                "CardID": "28",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "2",
+                "Color": "1",
+                "type": "1",
+                "index": "2"
+            },
+            "29": {
+                "CardID": "29",
+                "Class": "WuGuFengDeng",
+                "CardName": "五谷丰登",
+                "Number": "3",
+                "Color": "1",
+                "type": "1",
+                "index": "14"
+            },
+            "30": {
+                "CardID": "30",
+                "Class": "WuGuFengDeng",
+                "CardName": "五谷丰登",
+                "Number": "4",
+                "Color": "1",
+                "type": "1",
+                "index": "14"
+            },
+            "31": {
+                "CardID": "31",
+                "Class": "ChiTu",
+                "CardName": "赤兔",
+                "Number": "5",
+                "Color": "1",
+                "type": "1",
+                "index": "34"
+            },
+            "32": {
+                "CardID": "32",
+                "Class": "LeBuSiShu",
+                "CardName": "乐不思蜀",
+                "Number": "6",
+                "Color": "1",
+                "type": "1",
+                "index": "16"
+            },
+            "33": {
+                "CardID": "33",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "7",
+                "Color": "1",
+                "type": "1",
+                "index": "13"
+            },
+            "34": {
+                "CardID": "34",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "8",
+                "Color": "1",
+                "type": "1",
+                "index": "13"
+            },
+            "35": {
+                "CardID": "35",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "9",
+                "Color": "1",
+                "type": "1",
+                "index": "13"
+            },
+            "36": {
+                "CardID": "36",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "1",
+                "type": "1",
+                "index": "1"
+            },
+            "37": {
+                "CardID": "37",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "11",
+                "Color": "1",
+                "type": "1",
+                "index": "13"
+            },
+            "38": {
+                "CardID": "38",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "12",
+                "Color": "1",
+                "type": "1",
+                "index": "8"
+            },
+            "39": {
+                "CardID": "39",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "13",
+                "Color": "1",
+                "type": "1",
+                "index": "2"
+            },
+            "40": {
+                "CardID": "40",
+                "Class": "TaoYuanJieYi",
+                "CardName": "桃园结义",
+                "Number": "1",
+                "Color": "1",
+                "type": "1",
+                "index": "12"
+            },
+            "41": {
+                "CardID": "41",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "2",
+                "Color": "1",
+                "type": "1",
+                "index": "2"
+            },
+            "42": {
+                "CardID": "42",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "3",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "43": {
+                "CardID": "43",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "4",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "44": {
+                "CardID": "44",
+                "Class": "QiLinGong",
+                "CardName": "麒麟弓",
+                "Number": "5",
+                "Color": "1",
+                "type": "1",
+                "index": "30"
+            },
+            "45": {
+                "CardID": "45",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "6",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "46": {
+                "CardID": "46",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "7",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "47": {
+                "CardID": "47",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "8",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "48": {
+                "CardID": "48",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "9",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "49": {
+                "CardID": "49",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "1",
+                "type": "1",
+                "index": "1"
+            },
+            "50": {
+                "CardID": "50",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "1",
+                "type": "1",
+                "index": "1"
+            },
+            "51": {
+                "CardID": "51",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "12",
+                "Color": "1",
+                "type": "1",
+                "index": "3"
+            },
+            "52": {
+                "CardID": "52",
+                "Class": "ZhuaHuangFeiDian",
+                "CardName": "爪黄飞电",
+                "Number": "13",
+                "Color": "1",
+                "type": "1",
+                "index": "33"
+            },
+            "53": {
+                "CardID": "53",
+                "Class": "JueDou",
+                "CardName": "决斗",
+                "Number": "1",
+                "Color": "4",
+                "type": "1",
+                "index": "7"
+            },
+            "54": {
+                "CardID": "54",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "2",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "55": {
+                "CardID": "55",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "3",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "56": {
+                "CardID": "56",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "4",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "57": {
+                "CardID": "57",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "5",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "58": {
+                "CardID": "58",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "6",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "59": {
+                "CardID": "59",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "7",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "60": {
+                "CardID": "60",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "61": {
+                "CardID": "61",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "62": {
+                "CardID": "62",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "63": {
+                "CardID": "63",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "64": {
+                "CardID": "64",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "12",
+                "Color": "4",
+                "type": "1",
+                "index": "18"
+            },
+            "65": {
+                "CardID": "65",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "13",
+                "Color": "4",
+                "type": "1",
+                "index": "18"
+            },
+            "66": {
+                "CardID": "66",
+                "Class": "ZhuGeLianNu",
+                "CardName": "连弩",
+                "Number": "1",
+                "Color": "4",
+                "type": "1",
+                "index": "22"
+            },
+            "67": {
+                "CardID": "67",
+                "Class": "BaGuaZhen",
+                "CardName": "八卦阵",
+                "Number": "2",
+                "Color": "4",
+                "type": "1",
+                "index": "31"
+            },
+            "68": {
+                "CardID": "68",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "3",
+                "Color": "4",
+                "type": "1",
+                "index": "8"
+            },
+            "69": {
+                "CardID": "69",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "4",
+                "Color": "4",
+                "type": "1",
+                "index": "8"
+            },
+            "70": {
+                "CardID": "70",
+                "Class": "DiLu",
+                "CardName": "的卢",
+                "Number": "5",
+                "Color": "4",
+                "type": "1",
+                "index": "33"
+            },
+            "71": {
+                "CardID": "71",
+                "Class": "LeBuSiShu",
+                "CardName": "乐不思蜀",
+                "Number": "6",
+                "Color": "4",
+                "type": "1",
+                "index": "16"
+            },
+            "72": {
+                "CardID": "72",
+                "Class": "NanManRuQin",
+                "CardName": "南蛮入侵",
+                "Number": "7",
+                "Color": "4",
+                "type": "1",
+                "index": "11"
+            },
+            "73": {
+                "CardID": "73",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "74": {
+                "CardID": "74",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "75": {
+                "CardID": "75",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "76": {
+                "CardID": "76",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "77": {
+                "CardID": "77",
+                "Class": "JieDaoShaRen",
+                "CardName": "借刀杀人",
+                "Number": "12",
+                "Color": "4",
+                "type": "1",
+                "index": "15"
+            },
+            "78": {
+                "CardID": "78",
+                "Class": "JieDaoShaRen",
+                "CardName": "借刀杀人",
+                "Number": "13",
+                "Color": "4",
+                "type": "1",
+                "index": "15"
+            },
+            "79": {
+                "CardID": "79",
+                "Class": "JueDou",
+                "CardName": "决斗",
+                "Number": "1",
+                "Color": "3",
+                "type": "1",
+                "index": "7"
+            },
+            "80": {
+                "CardID": "80",
+                "Class": "CiXiongShuangGuJian",
+                "CardName": "雌雄双股剑",
+                "Number": "2",
+                "Color": "3",
+                "type": "1",
+                "index": "23"
+            },
+            "81": {
+                "CardID": "81",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "3",
+                "Color": "3",
+                "type": "1",
+                "index": "9"
+            },
+            "82": {
+                "CardID": "82",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "4",
+                "Color": "3",
+                "type": "1",
+                "index": "9"
+            },
+            "83": {
+                "CardID": "83",
+                "Class": "JueYing",
+                "CardName": "绝影",
+                "Number": "5",
+                "Color": "3",
+                "type": "1",
+                "index": "33"
+            },
+            "84": {
+                "CardID": "84",
+                "Class": "QingGangJian",
+                "CardName": "青釭剑",
+                "Number": "6",
+                "Color": "3",
+                "type": "1",
+                "index": "25"
+            },
+            "85": {
+                "CardID": "85",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "7",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "86": {
+                "CardID": "86",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "87": {
+                "CardID": "87",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "88": {
+                "CardID": "88",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "89": {
+                "CardID": "89",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "11",
+                "Color": "3",
+                "type": "1",
+                "index": "9"
+            },
+            "90": {
+                "CardID": "90",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "12",
+                "Color": "3",
+                "type": "1",
+                "index": "8"
+            },
+            "91": {
+                "CardID": "91",
+                "Class": "NanManRuQin",
+                "CardName": "南蛮入侵",
+                "Number": "13",
+                "Color": "3",
+                "type": "1",
+                "index": "11"
+            },
+            "92": {
+                "CardID": "92",
+                "Class": "ShanDian",
+                "CardName": "闪电",
+                "Number": "1",
+                "Color": "3",
+                "type": "1",
+                "index": "17"
+            },
+            "93": {
+                "CardID": "93",
+                "Class": "BaGuaZhen",
+                "CardName": "八卦阵",
+                "Number": "2",
+                "Color": "3",
+                "type": "1",
+                "index": "31"
+            },
+            "94": {
+                "CardID": "94",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "3",
+                "Color": "3",
+                "type": "1",
+                "index": "8"
+            },
+            "95": {
+                "CardID": "95",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "4",
+                "Color": "3",
+                "type": "1",
+                "index": "8"
+            },
+            "96": {
+                "CardID": "96",
+                "Class": "QingLongYanYueDao",
+                "CardName": "青龙偃月刀",
+                "Number": "5",
+                "Color": "3",
+                "type": "1",
+                "index": "26"
+            },
+            "97": {
+                "CardID": "97",
+                "Class": "LeBuSiShu",
+                "CardName": "乐不思蜀",
+                "Number": "6",
+                "Color": "3",
+                "type": "1",
+                "index": "16"
+            },
+            "98": {
+                "CardID": "98",
+                "Class": "NanManRuQin",
+                "CardName": "南蛮入侵",
+                "Number": "7",
+                "Color": "3",
+                "type": "1",
+                "index": "11"
+            },
+            "99": {
+                "CardID": "99",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "100": {
+                "CardID": "100",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "101": {
+                "CardID": "101",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "102": {
+                "CardID": "102",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "11",
+                "Color": "3",
+                "type": "1",
+                "index": "18"
+            },
+            "103": {
+                "CardID": "103",
+                "Class": "ZhangBaSheMao",
+                "CardName": "丈八矛",
+                "Number": "12",
+                "Color": "3",
+                "type": "1",
+                "index": "27"
+            },
+            "104": {
+                "CardID": "104",
+                "Class": "DaWan",
+                "CardName": "大宛",
+                "Number": "13",
+                "Color": "3",
+                "type": "1",
+                "index": "34"
+            },
+            "105": {
+                "CardID": "105",
+                "Class": "ShanDian",
+                "CardName": "闪电",
+                "Number": "12",
+                "Color": "1",
+                "type": "2",
+                "index": "17"
+            },
+            "106": {
+                "CardID": "106",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "12",
+                "Color": "2",
+                "type": "2",
+                "index": "18"
+            },
+            "107": {
+                "CardID": "107",
+                "Class": "RenWangDun",
+                "CardName": "仁王盾",
+                "Number": "2",
+                "Color": "4",
+                "type": "2",
+                "index": "32"
+            },
+            "108": {
+                "CardID": "108",
+                "Class": "HanBingJian",
+                "CardName": "寒冰剑",
+                "Number": "2",
+                "Color": "3",
+                "type": "2",
+                "index": "24"
+            },
+            "109": {
+                "CardID": "109",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "1",
+                "Color": "1",
+                "type": "8",
+                "index": "18"
+            },
+            "110": {
+                "CardID": "110",
+                "Class": "HuoGong",
+                "CardName": "火攻",
+                "Number": "2",
+                "Color": "1",
+                "type": "8",
+                "index": "19"
+            },
+            "111": {
+                "CardID": "111",
+                "Class": "HuoGong",
+                "CardName": "火攻",
+                "Number": "3",
+                "Color": "1",
+                "type": "8",
+                "index": "19"
+            },
+            "112": {
+                "CardID": "112",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "4",
+                "Color": "1",
+                "type": "8",
+                "index": "5"
+            },
+            "113": {
+                "CardID": "113",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "5",
+                "Color": "1",
+                "type": "8",
+                "index": "3"
+            },
+            "114": {
+                "CardID": "114",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "6",
+                "Color": "1",
+                "type": "8",
+                "index": "3"
+            },
+            "115": {
+                "CardID": "115",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "7",
+                "Color": "1",
+                "type": "8",
+                "index": "5"
+            },
+            "116": {
+                "CardID": "116",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "8",
+                "Color": "1",
+                "type": "8",
+                "index": "2"
+            },
+            "117": {
+                "CardID": "117",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "9",
+                "Color": "1",
+                "type": "8",
+                "index": "2"
+            },
+            "118": {
+                "CardID": "118",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "10",
+                "Color": "1",
+                "type": "8",
+                "index": "5"
+            },
+            "119": {
+                "CardID": "119",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "11",
+                "Color": "1",
+                "type": "8",
+                "index": "2"
+            },
+            "120": {
+                "CardID": "120",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "12",
+                "Color": "1",
+                "type": "8",
+                "index": "2"
+            },
+            "121": {
+                "CardID": "121",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "13",
+                "Color": "1",
+                "type": "8",
+                "index": "18"
+            },
+            "122": {
+                "CardID": "122",
+                "Class": "ZhuQueYuShan",
+                "CardName": "朱雀羽扇",
+                "Number": "1",
+                "Color": "2",
+                "type": "8",
+                "index": "36"
+            },
+            "123": {
+                "CardID": "123",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "2",
+                "Color": "2",
+                "type": "8",
+                "index": "3"
+            },
+            "124": {
+                "CardID": "124",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "3",
+                "Color": "2",
+                "type": "8",
+                "index": "3"
+            },
+            "125": {
+                "CardID": "125",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "4",
+                "Color": "2",
+                "type": "8",
+                "index": "5"
+            },
+            "126": {
+                "CardID": "126",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "5",
+                "Color": "2",
+                "type": "8",
+                "index": "5"
+            },
+            "127": {
+                "CardID": "127",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "6",
+                "Color": "2",
+                "type": "8",
+                "index": "2"
+            },
+            "128": {
+                "CardID": "128",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "7",
+                "Color": "2",
+                "type": "8",
+                "index": "2"
+            },
+            "129": {
+                "CardID": "129",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "8",
+                "Color": "2",
+                "type": "8",
+                "index": "2"
+            },
+            "130": {
+                "CardID": "130",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "2",
+                "type": "8",
+                "index": "6"
+            },
+            "131": {
+                "CardID": "131",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "10",
+                "Color": "2",
+                "type": "8",
+                "index": "2"
+            },
+            "132": {
+                "CardID": "132",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "11",
+                "Color": "2",
+                "type": "8",
+                "index": "2"
+            },
+            "133": {
+                "CardID": "133",
+                "Class": "HuoGong",
+                "CardName": "火攻",
+                "Number": "12",
+                "Color": "2",
+                "type": "8",
+                "index": "19"
+            },
+            "134": {
+                "CardID": "134",
+                "Class": "HuaLiu",
+                "CardName": "骅骝",
+                "Number": "13",
+                "Color": "2",
+                "type": "8",
+                "index": "33"
+            },
+            "135": {
+                "CardID": "135",
+                "Class": "GuDingDao",
+                "CardName": "古锭刀",
+                "Number": "1",
+                "Color": "3",
+                "type": "8",
+                "index": "35"
+            },
+            "136": {
+                "CardID": "136",
+                "Class": "TengJia",
+                "CardName": "藤甲",
+                "Number": "2",
+                "Color": "3",
+                "type": "8",
+                "index": "37"
+            },
+            "137": {
+                "CardID": "137",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "3",
+                "Color": "3",
+                "type": "8",
+                "index": "6"
+            },
+            "138": {
+                "CardID": "138",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "4",
+                "Color": "3",
+                "type": "8",
+                "index": "4"
+            },
+            "139": {
+                "CardID": "139",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "5",
+                "Color": "3",
+                "type": "8",
+                "index": "4"
+            },
+            "140": {
+                "CardID": "140",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "6",
+                "Color": "3",
+                "type": "8",
+                "index": "4"
+            },
+            "141": {
+                "CardID": "141",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "7",
+                "Color": "3",
+                "type": "8",
+                "index": "4"
+            },
+            "142": {
+                "CardID": "142",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "8",
+                "Color": "3",
+                "type": "8",
+                "index": "4"
+            },
+            "143": {
+                "CardID": "143",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "3",
+                "type": "8",
+                "index": "6"
+            },
+            "144": {
+                "CardID": "144",
+                "Class": "BingLiangCunDuan",
+                "CardName": "兵粮寸断",
+                "Number": "10",
+                "Color": "3",
+                "type": "8",
+                "index": "20"
+            },
+            "145": {
+                "CardID": "145",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "11",
+                "Color": "3",
+                "type": "8",
+                "index": "21"
+            },
+            "146": {
+                "CardID": "146",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "12",
+                "Color": "3",
+                "type": "8",
+                "index": "21"
+            },
+            "147": {
+                "CardID": "147",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "13",
+                "Color": "3",
+                "type": "8",
+                "index": "18"
+            },
+            "148": {
+                "CardID": "148",
+                "Class": "BaiYinShiZi",
+                "CardName": "白银狮子",
+                "Number": "1",
+                "Color": "4",
+                "type": "8",
+                "index": "38"
+            },
+            "149": {
+                "CardID": "149",
+                "Class": "TengJia",
+                "CardName": "藤甲",
+                "Number": "2",
+                "Color": "4",
+                "type": "8",
+                "index": "37"
+            },
+            "150": {
+                "CardID": "150",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "3",
+                "Color": "4",
+                "type": "8",
+                "index": "6"
+            },
+            "151": {
+                "CardID": "151",
+                "Class": "BingLiangCunDuan",
+                "CardName": "兵粮寸断",
+                "Number": "4",
+                "Color": "4",
+                "type": "8",
+                "index": "20"
+            },
+            "152": {
+                "CardID": "152",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "5",
+                "Color": "4",
+                "type": "8",
+                "index": "4"
+            },
+            "153": {
+                "CardID": "153",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "6",
+                "Color": "4",
+                "type": "8",
+                "index": "4"
+            },
+            "154": {
+                "CardID": "154",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "7",
+                "Color": "4",
+                "type": "8",
+                "index": "4"
+            },
+            "155": {
+                "CardID": "155",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "8",
+                "Color": "4",
+                "type": "8",
+                "index": "4"
+            },
+            "156": {
+                "CardID": "156",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "4",
+                "type": "8",
+                "index": "6"
+            },
+            "157": {
+                "CardID": "157",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "10",
+                "Color": "4",
+                "type": "8",
+                "index": "21"
+            },
+            "158": {
+                "CardID": "158",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "11",
+                "Color": "4",
+                "type": "8",
+                "index": "21"
+            },
+            "159": {
+                "CardID": "159",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "12",
+                "Color": "4",
+                "type": "8",
+                "index": "21"
+            },
+            "160": {
+                "CardID": "160",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "13",
+                "Color": "4",
+                "type": "8",
+                "index": "21"
+            },
+            "161": {
+                "CardID": "161",
+                "Class": "MuNiuLiuMa",
+                "CardName": "木牛流马",
+                "Number": "5",
+                "Color": "2",
+                "type": "7"
+            },
+            "202": {
+                "CardID": "202",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "12",
+                "Color": "2",
+                "type": "1",
+                "index": "2"
+            },
+            "203": {
+                "CardID": "203",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "3",
+                "type": "1",
+                "index": "1"
+            },
+            "204": {
+                "CardID": "204",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "12",
+                "Color": "4",
+                "type": "1",
+                "index": "8"
+            },
+            "205": {
+                "CardID": "205",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "13",
+                "Color": "4",
+                "type": "1",
+                "index": "1"
+            },
+            "306": {
+                "CardID": "306",
+                "Class": "XiaoLiCangDao",
+                "CardName": "笑里藏刀",
+                "Number": "6",
+                "Color": "3",
+                "type": "1"
+            },
+            "307": {
+                "CardID": "307",
+                "Class": "XiaoLiCangDao",
+                "CardName": "笑里藏刀",
+                "Number": "5",
+                "Color": "4",
+                "type": "1"
+            },
+            "308": {
+                "CardID": "308",
+                "Class": "XiaoLiCangDao",
+                "CardName": "笑里藏刀",
+                "Number": "4",
+                "Color": "1",
+                "type": "1"
+            },
+            "309": {
+                "CardID": "309",
+                "Class": "MeiRenJi",
+                "CardName": "美人计",
+                "Number": "3",
+                "Color": "3",
+                "type": "1"
+            },
+            "310": {
+                "CardID": "310",
+                "Class": "MeiRenJi",
+                "CardName": "美人计",
+                "Number": "2",
+                "Color": "4",
+                "type": "1"
+            },
+            "311": {
+                "CardID": "311",
+                "Class": "MeiRenJi",
+                "CardName": "美人计",
+                "Number": "1",
+                "Color": "1",
+                "type": "1"
+            },
+            "400": {
+                "CardID": "400",
+                "Class": "HunShuiMoYu",
+                "CardName": "混水摸鱼",
+                "Number": "1",
+                "Color": "4",
+                "type": "1"
+            },
+            "401": {
+                "CardID": "401",
+                "Class": "XiangYuDao",
+                "CardName": "项羽刀",
+                "Number": "1",
+                "Color": "3",
+                "type": "3"
+            },
+            "402": {
+                "CardID": "402",
+                "Class": "RenXinLieZhuan",
+                "CardName": "仁心",
+                "Number": "1",
+                "Color": "1",
+                "type": "4"
+            },
+            "403": {
+                "CardID": "403",
+                "Class": "YunTi",
+                "CardName": "云梯",
+                "Number": "1",
+                "Color": "2",
+                "type": "7"
+            },
+            "404": {
+                "CardID": "404",
+                "Class": "TaiPinYaoShu",
+                "CardName": "太平要术",
+                "Number": "2",
+                "Color": "3",
+                "type": "7"
+            },
+            "405": {
+                "CardID": "405",
+                "Class": "RenDao",
+                "CardName": "人道",
+                "Number": "2",
+                "Color": "3",
+                "type": "7"
+            },
+            "1001": {
+                "CardID": "1001",
+                "Class": "JueDou",
+                "CardName": "决斗",
+                "Number": "1",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1002": {
+                "CardID": "1002",
+                "Class": "ShanDian",
+                "CardName": "闪电",
+                "Number": "1",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1003": {
+                "CardID": "1003",
+                "Class": "BaGuaZhen",
+                "CardName": "八卦阵",
+                "Number": "2",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1004": {
+                "CardID": "1004",
+                "Class": "CiXiongShuangGuJian",
+                "CardName": "雌雄双股剑",
+                "Number": "2",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1005": {
+                "CardID": "1005",
+                "Class": "HanBingJian",
+                "CardName": "寒冰剑",
+                "Number": "2",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1006": {
+                "CardID": "1006",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "3",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1007": {
+                "CardID": "1007",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "3",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1008": {
+                "CardID": "1008",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "4",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1009": {
+                "CardID": "1009",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "4",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1010": {
+                "CardID": "1010",
+                "Class": "JueYing",
+                "CardName": "绝影",
+                "Number": "5",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1011": {
+                "CardID": "1011",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "5",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1012": {
+                "CardID": "1012",
+                "Class": "QingGangJian",
+                "CardName": "青釭剑",
+                "Number": "6",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1013": {
+                "CardID": "1013",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "6",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1014": {
+                "CardID": "1014",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "7",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1015": {
+                "CardID": "1015",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "7",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1016": {
+                "CardID": "1016",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1017": {
+                "CardID": "1017",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1018": {
+                "CardID": "1018",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1019": {
+                "CardID": "1019",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1020": {
+                "CardID": "1020",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1021": {
+                "CardID": "1021",
+                "Class": "BingLiangCunDuan",
+                "CardName": "兵粮寸断",
+                "Number": "10",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1022": {
+                "CardID": "1022",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1023": {
+                "CardID": "1023",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "11",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1024": {
+                "CardID": "1024",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "12",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1025": {
+                "CardID": "1025",
+                "Class": "ZhangBaSheMao",
+                "CardName": "丈八蛇矛",
+                "Number": "12",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1026": {
+                "CardID": "1026",
+                "Class": "NanManRuQin",
+                "CardName": "南蛮入侵",
+                "Number": "13",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1027": {
+                "CardID": "1027",
+                "Class": "DaWan",
+                "CardName": "大宛",
+                "Number": "13",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "1028": {
+                "CardID": "1028",
+                "Class": "TaoYuanJieYi",
+                "CardName": "桃园结义",
+                "Number": "1",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1029": {
+                "CardID": "1029",
+                "Class": "WanJianQiFa",
+                "CardName": "万箭齐发",
+                "Number": "1",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1030": {
+                "CardID": "1030",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "2",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1031": {
+                "CardID": "1031",
+                "Class": "HuoGong",
+                "CardName": "火攻",
+                "Number": "2",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1032": {
+                "CardID": "1032",
+                "Class": "WuGuFengDeng",
+                "CardName": "五谷丰登",
+                "Number": "3",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1033": {
+                "CardID": "1033",
+                "Class": "HuoGong",
+                "CardName": "火攻",
+                "Number": "3",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1034": {
+                "CardID": "1034",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "4",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1035": {
+                "CardID": "1035",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "4",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1036": {
+                "CardID": "1036",
+                "Class": "ChiTu",
+                "CardName": "赤兔",
+                "Number": "5",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1037": {
+                "CardID": "1037",
+                "Class": "QiLinGong",
+                "CardName": "麒麟弓",
+                "Number": "5",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1038": {
+                "CardID": "1038",
+                "Class": "LeBuSiShu",
+                "CardName": "乐不思蜀",
+                "Number": "6",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1039": {
+                "CardID": "1039",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "6",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1040": {
+                "CardID": "1040",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "7",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1041": {
+                "CardID": "1041",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "7",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1042": {
+                "CardID": "1042",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "8",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1043": {
+                "CardID": "1043",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "8",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1044": {
+                "CardID": "1044",
+                "Class": "YuanJiaoJinGong",
+                "CardName": "远交近攻",
+                "Number": "9",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1045": {
+                "CardID": "1045",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "9",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1046": {
+                "CardID": "1046",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1047": {
+                "CardID": "1047",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "10",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1048": {
+                "CardID": "1048",
+                "Class": "YiYiDaiLao",
+                "CardName": "以逸待劳",
+                "Number": "11",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1049": {
+                "CardID": "1049",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "11",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1050": {
+                "CardID": "1050",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "12",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1051": {
+                "CardID": "1051",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "12",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1052": {
+                "CardID": "1052",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "12",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1053": {
+                "CardID": "1053",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "13",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1054": {
+                "CardID": "1054",
+                "Class": "ZhuaHuangFeiDian",
+                "CardName": "爪黄飞电",
+                "Number": "13",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "1055": {
+                "CardID": "1055",
+                "Class": "JueDou",
+                "CardName": "决斗",
+                "Number": "1",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1056": {
+                "CardID": "1056",
+                "Class": "BaiYinShiZi",
+                "CardName": "白银狮子",
+                "Number": "1",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1057": {
+                "CardID": "1057",
+                "Class": "TengJia",
+                "CardName": "藤甲",
+                "Number": "2",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1058": {
+                "CardID": "1058",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "2",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1059": {
+                "CardID": "1059",
+                "Class": "RenWangDun",
+                "CardName": "仁王盾",
+                "Number": "2",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1060": {
+                "CardID": "1060",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "3",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1061": {
+                "CardID": "1061",
+                "Class": "ZhiJiZhiBi",
+                "CardName": "知己知彼",
+                "Number": "3",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1062": {
+                "CardID": "1062",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "4",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1063": {
+                "CardID": "1063",
+                "Class": "ZhiJiZhiBi",
+                "CardName": "知己知彼",
+                "Number": "4",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1064": {
+                "CardID": "1064",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "5",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1065": {
+                "CardID": "1065",
+                "Class": "DiLu",
+                "CardName": "的卢",
+                "Number": "5",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1066": {
+                "CardID": "1066",
+                "Class": "LeBuSiShu",
+                "CardName": "乐不思蜀",
+                "Number": "6",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1067": {
+                "CardID": "1067",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "6",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1068": {
+                "CardID": "1068",
+                "Class": "NanManRuQin",
+                "CardName": "南蛮入侵",
+                "Number": "7",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1069": {
+                "CardID": "1069",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "7",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1070": {
+                "CardID": "1070",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "8",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1071": {
+                "CardID": "1071",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "8",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1072": {
+                "CardID": "1072",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1073": {
+                "CardID": "1073",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "9",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1074": {
+                "CardID": "1074",
+                "Class": "BingLiangCunDuan",
+                "CardName": "兵粮寸断",
+                "Number": "10",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1075": {
+                "CardID": "1075",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1076": {
+                "CardID": "1076",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1077": {
+                "CardID": "1077",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1078": {
+                "CardID": "1078",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "12",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1079": {
+                "CardID": "1079",
+                "Class": "JieDaoShaRen",
+                "CardName": "借刀杀人",
+                "Number": "12",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1080": {
+                "CardID": "1080",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "13",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1081": {
+                "CardID": "1081",
+                "Class": "WuXieKeJiGuo",
+                "CardName": "无懈可击·国",
+                "Number": "13",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "1082": {
+                "CardID": "1082",
+                "Class": "ZhuGeLianNu",
+                "CardName": "诸葛连弩",
+                "Number": "1",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1083": {
+                "CardID": "1083",
+                "Class": "ZhuQueYuShan",
+                "CardName": "朱雀羽扇",
+                "Number": "1",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1084": {
+                "CardID": "1084",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "2",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1085": {
+                "CardID": "1085",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "2",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1086": {
+                "CardID": "1086",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "3",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1087": {
+                "CardID": "1087",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "3",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1088": {
+                "CardID": "1088",
+                "Class": "YiYiDaiLao",
+                "CardName": "以逸待劳",
+                "Number": "4",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1089": {
+                "CardID": "1089",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "4",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1090": {
+                "CardID": "1090",
+                "Class": "GuanShiFu",
+                "CardName": "贯石斧",
+                "Number": "5",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1091": {
+                "CardID": "1091",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "5",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1092": {
+                "CardID": "1092",
+                "Class": "WuLiuJian",
+                "CardName": "吴六剑",
+                "Number": "6",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1093": {
+                "CardID": "1093",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "6",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1094": {
+                "CardID": "1094",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "7",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1095": {
+                "CardID": "1095",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "7",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1096": {
+                "CardID": "1096",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "8",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1097": {
+                "CardID": "1097",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "8",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1098": {
+                "CardID": "1098",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1099": {
+                "CardID": "1099",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "9",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1100": {
+                "CardID": "1100",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "10",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1101": {
+                "CardID": "1101",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "10",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1102": {
+                "CardID": "1102",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "11",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1103": {
+                "CardID": "1103",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "11",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1104": {
+                "CardID": "1104",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "12",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1105": {
+                "CardID": "1105",
+                "Class": "SanJianLiangRenDao",
+                "CardName": "三尖两刃刀",
+                "Number": "12",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1106": {
+                "CardID": "1106",
+                "Class": "WuXieKeJiGuo",
+                "CardName": "无懈可击·国",
+                "Number": "12",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1107": {
+                "CardID": "1107",
+                "Class": "ZiXing",
+                "CardName": "紫骍",
+                "Number": "13",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "1108": {
+                "CardID": "1108",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "13",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "2001": {
+                "CardID": "2001",
+                "Class": "GuoZhanXianQu",
+                "CardName": "先驱",
+                "Number": "0",
+                "Color": "0",
+                "type": "7"
+            },
+            "2002": {
+                "CardID": "2002",
+                "Class": "GuoZhanYinYangYue",
+                "CardName": "阴阳鱼",
+                "Number": "0",
+                "Color": "0",
+                "type": "7"
+            },
+            "2003": {
+                "CardID": "2003",
+                "Class": "GuoZhanZhuLianBiHe",
+                "CardName": "珠联璧合",
+                "Number": "0",
+                "Color": "0",
+                "type": "7"
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "cardsByClassName": {
+        "_count": 61,
+        "_maps": {
+            "JueDou": {
+                "CardID": "1055",
+                "Class": "JueDou",
+                "CardName": "决斗",
+                "Number": "1",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "Shan": {
+                "CardID": "1108",
+                "Class": "Shan",
+                "CardName": "闪",
+                "Number": "13",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "ShunShouQianYang": {
+                "CardID": "1086",
+                "Class": "ShunShouQianYang",
+                "CardName": "顺手牵羊",
+                "Number": "3",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "GuanShiFu": {
+                "CardID": "1090",
+                "Class": "GuanShiFu",
+                "CardName": "贯石斧",
+                "Number": "5",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "Sha": {
+                "CardID": "1104",
+                "Class": "Sha",
+                "CardName": "杀",
+                "Number": "12",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "FangTianHuaJi": {
+                "CardID": "12",
+                "Class": "FangTianHuaJi",
+                "CardName": "方天戟",
+                "Number": "12",
+                "Color": "2",
+                "type": "1",
+                "index": "29"
+            },
+            "ZiXing": {
+                "CardID": "1107",
+                "Class": "ZiXing",
+                "CardName": "紫骍",
+                "Number": "13",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "ZhuGeLianNu": {
+                "CardID": "1082",
+                "Class": "ZhuGeLianNu",
+                "CardName": "诸葛连弩",
+                "Number": "1",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "Tao": {
+                "CardID": "1084",
+                "Class": "Tao",
+                "CardName": "桃",
+                "Number": "2",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "WanJianQiFa": {
+                "CardID": "1029",
+                "Class": "WanJianQiFa",
+                "CardName": "万箭齐发",
+                "Number": "1",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "WuGuFengDeng": {
+                "CardID": "1032",
+                "Class": "WuGuFengDeng",
+                "CardName": "五谷丰登",
+                "Number": "3",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "ChiTu": {
+                "CardID": "1036",
+                "Class": "ChiTu",
+                "CardName": "赤兔",
+                "Number": "5",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "LeBuSiShu": {
+                "CardID": "1066",
+                "Class": "LeBuSiShu",
+                "CardName": "乐不思蜀",
+                "Number": "6",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "WuZhongShengYou": {
+                "CardID": "1042",
+                "Class": "WuZhongShengYou",
+                "CardName": "无中生有",
+                "Number": "8",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "GuoHeChaiQiao": {
+                "CardID": "1052",
+                "Class": "GuoHeChaiQiao",
+                "CardName": "过河拆桥",
+                "Number": "12",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "TaoYuanJieYi": {
+                "CardID": "1028",
+                "Class": "TaoYuanJieYi",
+                "CardName": "桃园结义",
+                "Number": "1",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "QiLinGong": {
+                "CardID": "1037",
+                "Class": "QiLinGong",
+                "CardName": "麒麟弓",
+                "Number": "5",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "ZhuaHuangFeiDian": {
+                "CardID": "1054",
+                "Class": "ZhuaHuangFeiDian",
+                "CardName": "爪黄飞电",
+                "Number": "13",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "WuXieKeJi": {
+                "CardID": "1023",
+                "Class": "WuXieKeJi",
+                "CardName": "无懈可击",
+                "Number": "11",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "BaGuaZhen": {
+                "CardID": "1003",
+                "Class": "BaGuaZhen",
+                "CardName": "八卦阵",
+                "Number": "2",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "DiLu": {
+                "CardID": "1065",
+                "Class": "DiLu",
+                "CardName": "的卢",
+                "Number": "5",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "NanManRuQin": {
+                "CardID": "1068",
+                "Class": "NanManRuQin",
+                "CardName": "南蛮入侵",
+                "Number": "7",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "JieDaoShaRen": {
+                "CardID": "1079",
+                "Class": "JieDaoShaRen",
+                "CardName": "借刀杀人",
+                "Number": "12",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "CiXiongShuangGuJian": {
+                "CardID": "1004",
+                "Class": "CiXiongShuangGuJian",
+                "CardName": "雌雄双股剑",
+                "Number": "2",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "JueYing": {
+                "CardID": "1010",
+                "Class": "JueYing",
+                "CardName": "绝影",
+                "Number": "5",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "QingGangJian": {
+                "CardID": "1012",
+                "Class": "QingGangJian",
+                "CardName": "青釭剑",
+                "Number": "6",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "ShanDian": {
+                "CardID": "1002",
+                "Class": "ShanDian",
+                "CardName": "闪电",
+                "Number": "1",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "QingLongYanYueDao": {
+                "CardID": "96",
+                "Class": "QingLongYanYueDao",
+                "CardName": "青龙偃月刀",
+                "Number": "5",
+                "Color": "3",
+                "type": "1",
+                "index": "26"
+            },
+            "ZhangBaSheMao": {
+                "CardID": "1025",
+                "Class": "ZhangBaSheMao",
+                "CardName": "丈八蛇矛",
+                "Number": "12",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "DaWan": {
+                "CardID": "1027",
+                "Class": "DaWan",
+                "CardName": "大宛",
+                "Number": "13",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "RenWangDun": {
+                "CardID": "1059",
+                "Class": "RenWangDun",
+                "CardName": "仁王盾",
+                "Number": "2",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "HanBingJian": {
+                "CardID": "1005",
+                "Class": "HanBingJian",
+                "CardName": "寒冰剑",
+                "Number": "2",
+                "Color": "3",
+                "type": "1048576"
+            },
+            "HuoGong": {
+                "CardID": "1033",
+                "Class": "HuoGong",
+                "CardName": "火攻",
+                "Number": "3",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "HuoSha": {
+                "CardID": "1091",
+                "Class": "HuoSha",
+                "CardName": "火杀",
+                "Number": "5",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "ZhuQueYuShan": {
+                "CardID": "1083",
+                "Class": "ZhuQueYuShan",
+                "CardName": "朱雀羽扇",
+                "Number": "1",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "Jiu": {
+                "CardID": "1098",
+                "Class": "Jiu",
+                "CardName": "酒",
+                "Number": "9",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "HuaLiu": {
+                "CardID": "134",
+                "Class": "HuaLiu",
+                "CardName": "骅骝",
+                "Number": "13",
+                "Color": "2",
+                "type": "8",
+                "index": "33"
+            },
+            "GuDingDao": {
+                "CardID": "135",
+                "Class": "GuDingDao",
+                "CardName": "古锭刀",
+                "Number": "1",
+                "Color": "3",
+                "type": "8",
+                "index": "35"
+            },
+            "TengJia": {
+                "CardID": "1057",
+                "Class": "TengJia",
+                "CardName": "藤甲",
+                "Number": "2",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "LeiSha": {
+                "CardID": "1071",
+                "Class": "LeiSha",
+                "CardName": "雷杀",
+                "Number": "8",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "BingLiangCunDuan": {
+                "CardID": "1074",
+                "Class": "BingLiangCunDuan",
+                "CardName": "兵粮寸断",
+                "Number": "10",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "TieSuoLianHuan": {
+                "CardID": "1080",
+                "Class": "TieSuoLianHuan",
+                "CardName": "铁索连环",
+                "Number": "13",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "BaiYinShiZi": {
+                "CardID": "1056",
+                "Class": "BaiYinShiZi",
+                "CardName": "白银狮子",
+                "Number": "1",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "YuanJiaoJinGong": {
+                "CardID": "1044",
+                "Class": "YuanJiaoJinGong",
+                "CardName": "远交近攻",
+                "Number": "9",
+                "Color": "1",
+                "type": "1048576"
+            },
+            "YiYiDaiLao": {
+                "CardID": "1088",
+                "Class": "YiYiDaiLao",
+                "CardName": "以逸待劳",
+                "Number": "4",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "ZhiJiZhiBi": {
+                "CardID": "1063",
+                "Class": "ZhiJiZhiBi",
+                "CardName": "知己知彼",
+                "Number": "4",
+                "Color": "4",
+                "type": "1048576"
+            },
+            "WuXieKeJiGuo": {
+                "CardID": "1106",
+                "Class": "WuXieKeJiGuo",
+                "CardName": "无懈可击·国",
+                "Number": "12",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "WuLiuJian": {
+                "CardID": "1092",
+                "Class": "WuLiuJian",
+                "CardName": "吴六剑",
+                "Number": "6",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "SanJianLiangRenDao": {
+                "CardID": "1105",
+                "Class": "SanJianLiangRenDao",
+                "CardName": "三尖两刃刀",
+                "Number": "12",
+                "Color": "2",
+                "type": "1048576"
+            },
+            "XiaoLiCangDao": {
+                "CardID": "308",
+                "Class": "XiaoLiCangDao",
+                "CardName": "笑里藏刀",
+                "Number": "4",
+                "Color": "1",
+                "type": "1"
+            },
+            "MeiRenJi": {
+                "CardID": "311",
+                "Class": "MeiRenJi",
+                "CardName": "美人计",
+                "Number": "1",
+                "Color": "1",
+                "type": "1"
+            },
+            "HunShuiMoYu": {
+                "CardID": "400",
+                "Class": "HunShuiMoYu",
+                "CardName": "混水摸鱼",
+                "Number": "1",
+                "Color": "4",
+                "type": "1"
+            },
+            "XiangYuDao": {
+                "CardID": "401",
+                "Class": "XiangYuDao",
+                "CardName": "项羽刀",
+                "Number": "1",
+                "Color": "3",
+                "type": "3"
+            },
+            "RenXinLieZhuan": {
+                "CardID": "402",
+                "Class": "RenXinLieZhuan",
+                "CardName": "仁心",
+                "Number": "1",
+                "Color": "1",
+                "type": "4"
+            },
+            "YunTi": {
+                "CardID": "403",
+                "Class": "YunTi",
+                "CardName": "云梯",
+                "Number": "1",
+                "Color": "2",
+                "type": "7"
+            },
+            "TaiPinYaoShu": {
+                "CardID": "404",
+                "Class": "TaiPinYaoShu",
+                "CardName": "太平要术",
+                "Number": "2",
+                "Color": "3",
+                "type": "7"
+            },
+            "RenDao": {
+                "CardID": "405",
+                "Class": "RenDao",
+                "CardName": "人道",
+                "Number": "2",
+                "Color": "3",
+                "type": "7"
+            },
+            "MuNiuLiuMa": {
+                "CardID": "161",
+                "Class": "MuNiuLiuMa",
+                "CardName": "木牛流马",
+                "Number": "5",
+                "Color": "2",
+                "type": "7"
+            },
+            "GuoZhanXianQu": {
+                "CardID": "2001",
+                "Class": "GuoZhanXianQu",
+                "CardName": "先驱",
+                "Number": "0",
+                "Color": "0",
+                "type": "7"
+            },
+            "GuoZhanYinYangYue": {
+                "CardID": "2002",
+                "Class": "GuoZhanYinYangYue",
+                "CardName": "阴阳鱼",
+                "Number": "0",
+                "Color": "0",
+                "type": "7"
+            },
+            "GuoZhanZhuLianBiHe": {
+                "CardID": "2003",
+                "Class": "GuoZhanZhuLianBiHe",
+                "CardName": "珠联璧合",
+                "Number": "0",
+                "Color": "0",
+                "type": "7"
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 105,
+                "1": 62,
+                "2": 212,
+                "3": 105,
+                "4": 178,
+                "5": 202,
+                "6": 92,
+                "7": 157,
+                "8": 136,
+                "9": 65,
+                "10": 200,
+                "11": 31,
+                "12": 138,
+                "13": 97,
+                "14": 168,
+                "15": 130
+            },
+            "_lastPrecipherIndex": 14,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}

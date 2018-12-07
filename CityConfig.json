@@ -1,0 +1,4049 @@
+{
+    "configName": "CityConfig_json",
+    "cityDict": {
+        "_count": 375,
+        "_maps": {
+            "100000": {
+                "ConfID": 2,
+                "CityID": 100000,
+                "CityName": "北京",
+                "ProvinceName": "北京",
+                "pid": 0,
+                "cid": 0
+            },
+            "100100": {
+                "ConfID": 3,
+                "CityID": 100100,
+                "CityName": "天津",
+                "ProvinceName": "天津",
+                "pid": 1,
+                "cid": 0
+            },
+            "100200": {
+                "ConfID": 4,
+                "CityID": 100200,
+                "CityName": "上海",
+                "ProvinceName": "上海",
+                "pid": 2,
+                "cid": 0
+            },
+            "100300": {
+                "ConfID": 5,
+                "CityID": 100300,
+                "CityName": "重庆",
+                "ProvinceName": "重庆",
+                "pid": 3,
+                "cid": 0
+            },
+            "100400": {
+                "ConfID": 6,
+                "CityID": 100400,
+                "CityName": "石家庄",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 0
+            },
+            "100401": {
+                "ConfID": 7,
+                "CityID": 100401,
+                "CityName": "廊坊",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 1
+            },
+            "100402": {
+                "ConfID": 8,
+                "CityID": 100402,
+                "CityName": "衡水",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 2
+            },
+            "100403": {
+                "ConfID": 9,
+                "CityID": 100403,
+                "CityName": "唐山",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 3
+            },
+            "100404": {
+                "ConfID": 10,
+                "CityID": 100404,
+                "CityName": "秦皇岛",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 4
+            },
+            "100405": {
+                "ConfID": 11,
+                "CityID": 100405,
+                "CityName": "邯郸",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 5
+            },
+            "100406": {
+                "ConfID": 12,
+                "CityID": 100406,
+                "CityName": "邢台",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 6
+            },
+            "100407": {
+                "ConfID": 13,
+                "CityID": 100407,
+                "CityName": "保定",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 7
+            },
+            "100408": {
+                "ConfID": 14,
+                "CityID": 100408,
+                "CityName": "张家口",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 8
+            },
+            "100409": {
+                "ConfID": 15,
+                "CityID": 100409,
+                "CityName": "承德",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 9
+            },
+            "100410": {
+                "ConfID": 16,
+                "CityID": 100410,
+                "CityName": "沧州",
+                "ProvinceName": "河北",
+                "pid": 4,
+                "cid": 10
+            },
+            "100500": {
+                "ConfID": 17,
+                "CityID": 100500,
+                "CityName": "太原",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 0
+            },
+            "100501": {
+                "ConfID": 18,
+                "CityID": 100501,
+                "CityName": "临汾",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 1
+            },
+            "100502": {
+                "ConfID": 19,
+                "CityID": 100502,
+                "CityName": "吕梁",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 2
+            },
+            "100503": {
+                "ConfID": 20,
+                "CityID": 100503,
+                "CityName": "大同",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 3
+            },
+            "100504": {
+                "ConfID": 21,
+                "CityID": 100504,
+                "CityName": "阳泉",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 4
+            },
+            "100505": {
+                "ConfID": 22,
+                "CityID": 100505,
+                "CityName": "长治",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 5
+            },
+            "100506": {
+                "ConfID": 23,
+                "CityID": 100506,
+                "CityName": "晋城",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 6
+            },
+            "100507": {
+                "ConfID": 24,
+                "CityID": 100507,
+                "CityName": "朔州",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 7
+            },
+            "100508": {
+                "ConfID": 25,
+                "CityID": 100508,
+                "CityName": "晋中",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 8
+            },
+            "100509": {
+                "ConfID": 26,
+                "CityID": 100509,
+                "CityName": "运城",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 9
+            },
+            "100510": {
+                "ConfID": 27,
+                "CityID": 100510,
+                "CityName": "忻州",
+                "ProvinceName": "山西",
+                "pid": 5,
+                "cid": 10
+            },
+            "100600": {
+                "ConfID": 28,
+                "CityID": 100600,
+                "CityName": "呼和浩特",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 0
+            },
+            "100601": {
+                "ConfID": 29,
+                "CityID": 100601,
+                "CityName": "包头",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 1
+            },
+            "100602": {
+                "ConfID": 30,
+                "CityID": 100602,
+                "CityName": "乌海",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 2
+            },
+            "100603": {
+                "ConfID": 31,
+                "CityID": 100603,
+                "CityName": "赤峰",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 3
+            },
+            "100604": {
+                "ConfID": 32,
+                "CityID": 100604,
+                "CityName": "通辽",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 4
+            },
+            "100605": {
+                "ConfID": 33,
+                "CityID": 100605,
+                "CityName": "鄂尔多斯",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 5
+            },
+            "100606": {
+                "ConfID": 34,
+                "CityID": 100606,
+                "CityName": "呼伦贝尔",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 6
+            },
+            "100607": {
+                "ConfID": 35,
+                "CityID": 100607,
+                "CityName": "巴彦淖尔",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 7
+            },
+            "100608": {
+                "ConfID": 36,
+                "CityID": 100608,
+                "CityName": "乌兰察布",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 8
+            },
+            "100609": {
+                "ConfID": 37,
+                "CityID": 100609,
+                "CityName": "兴安",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 9
+            },
+            "100610": {
+                "ConfID": 38,
+                "CityID": 100610,
+                "CityName": "锡林郭勒",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 10
+            },
+            "100611": {
+                "ConfID": 39,
+                "CityID": 100611,
+                "CityName": "阿拉善",
+                "ProvinceName": "内蒙古",
+                "pid": 6,
+                "cid": 11
+            },
+            "100700": {
+                "ConfID": 40,
+                "CityID": 100700,
+                "CityName": "哈尔滨",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 0
+            },
+            "100701": {
+                "ConfID": 41,
+                "CityID": 100701,
+                "CityName": "齐齐哈尔",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 1
+            },
+            "100702": {
+                "ConfID": 42,
+                "CityID": 100702,
+                "CityName": "鸡西",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 2
+            },
+            "100703": {
+                "ConfID": 43,
+                "CityID": 100703,
+                "CityName": "鹤岗",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 3
+            },
+            "100704": {
+                "ConfID": 44,
+                "CityID": 100704,
+                "CityName": "双鸭山",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 4
+            },
+            "100705": {
+                "ConfID": 45,
+                "CityID": 100705,
+                "CityName": "大庆",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 5
+            },
+            "100706": {
+                "ConfID": 46,
+                "CityID": 100706,
+                "CityName": "伊春",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 6
+            },
+            "100707": {
+                "ConfID": 47,
+                "CityID": 100707,
+                "CityName": "佳木斯",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 7
+            },
+            "100708": {
+                "ConfID": 48,
+                "CityID": 100708,
+                "CityName": "七台河",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 8
+            },
+            "100709": {
+                "ConfID": 49,
+                "CityID": 100709,
+                "CityName": "牡丹江",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 9
+            },
+            "100710": {
+                "ConfID": 50,
+                "CityID": 100710,
+                "CityName": "黑河",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 10
+            },
+            "100711": {
+                "ConfID": 51,
+                "CityID": 100711,
+                "CityName": "绥化",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 11
+            },
+            "100712": {
+                "ConfID": 52,
+                "CityID": 100712,
+                "CityName": "大兴安岭",
+                "ProvinceName": "黑龙江",
+                "pid": 7,
+                "cid": 12
+            },
+            "100800": {
+                "ConfID": 53,
+                "CityID": 100800,
+                "CityName": "长春",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 0
+            },
+            "100801": {
+                "ConfID": 54,
+                "CityID": 100801,
+                "CityName": "吉林",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 1
+            },
+            "100802": {
+                "ConfID": 55,
+                "CityID": 100802,
+                "CityName": "四平",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 2
+            },
+            "100803": {
+                "ConfID": 56,
+                "CityID": 100803,
+                "CityName": "辽源",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 3
+            },
+            "100804": {
+                "ConfID": 57,
+                "CityID": 100804,
+                "CityName": "通化",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 4
+            },
+            "100805": {
+                "ConfID": 58,
+                "CityID": 100805,
+                "CityName": "白山",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 5
+            },
+            "100806": {
+                "ConfID": 59,
+                "CityID": 100806,
+                "CityName": "松原",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 6
+            },
+            "100807": {
+                "ConfID": 60,
+                "CityID": 100807,
+                "CityName": "白城",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 7
+            },
+            "100808": {
+                "ConfID": 61,
+                "CityID": 100808,
+                "CityName": "延边",
+                "ProvinceName": "吉林",
+                "pid": 8,
+                "cid": 8
+            },
+            "100900": {
+                "ConfID": 62,
+                "CityID": 100900,
+                "CityName": "沈阳",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 0
+            },
+            "100901": {
+                "ConfID": 63,
+                "CityID": 100901,
+                "CityName": "大连",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 1
+            },
+            "100902": {
+                "ConfID": 64,
+                "CityID": 100902,
+                "CityName": "鞍山",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 2
+            },
+            "100903": {
+                "ConfID": 65,
+                "CityID": 100903,
+                "CityName": "抚顺",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 3
+            },
+            "100904": {
+                "ConfID": 66,
+                "CityID": 100904,
+                "CityName": "本溪",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 4
+            },
+            "100905": {
+                "ConfID": 67,
+                "CityID": 100905,
+                "CityName": "丹东",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 5
+            },
+            "100906": {
+                "ConfID": 68,
+                "CityID": 100906,
+                "CityName": "锦州",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 6
+            },
+            "100907": {
+                "ConfID": 69,
+                "CityID": 100907,
+                "CityName": "营口",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 7
+            },
+            "100908": {
+                "ConfID": 70,
+                "CityID": 100908,
+                "CityName": "阜新",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 8
+            },
+            "100909": {
+                "ConfID": 71,
+                "CityID": 100909,
+                "CityName": "辽阳",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 9
+            },
+            "100910": {
+                "ConfID": 72,
+                "CityID": 100910,
+                "CityName": "盘锦",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 10
+            },
+            "100911": {
+                "ConfID": 73,
+                "CityID": 100911,
+                "CityName": "铁岭",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 11
+            },
+            "100912": {
+                "ConfID": 74,
+                "CityID": 100912,
+                "CityName": "朝阳",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 12
+            },
+            "100913": {
+                "ConfID": 75,
+                "CityID": 100913,
+                "CityName": "葫芦岛",
+                "ProvinceName": "辽宁",
+                "pid": 9,
+                "cid": 13
+            },
+            "101000": {
+                "ConfID": 76,
+                "CityID": 101000,
+                "CityName": "济南",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 0
+            },
+            "101001": {
+                "ConfID": 77,
+                "CityID": 101001,
+                "CityName": "青岛",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 1
+            },
+            "101002": {
+                "ConfID": 78,
+                "CityID": 101002,
+                "CityName": "淄博",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 2
+            },
+            "101003": {
+                "ConfID": 79,
+                "CityID": 101003,
+                "CityName": "枣庄",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 3
+            },
+            "101004": {
+                "ConfID": 80,
+                "CityID": 101004,
+                "CityName": "东营",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 4
+            },
+            "101005": {
+                "ConfID": 81,
+                "CityID": 101005,
+                "CityName": "烟台",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 5
+            },
+            "101006": {
+                "ConfID": 82,
+                "CityID": 101006,
+                "CityName": "潍坊",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 6
+            },
+            "101007": {
+                "ConfID": 83,
+                "CityID": 101007,
+                "CityName": "济宁",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 7
+            },
+            "101008": {
+                "ConfID": 84,
+                "CityID": 101008,
+                "CityName": "泰安",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 8
+            },
+            "101009": {
+                "ConfID": 85,
+                "CityID": 101009,
+                "CityName": "威海",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 9
+            },
+            "101010": {
+                "ConfID": 86,
+                "CityID": 101010,
+                "CityName": "日照",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 10
+            },
+            "101011": {
+                "ConfID": 87,
+                "CityID": 101011,
+                "CityName": "莱芜",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 11
+            },
+            "101012": {
+                "ConfID": 88,
+                "CityID": 101012,
+                "CityName": "临沂",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 12
+            },
+            "101013": {
+                "ConfID": 89,
+                "CityID": 101013,
+                "CityName": "德州",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 13
+            },
+            "101014": {
+                "ConfID": 90,
+                "CityID": 101014,
+                "CityName": "聊城",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 14
+            },
+            "101015": {
+                "ConfID": 91,
+                "CityID": 101015,
+                "CityName": "滨州",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 15
+            },
+            "101016": {
+                "ConfID": 92,
+                "CityID": 101016,
+                "CityName": "菏泽",
+                "ProvinceName": "山东",
+                "pid": 10,
+                "cid": 16
+            },
+            "101100": {
+                "ConfID": 93,
+                "CityID": 101100,
+                "CityName": "西安",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 0
+            },
+            "101101": {
+                "ConfID": 94,
+                "CityID": 101101,
+                "CityName": "铜川",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 1
+            },
+            "101102": {
+                "ConfID": 95,
+                "CityID": 101102,
+                "CityName": "宝鸡",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 2
+            },
+            "101103": {
+                "ConfID": 96,
+                "CityID": 101103,
+                "CityName": "咸阳",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 3
+            },
+            "101104": {
+                "ConfID": 97,
+                "CityID": 101104,
+                "CityName": "渭南",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 4
+            },
+            "101105": {
+                "ConfID": 98,
+                "CityID": 101105,
+                "CityName": "延安",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 5
+            },
+            "101106": {
+                "ConfID": 99,
+                "CityID": 101106,
+                "CityName": "汉中",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 6
+            },
+            "101107": {
+                "ConfID": 100,
+                "CityID": 101107,
+                "CityName": "榆林",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 7
+            },
+            "101108": {
+                "ConfID": 101,
+                "CityID": 101108,
+                "CityName": "安康",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 8
+            },
+            "101109": {
+                "ConfID": 102,
+                "CityID": 101109,
+                "CityName": "商洛",
+                "ProvinceName": "陕西",
+                "pid": 11,
+                "cid": 9
+            },
+            "101200": {
+                "ConfID": 103,
+                "CityID": 101200,
+                "CityName": "郑州",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 0
+            },
+            "101201": {
+                "ConfID": 104,
+                "CityID": 101201,
+                "CityName": "开封",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 1
+            },
+            "101202": {
+                "ConfID": 105,
+                "CityID": 101202,
+                "CityName": "洛阳",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 2
+            },
+            "101203": {
+                "ConfID": 106,
+                "CityID": 101203,
+                "CityName": "平顶山",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 3
+            },
+            "101204": {
+                "ConfID": 107,
+                "CityID": 101204,
+                "CityName": "安阳",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 4
+            },
+            "101205": {
+                "ConfID": 108,
+                "CityID": 101205,
+                "CityName": "鹤壁",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 5
+            },
+            "101206": {
+                "ConfID": 109,
+                "CityID": 101206,
+                "CityName": "新乡",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 6
+            },
+            "101207": {
+                "ConfID": 110,
+                "CityID": 101207,
+                "CityName": "焦作",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 7
+            },
+            "101208": {
+                "ConfID": 111,
+                "CityID": 101208,
+                "CityName": "济源",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 8
+            },
+            "101209": {
+                "ConfID": 112,
+                "CityID": 101209,
+                "CityName": "濮阳",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 9
+            },
+            "101210": {
+                "ConfID": 113,
+                "CityID": 101210,
+                "CityName": "许昌",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 10
+            },
+            "101211": {
+                "ConfID": 114,
+                "CityID": 101211,
+                "CityName": "漯河",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 11
+            },
+            "101212": {
+                "ConfID": 115,
+                "CityID": 101212,
+                "CityName": "三门峡",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 12
+            },
+            "101213": {
+                "ConfID": 116,
+                "CityID": 101213,
+                "CityName": "南阳",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 13
+            },
+            "101214": {
+                "ConfID": 117,
+                "CityID": 101214,
+                "CityName": "商丘",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 14
+            },
+            "101215": {
+                "ConfID": 118,
+                "CityID": 101215,
+                "CityName": "信阳",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 15
+            },
+            "101216": {
+                "ConfID": 119,
+                "CityID": 101216,
+                "CityName": "周口",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 16
+            },
+            "101217": {
+                "ConfID": 120,
+                "CityID": 101217,
+                "CityName": "驻马店",
+                "ProvinceName": "河南",
+                "pid": 12,
+                "cid": 17
+            },
+            "101300": {
+                "ConfID": 121,
+                "CityID": 101300,
+                "CityName": "武汉",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 0
+            },
+            "101301": {
+                "ConfID": 122,
+                "CityID": 101301,
+                "CityName": "黄石",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 1
+            },
+            "101302": {
+                "ConfID": 123,
+                "CityID": 101302,
+                "CityName": "十堰",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 2
+            },
+            "101303": {
+                "ConfID": 124,
+                "CityID": 101303,
+                "CityName": "宜昌",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 3
+            },
+            "101304": {
+                "ConfID": 125,
+                "CityID": 101304,
+                "CityName": "襄樊",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 4
+            },
+            "101305": {
+                "ConfID": 126,
+                "CityID": 101305,
+                "CityName": "荆门",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 5
+            },
+            "101306": {
+                "ConfID": 127,
+                "CityID": 101306,
+                "CityName": "孝感",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 6
+            },
+            "101307": {
+                "ConfID": 128,
+                "CityID": 101307,
+                "CityName": "荆州",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 7
+            },
+            "101308": {
+                "ConfID": 129,
+                "CityID": 101308,
+                "CityName": "黄冈",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 8
+            },
+            "101309": {
+                "ConfID": 130,
+                "CityID": 101309,
+                "CityName": "咸宁",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 9
+            },
+            "101310": {
+                "ConfID": 131,
+                "CityID": 101310,
+                "CityName": "随州",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 10
+            },
+            "101311": {
+                "ConfID": 132,
+                "CityID": 101311,
+                "CityName": "恩施",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 11
+            },
+            "101312": {
+                "ConfID": 133,
+                "CityID": 101312,
+                "CityName": "仙桃",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 12
+            },
+            "101313": {
+                "ConfID": 134,
+                "CityID": 101313,
+                "CityName": "潜江",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 13
+            },
+            "101314": {
+                "ConfID": 135,
+                "CityID": 101314,
+                "CityName": "天门",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 14
+            },
+            "101315": {
+                "ConfID": 136,
+                "CityID": 101315,
+                "CityName": "神农架",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 15
+            },
+            "101316": {
+                "ConfID": 137,
+                "CityID": 101316,
+                "CityName": "鄂州",
+                "ProvinceName": "湖北",
+                "pid": 13,
+                "cid": 16
+            },
+            "101400": {
+                "ConfID": 138,
+                "CityID": 101400,
+                "CityName": "长沙",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 0
+            },
+            "101401": {
+                "ConfID": 139,
+                "CityID": 101401,
+                "CityName": "株洲",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 1
+            },
+            "101402": {
+                "ConfID": 140,
+                "CityID": 101402,
+                "CityName": "湘潭",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 2
+            },
+            "101403": {
+                "ConfID": 141,
+                "CityID": 101403,
+                "CityName": "衡阳",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 3
+            },
+            "101404": {
+                "ConfID": 142,
+                "CityID": 101404,
+                "CityName": "邵阳",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 4
+            },
+            "101405": {
+                "ConfID": 143,
+                "CityID": 101405,
+                "CityName": "岳阳",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 5
+            },
+            "101406": {
+                "ConfID": 144,
+                "CityID": 101406,
+                "CityName": "常德",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 6
+            },
+            "101407": {
+                "ConfID": 145,
+                "CityID": 101407,
+                "CityName": "张家界",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 7
+            },
+            "101408": {
+                "ConfID": 146,
+                "CityID": 101408,
+                "CityName": "益阳",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 8
+            },
+            "101409": {
+                "ConfID": 147,
+                "CityID": 101409,
+                "CityName": "郴州",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 9
+            },
+            "101410": {
+                "ConfID": 148,
+                "CityID": 101410,
+                "CityName": "永州",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 10
+            },
+            "101411": {
+                "ConfID": 149,
+                "CityID": 101411,
+                "CityName": "怀化",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 11
+            },
+            "101412": {
+                "ConfID": 150,
+                "CityID": 101412,
+                "CityName": "娄底",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 12
+            },
+            "101413": {
+                "ConfID": 151,
+                "CityID": 101413,
+                "CityName": "湘西",
+                "ProvinceName": "湖南",
+                "pid": 14,
+                "cid": 13
+            },
+            "101500": {
+                "ConfID": 152,
+                "CityID": 101500,
+                "CityName": "海口",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 0
+            },
+            "101501": {
+                "ConfID": 153,
+                "CityID": 101501,
+                "CityName": "三亚",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 1
+            },
+            "101502": {
+                "ConfID": 154,
+                "CityID": 101502,
+                "CityName": "五指山",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 2
+            },
+            "101503": {
+                "ConfID": 155,
+                "CityID": 101503,
+                "CityName": "琼海",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 3
+            },
+            "101504": {
+                "ConfID": 156,
+                "CityID": 101504,
+                "CityName": "儋州",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 4
+            },
+            "101505": {
+                "ConfID": 157,
+                "CityID": 101505,
+                "CityName": "文昌",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 5
+            },
+            "101506": {
+                "ConfID": 158,
+                "CityID": 101506,
+                "CityName": "万宁",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 6
+            },
+            "101507": {
+                "ConfID": 159,
+                "CityID": 101507,
+                "CityName": "东方",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 7
+            },
+            "101508": {
+                "ConfID": 160,
+                "CityID": 101508,
+                "CityName": "定安",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 8
+            },
+            "101509": {
+                "ConfID": 161,
+                "CityID": 101509,
+                "CityName": "屯昌",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 9
+            },
+            "101510": {
+                "ConfID": 162,
+                "CityID": 101510,
+                "CityName": "澄迈",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 10
+            },
+            "101511": {
+                "ConfID": 163,
+                "CityID": 101511,
+                "CityName": "临高",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 11
+            },
+            "101512": {
+                "ConfID": 164,
+                "CityID": 101512,
+                "CityName": "白沙",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 12
+            },
+            "101513": {
+                "ConfID": 165,
+                "CityID": 101513,
+                "CityName": "昌江",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 13
+            },
+            "101514": {
+                "ConfID": 166,
+                "CityID": 101514,
+                "CityName": "乐东",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 14
+            },
+            "101515": {
+                "ConfID": 167,
+                "CityID": 101515,
+                "CityName": "陵水",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 15
+            },
+            "101516": {
+                "ConfID": 168,
+                "CityID": 101516,
+                "CityName": "保亭",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 16
+            },
+            "101517": {
+                "ConfID": 169,
+                "CityID": 101517,
+                "CityName": "琼中",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 17
+            },
+            "101518": {
+                "ConfID": 170,
+                "CityID": 101518,
+                "CityName": "西沙",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 18
+            },
+            "101519": {
+                "ConfID": 171,
+                "CityID": 101519,
+                "CityName": "南沙",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 19
+            },
+            "101520": {
+                "ConfID": 172,
+                "CityID": 101520,
+                "CityName": "中沙",
+                "ProvinceName": "海南",
+                "pid": 15,
+                "cid": 20
+            },
+            "101600": {
+                "ConfID": 173,
+                "CityID": 101600,
+                "CityName": "南京",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 0
+            },
+            "101601": {
+                "ConfID": 174,
+                "CityID": 101601,
+                "CityName": "无锡",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 1
+            },
+            "101602": {
+                "ConfID": 175,
+                "CityID": 101602,
+                "CityName": "徐州",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 2
+            },
+            "101603": {
+                "ConfID": 176,
+                "CityID": 101603,
+                "CityName": "常州",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 3
+            },
+            "101604": {
+                "ConfID": 177,
+                "CityID": 101604,
+                "CityName": "苏州",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 4
+            },
+            "101605": {
+                "ConfID": 178,
+                "CityID": 101605,
+                "CityName": "南通",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 5
+            },
+            "101606": {
+                "ConfID": 179,
+                "CityID": 101606,
+                "CityName": "连云港",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 6
+            },
+            "101607": {
+                "ConfID": 180,
+                "CityID": 101607,
+                "CityName": "淮安",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 7
+            },
+            "101608": {
+                "ConfID": 181,
+                "CityID": 101608,
+                "CityName": "盐城",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 8
+            },
+            "101609": {
+                "ConfID": 182,
+                "CityID": 101609,
+                "CityName": "扬州",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 9
+            },
+            "101610": {
+                "ConfID": 183,
+                "CityID": 101610,
+                "CityName": "镇江",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 10
+            },
+            "101611": {
+                "ConfID": 184,
+                "CityID": 101611,
+                "CityName": "泰州",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 11
+            },
+            "101612": {
+                "ConfID": 185,
+                "CityID": 101612,
+                "CityName": "宿迁",
+                "ProvinceName": "江苏",
+                "pid": 16,
+                "cid": 12
+            },
+            "101700": {
+                "ConfID": 186,
+                "CityID": 101700,
+                "CityName": "南昌",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 0
+            },
+            "101701": {
+                "ConfID": 187,
+                "CityID": 101701,
+                "CityName": "景德镇",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 1
+            },
+            "101702": {
+                "ConfID": 188,
+                "CityID": 101702,
+                "CityName": "萍乡",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 2
+            },
+            "101703": {
+                "ConfID": 189,
+                "CityID": 101703,
+                "CityName": "九江",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 3
+            },
+            "101704": {
+                "ConfID": 190,
+                "CityID": 101704,
+                "CityName": "新余",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 4
+            },
+            "101705": {
+                "ConfID": 191,
+                "CityID": 101705,
+                "CityName": "鹰潭",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 5
+            },
+            "101706": {
+                "ConfID": 192,
+                "CityID": 101706,
+                "CityName": "赣州",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 6
+            },
+            "101707": {
+                "ConfID": 193,
+                "CityID": 101707,
+                "CityName": "吉安",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 7
+            },
+            "101708": {
+                "ConfID": 194,
+                "CityID": 101708,
+                "CityName": "宜春",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 8
+            },
+            "101709": {
+                "ConfID": 195,
+                "CityID": 101709,
+                "CityName": "抚州",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 9
+            },
+            "101710": {
+                "ConfID": 196,
+                "CityID": 101710,
+                "CityName": "上饶",
+                "ProvinceName": "江西",
+                "pid": 17,
+                "cid": 10
+            },
+            "101800": {
+                "ConfID": 197,
+                "CityID": 101800,
+                "CityName": "广州",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 0
+            },
+            "101801": {
+                "ConfID": 198,
+                "CityID": 101801,
+                "CityName": "韶关",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 1
+            },
+            "101802": {
+                "ConfID": 199,
+                "CityID": 101802,
+                "CityName": "深圳",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 2
+            },
+            "101803": {
+                "ConfID": 200,
+                "CityID": 101803,
+                "CityName": "珠海",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 3
+            },
+            "101804": {
+                "ConfID": 201,
+                "CityID": 101804,
+                "CityName": "汕头",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 4
+            },
+            "101805": {
+                "ConfID": 202,
+                "CityID": 101805,
+                "CityName": "佛山",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 5
+            },
+            "101806": {
+                "ConfID": 203,
+                "CityID": 101806,
+                "CityName": "江门",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 6
+            },
+            "101807": {
+                "ConfID": 204,
+                "CityID": 101807,
+                "CityName": "湛江",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 7
+            },
+            "101808": {
+                "ConfID": 205,
+                "CityID": 101808,
+                "CityName": "茂名",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 8
+            },
+            "101809": {
+                "ConfID": 206,
+                "CityID": 101809,
+                "CityName": "肇庆",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 9
+            },
+            "101810": {
+                "ConfID": 207,
+                "CityID": 101810,
+                "CityName": "惠州",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 10
+            },
+            "101811": {
+                "ConfID": 208,
+                "CityID": 101811,
+                "CityName": "梅州",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 11
+            },
+            "101812": {
+                "ConfID": 209,
+                "CityID": 101812,
+                "CityName": "汕尾",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 12
+            },
+            "101813": {
+                "ConfID": 210,
+                "CityID": 101813,
+                "CityName": "河源",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 13
+            },
+            "101814": {
+                "ConfID": 211,
+                "CityID": 101814,
+                "CityName": "阳江",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 14
+            },
+            "101815": {
+                "ConfID": 212,
+                "CityID": 101815,
+                "CityName": "清远",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 15
+            },
+            "101816": {
+                "ConfID": 213,
+                "CityID": 101816,
+                "CityName": "东莞",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 16
+            },
+            "101817": {
+                "ConfID": 214,
+                "CityID": 101817,
+                "CityName": "中山",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 17
+            },
+            "101818": {
+                "ConfID": 215,
+                "CityID": 101818,
+                "CityName": "潮州",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 18
+            },
+            "101819": {
+                "ConfID": 216,
+                "CityID": 101819,
+                "CityName": "揭阳",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 19
+            },
+            "101820": {
+                "ConfID": 217,
+                "CityID": 101820,
+                "CityName": "云浮",
+                "ProvinceName": "广东",
+                "pid": 18,
+                "cid": 20
+            },
+            "101900": {
+                "ConfID": 218,
+                "CityID": 101900,
+                "CityName": "南宁",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 0
+            },
+            "101901": {
+                "ConfID": 219,
+                "CityID": 101901,
+                "CityName": "柳州",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 1
+            },
+            "101902": {
+                "ConfID": 220,
+                "CityID": 101902,
+                "CityName": "桂林",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 2
+            },
+            "101903": {
+                "ConfID": 221,
+                "CityID": 101903,
+                "CityName": "北海",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 3
+            },
+            "101904": {
+                "ConfID": 222,
+                "CityID": 101904,
+                "CityName": "梧州",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 4
+            },
+            "101905": {
+                "ConfID": 223,
+                "CityID": 101905,
+                "CityName": "防城港",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 5
+            },
+            "101906": {
+                "ConfID": 224,
+                "CityID": 101906,
+                "CityName": "钦州",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 6
+            },
+            "101907": {
+                "ConfID": 225,
+                "CityID": 101907,
+                "CityName": "贵港",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 7
+            },
+            "101908": {
+                "ConfID": 226,
+                "CityID": 101908,
+                "CityName": "玉林",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 8
+            },
+            "101909": {
+                "ConfID": 227,
+                "CityID": 101909,
+                "CityName": "百色",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 9
+            },
+            "101910": {
+                "ConfID": 228,
+                "CityID": 101910,
+                "CityName": "贺州",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 10
+            },
+            "101911": {
+                "ConfID": 229,
+                "CityID": 101911,
+                "CityName": "河池",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 11
+            },
+            "101912": {
+                "ConfID": 230,
+                "CityID": 101912,
+                "CityName": "来宾",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 12
+            },
+            "101913": {
+                "ConfID": 231,
+                "CityID": 101913,
+                "CityName": "崇左",
+                "ProvinceName": "广西",
+                "pid": 19,
+                "cid": 13
+            },
+            "102000": {
+                "ConfID": 232,
+                "CityID": 102000,
+                "CityName": "昆明",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 0
+            },
+            "102001": {
+                "ConfID": 233,
+                "CityID": 102001,
+                "CityName": "曲靖",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 1
+            },
+            "102002": {
+                "ConfID": 234,
+                "CityID": 102002,
+                "CityName": "玉溪",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 2
+            },
+            "102003": {
+                "ConfID": 235,
+                "CityID": 102003,
+                "CityName": "保山",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 3
+            },
+            "102004": {
+                "ConfID": 236,
+                "CityID": 102004,
+                "CityName": "昭通",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 4
+            },
+            "102005": {
+                "ConfID": 237,
+                "CityID": 102005,
+                "CityName": "丽江",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 5
+            },
+            "102006": {
+                "ConfID": 238,
+                "CityID": 102006,
+                "CityName": "思茅",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 6
+            },
+            "102007": {
+                "ConfID": 239,
+                "CityID": 102007,
+                "CityName": "临沧",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 7
+            },
+            "102008": {
+                "ConfID": 240,
+                "CityID": 102008,
+                "CityName": "楚雄",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 8
+            },
+            "102009": {
+                "ConfID": 241,
+                "CityID": 102009,
+                "CityName": "红河",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 9
+            },
+            "102010": {
+                "ConfID": 242,
+                "CityID": 102010,
+                "CityName": "文山",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 10
+            },
+            "102011": {
+                "ConfID": 243,
+                "CityID": 102011,
+                "CityName": "西双版纳",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 11
+            },
+            "102012": {
+                "ConfID": 244,
+                "CityID": 102012,
+                "CityName": "大理",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 12
+            },
+            "102013": {
+                "ConfID": 245,
+                "CityID": 102013,
+                "CityName": "德宏",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 13
+            },
+            "102014": {
+                "ConfID": 246,
+                "CityID": 102014,
+                "CityName": "怒江",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 14
+            },
+            "102015": {
+                "ConfID": 247,
+                "CityID": 102015,
+                "CityName": "迪庆",
+                "ProvinceName": "云南",
+                "pid": 20,
+                "cid": 15
+            },
+            "102100": {
+                "ConfID": 248,
+                "CityID": 102100,
+                "CityName": "贵阳",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 0
+            },
+            "102101": {
+                "ConfID": 249,
+                "CityID": 102101,
+                "CityName": "六盘水",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 1
+            },
+            "102102": {
+                "ConfID": 250,
+                "CityID": 102102,
+                "CityName": "遵义",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 2
+            },
+            "102103": {
+                "ConfID": 251,
+                "CityID": 102103,
+                "CityName": "安顺",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 3
+            },
+            "102104": {
+                "ConfID": 252,
+                "CityID": 102104,
+                "CityName": "铜仁",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 4
+            },
+            "102105": {
+                "ConfID": 253,
+                "CityID": 102105,
+                "CityName": "黔西南",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 5
+            },
+            "102106": {
+                "ConfID": 254,
+                "CityID": 102106,
+                "CityName": "毕节",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 6
+            },
+            "102107": {
+                "ConfID": 255,
+                "CityID": 102107,
+                "CityName": "黔东南",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 7
+            },
+            "102108": {
+                "ConfID": 256,
+                "CityID": 102108,
+                "CityName": "黔南",
+                "ProvinceName": "贵州",
+                "pid": 21,
+                "cid": 8
+            },
+            "102200": {
+                "ConfID": 257,
+                "CityID": 102200,
+                "CityName": "成都",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 0
+            },
+            "102201": {
+                "ConfID": 258,
+                "CityID": 102201,
+                "CityName": "自贡",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 1
+            },
+            "102202": {
+                "ConfID": 259,
+                "CityID": 102202,
+                "CityName": "攀枝花",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 2
+            },
+            "102203": {
+                "ConfID": 260,
+                "CityID": 102203,
+                "CityName": "泸州",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 3
+            },
+            "102204": {
+                "ConfID": 261,
+                "CityID": 102204,
+                "CityName": "德阳",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 4
+            },
+            "102205": {
+                "ConfID": 262,
+                "CityID": 102205,
+                "CityName": "绵阳",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 5
+            },
+            "102206": {
+                "ConfID": 263,
+                "CityID": 102206,
+                "CityName": "广元",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 6
+            },
+            "102207": {
+                "ConfID": 264,
+                "CityID": 102207,
+                "CityName": "遂宁",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 7
+            },
+            "102208": {
+                "ConfID": 265,
+                "CityID": 102208,
+                "CityName": "内江",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 8
+            },
+            "102209": {
+                "ConfID": 266,
+                "CityID": 102209,
+                "CityName": "乐山",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 9
+            },
+            "102210": {
+                "ConfID": 267,
+                "CityID": 102210,
+                "CityName": "南充",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 10
+            },
+            "102211": {
+                "ConfID": 268,
+                "CityID": 102211,
+                "CityName": "眉山",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 11
+            },
+            "102212": {
+                "ConfID": 269,
+                "CityID": 102212,
+                "CityName": "宜宾",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 12
+            },
+            "102213": {
+                "ConfID": 270,
+                "CityID": 102213,
+                "CityName": "广安",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 13
+            },
+            "102214": {
+                "ConfID": 271,
+                "CityID": 102214,
+                "CityName": "达州",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 14
+            },
+            "102215": {
+                "ConfID": 272,
+                "CityID": 102215,
+                "CityName": "雅安",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 15
+            },
+            "102216": {
+                "ConfID": 273,
+                "CityID": 102216,
+                "CityName": "巴中",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 16
+            },
+            "102217": {
+                "ConfID": 274,
+                "CityID": 102217,
+                "CityName": "资阳",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 17
+            },
+            "102218": {
+                "ConfID": 275,
+                "CityID": 102218,
+                "CityName": "阿坝州",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 18
+            },
+            "102219": {
+                "ConfID": 276,
+                "CityID": 102219,
+                "CityName": "甘孜",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 19
+            },
+            "102220": {
+                "ConfID": 277,
+                "CityID": 102220,
+                "CityName": "凉山",
+                "ProvinceName": "四川",
+                "pid": 22,
+                "cid": 20
+            },
+            "102300": {
+                "ConfID": 278,
+                "CityID": 102300,
+                "CityName": "银川",
+                "ProvinceName": "宁夏",
+                "pid": 23,
+                "cid": 0
+            },
+            "102301": {
+                "ConfID": 279,
+                "CityID": 102301,
+                "CityName": "石嘴山",
+                "ProvinceName": "宁夏",
+                "pid": 23,
+                "cid": 1
+            },
+            "102302": {
+                "ConfID": 280,
+                "CityID": 102302,
+                "CityName": "吴忠",
+                "ProvinceName": "宁夏",
+                "pid": 23,
+                "cid": 2
+            },
+            "102303": {
+                "ConfID": 281,
+                "CityID": 102303,
+                "CityName": "固原",
+                "ProvinceName": "宁夏",
+                "pid": 23,
+                "cid": 3
+            },
+            "102304": {
+                "ConfID": 282,
+                "CityID": 102304,
+                "CityName": "中卫",
+                "ProvinceName": "宁夏",
+                "pid": 23,
+                "cid": 4
+            },
+            "102400": {
+                "ConfID": 283,
+                "CityID": 102400,
+                "CityName": "兰州",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 0
+            },
+            "102401": {
+                "ConfID": 284,
+                "CityID": 102401,
+                "CityName": "嘉峪关",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 1
+            },
+            "102402": {
+                "ConfID": 285,
+                "CityID": 102402,
+                "CityName": "金昌",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 2
+            },
+            "102403": {
+                "ConfID": 286,
+                "CityID": 102403,
+                "CityName": "白银",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 3
+            },
+            "102404": {
+                "ConfID": 287,
+                "CityID": 102404,
+                "CityName": "天水",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 4
+            },
+            "102405": {
+                "ConfID": 288,
+                "CityID": 102405,
+                "CityName": "武威",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 5
+            },
+            "102406": {
+                "ConfID": 289,
+                "CityID": 102406,
+                "CityName": "张掖",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 6
+            },
+            "102407": {
+                "ConfID": 290,
+                "CityID": 102407,
+                "CityName": "平凉",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 7
+            },
+            "102408": {
+                "ConfID": 291,
+                "CityID": 102408,
+                "CityName": "酒泉",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 8
+            },
+            "102409": {
+                "ConfID": 292,
+                "CityID": 102409,
+                "CityName": "庆阳",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 9
+            },
+            "102410": {
+                "ConfID": 293,
+                "CityID": 102410,
+                "CityName": "定西",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 10
+            },
+            "102411": {
+                "ConfID": 294,
+                "CityID": 102411,
+                "CityName": "陇南",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 11
+            },
+            "102412": {
+                "ConfID": 295,
+                "CityID": 102412,
+                "CityName": "临夏",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 12
+            },
+            "102413": {
+                "ConfID": 296,
+                "CityID": 102413,
+                "CityName": "甘南",
+                "ProvinceName": "甘肃",
+                "pid": 24,
+                "cid": 13
+            },
+            "102500": {
+                "ConfID": 297,
+                "CityID": 102500,
+                "CityName": "西宁",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 0
+            },
+            "102501": {
+                "ConfID": 298,
+                "CityID": 102501,
+                "CityName": "海东",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 1
+            },
+            "102502": {
+                "ConfID": 299,
+                "CityID": 102502,
+                "CityName": "海北",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 2
+            },
+            "102503": {
+                "ConfID": 300,
+                "CityID": 102503,
+                "CityName": "黄南",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 3
+            },
+            "102504": {
+                "ConfID": 301,
+                "CityID": 102504,
+                "CityName": "海南",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 4
+            },
+            "102505": {
+                "ConfID": 302,
+                "CityID": 102505,
+                "CityName": "果洛",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 5
+            },
+            "102506": {
+                "ConfID": 303,
+                "CityID": 102506,
+                "CityName": "玉树",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 6
+            },
+            "102507": {
+                "ConfID": 304,
+                "CityID": 102507,
+                "CityName": "海西",
+                "ProvinceName": "青海",
+                "pid": 25,
+                "cid": 7
+            },
+            "102600": {
+                "ConfID": 305,
+                "CityID": 102600,
+                "CityName": "拉萨",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 0
+            },
+            "102601": {
+                "ConfID": 306,
+                "CityID": 102601,
+                "CityName": "昌都",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 1
+            },
+            "102602": {
+                "ConfID": 307,
+                "CityID": 102602,
+                "CityName": "山南",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 2
+            },
+            "102603": {
+                "ConfID": 308,
+                "CityID": 102603,
+                "CityName": "日喀则",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 3
+            },
+            "102604": {
+                "ConfID": 309,
+                "CityID": 102604,
+                "CityName": "那曲",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 4
+            },
+            "102605": {
+                "ConfID": 310,
+                "CityID": 102605,
+                "CityName": "阿里",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 5
+            },
+            "102606": {
+                "ConfID": 311,
+                "CityID": 102606,
+                "CityName": "林芝",
+                "ProvinceName": "西藏",
+                "pid": 26,
+                "cid": 6
+            },
+            "102700": {
+                "ConfID": 312,
+                "CityID": 102700,
+                "CityName": "乌鲁木齐",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 0
+            },
+            "102701": {
+                "ConfID": 313,
+                "CityID": 102701,
+                "CityName": "克拉玛依",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 1
+            },
+            "102702": {
+                "ConfID": 314,
+                "CityID": 102702,
+                "CityName": "吐鲁番",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 2
+            },
+            "102703": {
+                "ConfID": 315,
+                "CityID": 102703,
+                "CityName": "哈密",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 3
+            },
+            "102704": {
+                "ConfID": 316,
+                "CityID": 102704,
+                "CityName": "昌吉",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 4
+            },
+            "102705": {
+                "ConfID": 317,
+                "CityID": 102705,
+                "CityName": "博尔塔拉",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 5
+            },
+            "102706": {
+                "ConfID": 318,
+                "CityID": 102706,
+                "CityName": "巴音郭楞",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 6
+            },
+            "102707": {
+                "ConfID": 319,
+                "CityID": 102707,
+                "CityName": "阿克苏",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 7
+            },
+            "102708": {
+                "ConfID": 320,
+                "CityID": 102708,
+                "CityName": "克孜勒苏",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 8
+            },
+            "102709": {
+                "ConfID": 321,
+                "CityID": 102709,
+                "CityName": "喀什",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 9
+            },
+            "102710": {
+                "ConfID": 322,
+                "CityID": 102710,
+                "CityName": "和田",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 10
+            },
+            "102711": {
+                "ConfID": 323,
+                "CityID": 102711,
+                "CityName": "伊犁",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 11
+            },
+            "102712": {
+                "ConfID": 324,
+                "CityID": 102712,
+                "CityName": "塔城",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 12
+            },
+            "102713": {
+                "ConfID": 325,
+                "CityID": 102713,
+                "CityName": "阿勒泰",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 13
+            },
+            "102714": {
+                "ConfID": 326,
+                "CityID": 102714,
+                "CityName": "石河子",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 14
+            },
+            "102715": {
+                "ConfID": 327,
+                "CityID": 102715,
+                "CityName": "阿拉尔",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 15
+            },
+            "102716": {
+                "ConfID": 328,
+                "CityID": 102716,
+                "CityName": "图木舒克",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 16
+            },
+            "102717": {
+                "ConfID": 329,
+                "CityID": 102717,
+                "CityName": "五家渠",
+                "ProvinceName": "新疆",
+                "pid": 27,
+                "cid": 17
+            },
+            "102800": {
+                "ConfID": 330,
+                "CityID": 102800,
+                "CityName": "合肥",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 0
+            },
+            "102801": {
+                "ConfID": 331,
+                "CityID": 102801,
+                "CityName": "芜湖",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 1
+            },
+            "102802": {
+                "ConfID": 332,
+                "CityID": 102802,
+                "CityName": "蚌埠",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 2
+            },
+            "102803": {
+                "ConfID": 333,
+                "CityID": 102803,
+                "CityName": "淮南",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 3
+            },
+            "102804": {
+                "ConfID": 334,
+                "CityID": 102804,
+                "CityName": "马鞍山",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 4
+            },
+            "102805": {
+                "ConfID": 335,
+                "CityID": 102805,
+                "CityName": "淮北",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 5
+            },
+            "102806": {
+                "ConfID": 336,
+                "CityID": 102806,
+                "CityName": "铜陵",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 6
+            },
+            "102807": {
+                "ConfID": 337,
+                "CityID": 102807,
+                "CityName": "安庆",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 7
+            },
+            "102808": {
+                "ConfID": 338,
+                "CityID": 102808,
+                "CityName": "黄山",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 8
+            },
+            "102809": {
+                "ConfID": 339,
+                "CityID": 102809,
+                "CityName": "滁州",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 9
+            },
+            "102810": {
+                "ConfID": 340,
+                "CityID": 102810,
+                "CityName": "阜阳",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 10
+            },
+            "102811": {
+                "ConfID": 341,
+                "CityID": 102811,
+                "CityName": "宿州",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 11
+            },
+            "102812": {
+                "ConfID": 342,
+                "CityID": 102812,
+                "CityName": "巢湖",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 12
+            },
+            "102813": {
+                "ConfID": 343,
+                "CityID": 102813,
+                "CityName": "六安",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 13
+            },
+            "102814": {
+                "ConfID": 344,
+                "CityID": 102814,
+                "CityName": "毫州",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 14
+            },
+            "102815": {
+                "ConfID": 345,
+                "CityID": 102815,
+                "CityName": "池州",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 15
+            },
+            "102816": {
+                "ConfID": 346,
+                "CityID": 102816,
+                "CityName": "宣城",
+                "ProvinceName": "安徽",
+                "pid": 28,
+                "cid": 16
+            },
+            "102900": {
+                "ConfID": 347,
+                "CityID": 102900,
+                "CityName": "杭州",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 0
+            },
+            "102901": {
+                "ConfID": 348,
+                "CityID": 102901,
+                "CityName": "湖州",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 1
+            },
+            "102902": {
+                "ConfID": 349,
+                "CityID": 102902,
+                "CityName": "宁波",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 2
+            },
+            "102903": {
+                "ConfID": 350,
+                "CityID": 102903,
+                "CityName": "温州",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 3
+            },
+            "102904": {
+                "ConfID": 351,
+                "CityID": 102904,
+                "CityName": "嘉兴",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 4
+            },
+            "102905": {
+                "ConfID": 352,
+                "CityID": 102905,
+                "CityName": "绍兴",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 5
+            },
+            "102906": {
+                "ConfID": 353,
+                "CityID": 102906,
+                "CityName": "金华",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 6
+            },
+            "102907": {
+                "ConfID": 354,
+                "CityID": 102907,
+                "CityName": "衢州",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 7
+            },
+            "102908": {
+                "ConfID": 355,
+                "CityID": 102908,
+                "CityName": "舟山",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 8
+            },
+            "102909": {
+                "ConfID": 356,
+                "CityID": 102909,
+                "CityName": "台州",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 9
+            },
+            "102910": {
+                "ConfID": 357,
+                "CityID": 102910,
+                "CityName": "丽水",
+                "ProvinceName": "浙江",
+                "pid": 29,
+                "cid": 10
+            },
+            "103000": {
+                "ConfID": 358,
+                "CityID": 103000,
+                "CityName": "福州",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 0
+            },
+            "103001": {
+                "ConfID": 359,
+                "CityID": 103001,
+                "CityName": "厦门",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 1
+            },
+            "103002": {
+                "ConfID": 360,
+                "CityID": 103002,
+                "CityName": "莆田",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 2
+            },
+            "103003": {
+                "ConfID": 361,
+                "CityID": 103003,
+                "CityName": "三明",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 3
+            },
+            "103004": {
+                "ConfID": 362,
+                "CityID": 103004,
+                "CityName": "泉州",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 4
+            },
+            "103005": {
+                "ConfID": 363,
+                "CityID": 103005,
+                "CityName": "漳州",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 5
+            },
+            "103006": {
+                "ConfID": 364,
+                "CityID": 103006,
+                "CityName": "南平",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 6
+            },
+            "103007": {
+                "ConfID": 365,
+                "CityID": 103007,
+                "CityName": "龙岩",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 7
+            },
+            "103008": {
+                "ConfID": 366,
+                "CityID": 103008,
+                "CityName": "宁德",
+                "ProvinceName": "福建",
+                "pid": 30,
+                "cid": 8
+            },
+            "103100": {
+                "ConfID": 367,
+                "CityID": 103100,
+                "CityName": "台北",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 0
+            },
+            "103101": {
+                "ConfID": 368,
+                "CityID": 103101,
+                "CityName": "高雄",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 1
+            },
+            "103102": {
+                "ConfID": 369,
+                "CityID": 103102,
+                "CityName": "基隆",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 2
+            },
+            "103103": {
+                "ConfID": 370,
+                "CityID": 103103,
+                "CityName": "台中",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 3
+            },
+            "103104": {
+                "ConfID": 371,
+                "CityID": 103104,
+                "CityName": "台南",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 4
+            },
+            "103105": {
+                "ConfID": 372,
+                "CityID": 103105,
+                "CityName": "新竹",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 5
+            },
+            "103106": {
+                "ConfID": 373,
+                "CityID": 103106,
+                "CityName": "嘉义",
+                "ProvinceName": "台湾",
+                "pid": 31,
+                "cid": 6
+            },
+            "103200": {
+                "ConfID": 374,
+                "CityID": 103200,
+                "CityName": "香港",
+                "ProvinceName": "香港",
+                "pid": 32,
+                "cid": 0
+            },
+            "103300": {
+                "ConfID": 375,
+                "CityID": 103300,
+                "CityName": "澳门",
+                "ProvinceName": "澳门",
+                "pid": 33,
+                "cid": 0
+            },
+            "103400": {
+                "ConfID": 376,
+                "CityID": 103400,
+                "CityName": "其它",
+                "ProvinceName": "其它",
+                "pid": 34,
+                "cid": 0
+            }
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "provinceDict": {
+        "_count": 35,
+        "_maps": {
+            "0": [
+                "北京"
+            ],
+            "1": [
+                "天津"
+            ],
+            "2": [
+                "上海"
+            ],
+            "3": [
+                "重庆"
+            ],
+            "4": [
+                "石家庄",
+                "廊坊",
+                "衡水",
+                "唐山",
+                "秦皇岛",
+                "邯郸",
+                "邢台",
+                "保定",
+                "张家口",
+                "承德",
+                "沧州"
+            ],
+            "5": [
+                "太原",
+                "临汾",
+                "吕梁",
+                "大同",
+                "阳泉",
+                "长治",
+                "晋城",
+                "朔州",
+                "晋中",
+                "运城",
+                "忻州"
+            ],
+            "6": [
+                "呼和浩特",
+                "包头",
+                "乌海",
+                "赤峰",
+                "通辽",
+                "鄂尔多斯",
+                "呼伦贝尔",
+                "巴彦淖尔",
+                "乌兰察布",
+                "兴安",
+                "锡林郭勒",
+                "阿拉善"
+            ],
+            "7": [
+                "哈尔滨",
+                "齐齐哈尔",
+                "鸡西",
+                "鹤岗",
+                "双鸭山",
+                "大庆",
+                "伊春",
+                "佳木斯",
+                "七台河",
+                "牡丹江",
+                "黑河",
+                "绥化",
+                "大兴安岭"
+            ],
+            "8": [
+                "长春",
+                "吉林",
+                "四平",
+                "辽源",
+                "通化",
+                "白山",
+                "松原",
+                "白城",
+                "延边"
+            ],
+            "9": [
+                "沈阳",
+                "大连",
+                "鞍山",
+                "抚顺",
+                "本溪",
+                "丹东",
+                "锦州",
+                "营口",
+                "阜新",
+                "辽阳",
+                "盘锦",
+                "铁岭",
+                "朝阳",
+                "葫芦岛"
+            ],
+            "10": [
+                "济南",
+                "青岛",
+                "淄博",
+                "枣庄",
+                "东营",
+                "烟台",
+                "潍坊",
+                "济宁",
+                "泰安",
+                "威海",
+                "日照",
+                "莱芜",
+                "临沂",
+                "德州",
+                "聊城",
+                "滨州",
+                "菏泽"
+            ],
+            "11": [
+                "西安",
+                "铜川",
+                "宝鸡",
+                "咸阳",
+                "渭南",
+                "延安",
+                "汉中",
+                "榆林",
+                "安康",
+                "商洛"
+            ],
+            "12": [
+                "郑州",
+                "开封",
+                "洛阳",
+                "平顶山",
+                "安阳",
+                "鹤壁",
+                "新乡",
+                "焦作",
+                "济源",
+                "濮阳",
+                "许昌",
+                "漯河",
+                "三门峡",
+                "南阳",
+                "商丘",
+                "信阳",
+                "周口",
+                "驻马店"
+            ],
+            "13": [
+                "武汉",
+                "黄石",
+                "十堰",
+                "宜昌",
+                "襄樊",
+                "荆门",
+                "孝感",
+                "荆州",
+                "黄冈",
+                "咸宁",
+                "随州",
+                "恩施",
+                "仙桃",
+                "潜江",
+                "天门",
+                "神农架",
+                "鄂州"
+            ],
+            "14": [
+                "长沙",
+                "株洲",
+                "湘潭",
+                "衡阳",
+                "邵阳",
+                "岳阳",
+                "常德",
+                "张家界",
+                "益阳",
+                "郴州",
+                "永州",
+                "怀化",
+                "娄底",
+                "湘西"
+            ],
+            "15": [
+                "海口",
+                "三亚",
+                "五指山",
+                "琼海",
+                "儋州",
+                "文昌",
+                "万宁",
+                "东方",
+                "定安",
+                "屯昌",
+                "澄迈",
+                "临高",
+                "白沙",
+                "昌江",
+                "乐东",
+                "陵水",
+                "保亭",
+                "琼中",
+                "西沙",
+                "南沙",
+                "中沙"
+            ],
+            "16": [
+                "南京",
+                "无锡",
+                "徐州",
+                "常州",
+                "苏州",
+                "南通",
+                "连云港",
+                "淮安",
+                "盐城",
+                "扬州",
+                "镇江",
+                "泰州",
+                "宿迁"
+            ],
+            "17": [
+                "南昌",
+                "景德镇",
+                "萍乡",
+                "九江",
+                "新余",
+                "鹰潭",
+                "赣州",
+                "吉安",
+                "宜春",
+                "抚州",
+                "上饶"
+            ],
+            "18": [
+                "广州",
+                "韶关",
+                "深圳",
+                "珠海",
+                "汕头",
+                "佛山",
+                "江门",
+                "湛江",
+                "茂名",
+                "肇庆",
+                "惠州",
+                "梅州",
+                "汕尾",
+                "河源",
+                "阳江",
+                "清远",
+                "东莞",
+                "中山",
+                "潮州",
+                "揭阳",
+                "云浮"
+            ],
+            "19": [
+                "南宁",
+                "柳州",
+                "桂林",
+                "北海",
+                "梧州",
+                "防城港",
+                "钦州",
+                "贵港",
+                "玉林",
+                "百色",
+                "贺州",
+                "河池",
+                "来宾",
+                "崇左"
+            ],
+            "20": [
+                "昆明",
+                "曲靖",
+                "玉溪",
+                "保山",
+                "昭通",
+                "丽江",
+                "思茅",
+                "临沧",
+                "楚雄",
+                "红河",
+                "文山",
+                "西双版纳",
+                "大理",
+                "德宏",
+                "怒江",
+                "迪庆"
+            ],
+            "21": [
+                "贵阳",
+                "六盘水",
+                "遵义",
+                "安顺",
+                "铜仁",
+                "黔西南",
+                "毕节",
+                "黔东南",
+                "黔南"
+            ],
+            "22": [
+                "成都",
+                "自贡",
+                "攀枝花",
+                "泸州",
+                "德阳",
+                "绵阳",
+                "广元",
+                "遂宁",
+                "内江",
+                "乐山",
+                "南充",
+                "眉山",
+                "宜宾",
+                "广安",
+                "达州",
+                "雅安",
+                "巴中",
+                "资阳",
+                "阿坝州",
+                "甘孜",
+                "凉山"
+            ],
+            "23": [
+                "银川",
+                "石嘴山",
+                "吴忠",
+                "固原",
+                "中卫"
+            ],
+            "24": [
+                "兰州",
+                "嘉峪关",
+                "金昌",
+                "白银",
+                "天水",
+                "武威",
+                "张掖",
+                "平凉",
+                "酒泉",
+                "庆阳",
+                "定西",
+                "陇南",
+                "临夏",
+                "甘南"
+            ],
+            "25": [
+                "西宁",
+                "海东",
+                "海北",
+                "黄南",
+                "海南",
+                "果洛",
+                "玉树",
+                "海西"
+            ],
+            "26": [
+                "拉萨",
+                "昌都",
+                "山南",
+                "日喀则",
+                "那曲",
+                "阿里",
+                "林芝"
+            ],
+            "27": [
+                "乌鲁木齐",
+                "克拉玛依",
+                "吐鲁番",
+                "哈密",
+                "昌吉",
+                "博尔塔拉",
+                "巴音郭楞",
+                "阿克苏",
+                "克孜勒苏",
+                "喀什",
+                "和田",
+                "伊犁",
+                "塔城",
+                "阿勒泰",
+                "石河子",
+                "阿拉尔",
+                "图木舒克",
+                "五家渠"
+            ],
+            "28": [
+                "合肥",
+                "芜湖",
+                "蚌埠",
+                "淮南",
+                "马鞍山",
+                "淮北",
+                "铜陵",
+                "安庆",
+                "黄山",
+                "滁州",
+                "阜阳",
+                "宿州",
+                "巢湖",
+                "六安",
+                "毫州",
+                "池州",
+                "宣城"
+            ],
+            "29": [
+                "杭州",
+                "湖州",
+                "宁波",
+                "温州",
+                "嘉兴",
+                "绍兴",
+                "金华",
+                "衢州",
+                "舟山",
+                "台州",
+                "丽水"
+            ],
+            "30": [
+                "福州",
+                "厦门",
+                "莆田",
+                "三明",
+                "泉州",
+                "漳州",
+                "南平",
+                "龙岩",
+                "宁德"
+            ],
+            "31": [
+                "台北",
+                "高雄",
+                "基隆",
+                "台中",
+                "台南",
+                "新竹",
+                "嘉义"
+            ],
+            "32": [
+                "香港"
+            ],
+            "33": [
+                "澳门"
+            ],
+            "34": [
+                "其它"
+            ]
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "provinceNameDict": {
+        "_count": 35,
+        "_maps": {
+            "北京": 0,
+            "天津": 1,
+            "上海": 2,
+            "重庆": 3,
+            "河北": 4,
+            "山西": 5,
+            "内蒙古": 6,
+            "黑龙江": 7,
+            "吉林": 8,
+            "辽宁": 9,
+            "山东": 10,
+            "陕西": 11,
+            "河南": 12,
+            "湖北": 13,
+            "湖南": 14,
+            "海南": 15,
+            "江苏": 16,
+            "江西": 17,
+            "广东": 18,
+            "广西": 19,
+            "云南": 20,
+            "贵州": 21,
+            "四川": 22,
+            "宁夏": 23,
+            "甘肃": 24,
+            "青海": 25,
+            "西藏": 26,
+            "新疆": 27,
+            "安徽": 28,
+            "浙江": 29,
+            "福建": 30,
+            "台湾": 31,
+            "香港": 32,
+            "澳门": 33,
+            "其它": 34
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "cityNameDict": {
+        "_count": 375,
+        "_maps": {
+            "北京": 0,
+            "天津": 0,
+            "上海": 0,
+            "重庆": 0,
+            "石家庄": 0,
+            "廊坊": 1,
+            "衡水": 2,
+            "唐山": 3,
+            "秦皇岛": 4,
+            "邯郸": 5,
+            "邢台": 6,
+            "保定": 7,
+            "张家口": 8,
+            "承德": 9,
+            "沧州": 10,
+            "太原": 0,
+            "临汾": 1,
+            "吕梁": 2,
+            "大同": 3,
+            "阳泉": 4,
+            "长治": 5,
+            "晋城": 6,
+            "朔州": 7,
+            "晋中": 8,
+            "运城": 9,
+            "忻州": 10,
+            "呼和浩特": 0,
+            "包头": 1,
+            "乌海": 2,
+            "赤峰": 3,
+            "通辽": 4,
+            "鄂尔多斯": 5,
+            "呼伦贝尔": 6,
+            "巴彦淖尔": 7,
+            "乌兰察布": 8,
+            "兴安": 9,
+            "锡林郭勒": 10,
+            "阿拉善": 11,
+            "哈尔滨": 0,
+            "齐齐哈尔": 1,
+            "鸡西": 2,
+            "鹤岗": 3,
+            "双鸭山": 4,
+            "大庆": 5,
+            "伊春": 6,
+            "佳木斯": 7,
+            "七台河": 8,
+            "牡丹江": 9,
+            "黑河": 10,
+            "绥化": 11,
+            "大兴安岭": 12,
+            "长春": 0,
+            "吉林": 1,
+            "四平": 2,
+            "辽源": 3,
+            "通化": 4,
+            "白山": 5,
+            "松原": 6,
+            "白城": 7,
+            "延边": 8,
+            "沈阳": 0,
+            "大连": 1,
+            "鞍山": 2,
+            "抚顺": 3,
+            "本溪": 4,
+            "丹东": 5,
+            "锦州": 6,
+            "营口": 7,
+            "阜新": 8,
+            "辽阳": 9,
+            "盘锦": 10,
+            "铁岭": 11,
+            "朝阳": 12,
+            "葫芦岛": 13,
+            "济南": 0,
+            "青岛": 1,
+            "淄博": 2,
+            "枣庄": 3,
+            "东营": 4,
+            "烟台": 5,
+            "潍坊": 6,
+            "济宁": 7,
+            "泰安": 8,
+            "威海": 9,
+            "日照": 10,
+            "莱芜": 11,
+            "临沂": 12,
+            "德州": 13,
+            "聊城": 14,
+            "滨州": 15,
+            "菏泽": 16,
+            "西安": 0,
+            "铜川": 1,
+            "宝鸡": 2,
+            "咸阳": 3,
+            "渭南": 4,
+            "延安": 5,
+            "汉中": 6,
+            "榆林": 7,
+            "安康": 8,
+            "商洛": 9,
+            "郑州": 0,
+            "开封": 1,
+            "洛阳": 2,
+            "平顶山": 3,
+            "安阳": 4,
+            "鹤壁": 5,
+            "新乡": 6,
+            "焦作": 7,
+            "济源": 8,
+            "濮阳": 9,
+            "许昌": 10,
+            "漯河": 11,
+            "三门峡": 12,
+            "南阳": 13,
+            "商丘": 14,
+            "信阳": 15,
+            "周口": 16,
+            "驻马店": 17,
+            "武汉": 0,
+            "黄石": 1,
+            "十堰": 2,
+            "宜昌": 3,
+            "襄樊": 4,
+            "荆门": 5,
+            "孝感": 6,
+            "荆州": 7,
+            "黄冈": 8,
+            "咸宁": 9,
+            "随州": 10,
+            "恩施": 11,
+            "仙桃": 12,
+            "潜江": 13,
+            "天门": 14,
+            "神农架": 15,
+            "鄂州": 16,
+            "长沙": 0,
+            "株洲": 1,
+            "湘潭": 2,
+            "衡阳": 3,
+            "邵阳": 4,
+            "岳阳": 5,
+            "常德": 6,
+            "张家界": 7,
+            "益阳": 8,
+            "郴州": 9,
+            "永州": 10,
+            "怀化": 11,
+            "娄底": 12,
+            "湘西": 13,
+            "海口": 0,
+            "三亚": 1,
+            "五指山": 2,
+            "琼海": 3,
+            "儋州": 4,
+            "文昌": 5,
+            "万宁": 6,
+            "东方": 7,
+            "定安": 8,
+            "屯昌": 9,
+            "澄迈": 10,
+            "临高": 11,
+            "白沙": 12,
+            "昌江": 13,
+            "乐东": 14,
+            "陵水": 15,
+            "保亭": 16,
+            "琼中": 17,
+            "西沙": 18,
+            "南沙": 19,
+            "中沙": 20,
+            "南京": 0,
+            "无锡": 1,
+            "徐州": 2,
+            "常州": 3,
+            "苏州": 4,
+            "南通": 5,
+            "连云港": 6,
+            "淮安": 7,
+            "盐城": 8,
+            "扬州": 9,
+            "镇江": 10,
+            "泰州": 11,
+            "宿迁": 12,
+            "南昌": 0,
+            "景德镇": 1,
+            "萍乡": 2,
+            "九江": 3,
+            "新余": 4,
+            "鹰潭": 5,
+            "赣州": 6,
+            "吉安": 7,
+            "宜春": 8,
+            "抚州": 9,
+            "上饶": 10,
+            "广州": 0,
+            "韶关": 1,
+            "深圳": 2,
+            "珠海": 3,
+            "汕头": 4,
+            "佛山": 5,
+            "江门": 6,
+            "湛江": 7,
+            "茂名": 8,
+            "肇庆": 9,
+            "惠州": 10,
+            "梅州": 11,
+            "汕尾": 12,
+            "河源": 13,
+            "阳江": 14,
+            "清远": 15,
+            "东莞": 16,
+            "中山": 17,
+            "潮州": 18,
+            "揭阳": 19,
+            "云浮": 20,
+            "南宁": 0,
+            "柳州": 1,
+            "桂林": 2,
+            "北海": 3,
+            "梧州": 4,
+            "防城港": 5,
+            "钦州": 6,
+            "贵港": 7,
+            "玉林": 8,
+            "百色": 9,
+            "贺州": 10,
+            "河池": 11,
+            "来宾": 12,
+            "崇左": 13,
+            "昆明": 0,
+            "曲靖": 1,
+            "玉溪": 2,
+            "保山": 3,
+            "昭通": 4,
+            "丽江": 5,
+            "思茅": 6,
+            "临沧": 7,
+            "楚雄": 8,
+            "红河": 9,
+            "文山": 10,
+            "西双版纳": 11,
+            "大理": 12,
+            "德宏": 13,
+            "怒江": 14,
+            "迪庆": 15,
+            "贵阳": 0,
+            "六盘水": 1,
+            "遵义": 2,
+            "安顺": 3,
+            "铜仁": 4,
+            "黔西南": 5,
+            "毕节": 6,
+            "黔东南": 7,
+            "黔南": 8,
+            "成都": 0,
+            "自贡": 1,
+            "攀枝花": 2,
+            "泸州": 3,
+            "德阳": 4,
+            "绵阳": 5,
+            "广元": 6,
+            "遂宁": 7,
+            "内江": 8,
+            "乐山": 9,
+            "南充": 10,
+            "眉山": 11,
+            "宜宾": 12,
+            "广安": 13,
+            "达州": 14,
+            "雅安": 15,
+            "巴中": 16,
+            "资阳": 17,
+            "阿坝州": 18,
+            "甘孜": 19,
+            "凉山": 20,
+            "银川": 0,
+            "石嘴山": 1,
+            "吴忠": 2,
+            "固原": 3,
+            "中卫": 4,
+            "兰州": 0,
+            "嘉峪关": 1,
+            "金昌": 2,
+            "白银": 3,
+            "天水": 4,
+            "武威": 5,
+            "张掖": 6,
+            "平凉": 7,
+            "酒泉": 8,
+            "庆阳": 9,
+            "定西": 10,
+            "陇南": 11,
+            "临夏": 12,
+            "甘南": 13,
+            "西宁": 0,
+            "海东": 1,
+            "海北": 2,
+            "黄南": 3,
+            "海南": 4,
+            "果洛": 5,
+            "玉树": 6,
+            "海西": 7,
+            "拉萨": 0,
+            "昌都": 1,
+            "山南": 2,
+            "日喀则": 3,
+            "那曲": 4,
+            "阿里": 5,
+            "林芝": 6,
+            "乌鲁木齐": 0,
+            "克拉玛依": 1,
+            "吐鲁番": 2,
+            "哈密": 3,
+            "昌吉": 4,
+            "博尔塔拉": 5,
+            "巴音郭楞": 6,
+            "阿克苏": 7,
+            "克孜勒苏": 8,
+            "喀什": 9,
+            "和田": 10,
+            "伊犁": 11,
+            "塔城": 12,
+            "阿勒泰": 13,
+            "石河子": 14,
+            "阿拉尔": 15,
+            "图木舒克": 16,
+            "五家渠": 17,
+            "合肥": 0,
+            "芜湖": 1,
+            "蚌埠": 2,
+            "淮南": 3,
+            "马鞍山": 4,
+            "淮北": 5,
+            "铜陵": 6,
+            "安庆": 7,
+            "黄山": 8,
+            "滁州": 9,
+            "阜阳": 10,
+            "宿州": 11,
+            "巢湖": 12,
+            "六安": 13,
+            "毫州": 14,
+            "池州": 15,
+            "宣城": 16,
+            "杭州": 0,
+            "湖州": 1,
+            "宁波": 2,
+            "温州": 3,
+            "嘉兴": 4,
+            "绍兴": 5,
+            "金华": 6,
+            "衢州": 7,
+            "舟山": 8,
+            "台州": 9,
+            "丽水": 10,
+            "福州": 0,
+            "厦门": 1,
+            "莆田": 2,
+            "三明": 3,
+            "泉州": 4,
+            "漳州": 5,
+            "南平": 6,
+            "龙岩": 7,
+            "宁德": 8,
+            "台北": 0,
+            "高雄": 1,
+            "基隆": 2,
+            "台中": 3,
+            "台南": 4,
+            "新竹": 5,
+            "嘉义": 6,
+            "香港": 0,
+            "澳门": 0,
+            "其它": 0
+        },
+        "_objKeys": [],
+        "_objDatum": []
+    },
+    "aesUtils": {
+        "jofb": {
+            "description": "Output Feedback",
+            "name": "ofb",
+            "_lastPrecipher": {
+                "0": 40,
+                "1": 150,
+                "2": 94,
+                "3": 50,
+                "4": 92,
+                "5": 97,
+                "6": 153,
+                "7": 248,
+                "8": 125,
+                "9": 29,
+                "10": 231,
+                "11": 214,
+                "12": 109,
+                "13": 196,
+                "14": 54,
+                "15": 210
+            },
+            "_lastPrecipherIndex": 12,
+            "_aes": {
+                "_Ke": [
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ],
+                    [
+                        1491231275,
+                        230446419,
+                        1827826302,
+                        513227587
+                    ],
+                    [
+                        -771721127,
+                        -541315830,
+                        -1286715532,
+                        -1378255817
+                    ],
+                    [
+                        -485432628,
+                        1017958342,
+                        -1880979278,
+                        574354565
+                    ],
+                    [
+                        162493791,
+                        889436825,
+                        -1159646677,
+                        -1730492754
+                    ],
+                    [
+                        1310429465,
+                        2065181568,
+                        -1040639573,
+                        1495523077
+                    ],
+                    [
+                        1216740050,
+                        865980754,
+                        -228275975,
+                        -1421404164
+                    ],
+                    [
+                        -1468708176,
+                        -1679254558,
+                        1770803995,
+                        -1026865945
+                    ],
+                    [
+                        930012821,
+                        -1400486537,
+                        -989194644,
+                        130110091
+                    ],
+                    [
+                        1416553296,
+                        -118970841,
+                        1038266443,
+                        975430336
+                    ],
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ]
+                ],
+                "_Kd": [
+                    [
+                        1156995536,
+                        -1138819081,
+                        -2114170948,
+                        -1142968964
+                    ],
+                    [
+                        1731909901,
+                        -837768730,
+                        -2050277334,
+                        -1109191818
+                    ],
+                    [
+                        -1906949239,
+                        -1456836373,
+                        1272703436,
+                        942166876
+                    ],
+                    [
+                        -1472854851,
+                        662451042,
+                        -487483097,
+                        1945352848
+                    ],
+                    [
+                        -1146038218,
+                        -1890961441,
+                        -980571579,
+                        -1862130761
+                    ],
+                    [
+                        -629955376,
+                        888860649,
+                        1254595994,
+                        1418693106
+                    ],
+                    [
+                        896354974,
+                        -292992199,
+                        2117956211,
+                        508040296
+                    ],
+                    [
+                        1977472416,
+                        -605814361,
+                        -1867237046,
+                        1618306587
+                    ],
+                    [
+                        -643461631,
+                        -1371941881,
+                        1263548653,
+                        -255762607
+                    ],
+                    [
+                        -170249490,
+                        2006735366,
+                        -446042902,
+                        -1148098628
+                    ],
+                    [
+                        338904427,
+                        1432237944,
+                        1632517933,
+                        1919242557
+                    ]
+                ]
+            }
+        }
+    }
+}
