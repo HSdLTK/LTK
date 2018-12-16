@@ -1,10 +1,6 @@
-# LTK
+# config about sanguosha
 some configs may be useful.
-# How to View
-click `RAW` at the file
 
-open
-https://countwordsfree.com/jsonviewer
-and view
+# how to follow the news 
 
-Enjoy~
+todo 
